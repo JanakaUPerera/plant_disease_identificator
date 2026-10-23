@@ -1,3 +1,9 @@
 /data/
 /__pycache__/
 README.md
+
+# audit outputs: images (licence) and rebuildable caches
+audit_outputs/contact_sheets/
+audit_outputs/duplicate_pairs/
+audit_outputs/hash_cache.csv
+audit_outputs/image_index.csv

@@ -1,0 +1,11 @@
+comparison,images_a,images_b,pairs,exact_pairs,label_conflict_pairs,affected_images_a,affected_pct_a,affected_images_b,affected_pct_b
+PlantDoc train vs PlantDoc test (split leakage),2336,236,15,14,10,15,0.64,14,5.93
+PlantWild v2 vs PlantDoc (external-test independence),2715,2572,244,178,55,220,8.1,231,8.98
+PlantWild v1 vs PlantDoc (external-test independence),7678,2572,416,282,109,376,4.9,353,13.72
+PlantVillage vs PlantDoc,49221,2572,0,0,0,0,0.0,0,0.0
+PlantVillage vs PlantWild v2,49221,2715,30,5,2,30,0.06,30,1.1
+PlantVillage vs PlantWild v1,49221,7678,48,6,3,48,0.1,48,0.63
+PlantWild v1 vs PlantWild v2 (release overlap),7678,2715,2949,2839,222,2793,36.38,2645,97.42
+Within PlantDoc,2572,,72,47,35,138,5.37,,
+Within PlantWild v2,2715,,83,50,46,161,5.93,,
+Within PlantWild v1,7678,,353,224,236,593,7.72,,

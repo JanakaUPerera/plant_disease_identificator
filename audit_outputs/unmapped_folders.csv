@@ -1,0 +1,152 @@
+dataset,folder,n_images,mapped_in_excluded_tier,closest_canonical_class
+plantvillage,Grape___Esca_(Black_Measles),1383,False,grape_black_rot
+plantvillage,Peach___Bacterial_spot,2297,False,pepper_bacterial_spot
+plantvillage,Tomato___Target_Spot,1404,False,tomato_bacterial_spot
+plantwild_v1,apple mosaic virus,181,False,tomato_mosaic_virus
+plantwild_v1,banana leaf,243,False,corn_gray_leaf_spot
+plantwild_v1,banana panama disease,216,False,corn_gray_leaf_spot
+plantwild_v1,basil downy mildew,86,False,squash_powdery_mildew
+plantwild_v1,basil leaf,589,False,tomato_leaf_mold
+plantwild_v1,bean halo blight,115,False,soybean_healthy
+plantwild_v1,bean leaf,258,False,soybean_healthy
+plantwild_v1,bean mosaic virus,125,False,tomato_mosaic_virus
+plantwild_v1,bean rust,165,False,soybean_healthy
+plantwild_v1,blueberry rust,117,False,blueberry_healthy
+plantwild_v1,broccoli downy mildew,65,False,cherry_powdery_mildew
+plantwild_v1,broccoli leaf,269,False,tomato_leaf_mold
+plantwild_v1,cabbage alternaria leaf spot,128,False,corn_gray_leaf_spot
+plantwild_v1,cabbage leaf,464,False,grape_leaf_blight
+plantwild_v1,carrot cavity spot,74,False,corn_gray_leaf_spot
+plantwild_v1,cauliflower alternaria leaf spot,98,False,corn_gray_leaf_spot
+plantwild_v1,cauliflower leaf,195,False,tomato_yellow_leaf_curl
+plantwild_v1,celery anthracnose,44,False,cherry_healthy
+plantwild_v1,celery early blight,55,False,tomato_early_blight
+plantwild_v1,celery leaf,212,False,cherry_healthy
+plantwild_v1,cherry leaf spot,230,False,corn_gray_leaf_spot
+plantwild_v1,citrus canker,535,False,citrus_greening
+plantwild_v1,coffee leaf,138,False,corn_gray_leaf_spot
+plantwild_v1,coffee leaf rust,190,False,corn_gray_leaf_spot
+plantwild_v1,corn smut,293,False,corn_common_rust
+plantwild_v1,cucumber angular leaf spot,251,False,corn_gray_leaf_spot
+plantwild_v1,cucumber bacterial wilt,143,False,pepper_bacterial_spot
+plantwild_v1,cucumber leaf,348,False,blueberry_healthy
+plantwild_v1,cucumber powdery mildew,236,False,cherry_powdery_mildew
+plantwild_v1,eggplant cercospora leaf spot,88,False,tomato_septoria_leaf_spot
+plantwild_v1,eggplant leaf,240,False,grape_leaf_blight
+plantwild_v1,garlic leaf,228,False,grape_leaf_blight
+plantwild_v1,garlic leaf blight,147,False,grape_leaf_blight
+plantwild_v1,garlic rust,160,False,grape_black_rot
+plantwild_v1,ginger leaf,177,False,grape_leaf_blight
+plantwild_v1,ginger leaf spot,87,False,corn_gray_leaf_spot
+plantwild_v1,ginger sheath blight,87,False,grape_leaf_blight
+plantwild_v1,grape downy mildew,395,False,squash_powdery_mildew
+plantwild_v1,grapevine leafroll disease,138,False,grape_leaf_blight
+plantwild_v1,lettuce downy mildew,118,False,cherry_powdery_mildew
+plantwild_v1,lettuce leaf,244,False,tomato_leaf_mold
+plantwild_v1,lettuce mosaic virus,100,False,tomato_mosaic_virus
+plantwild_v1,maple leaf,316,False,apple_healthy
+plantwild_v1,maple tar spot,139,False,apple_cedar_rust
+plantwild_v1,peach leaf curl,235,False,peach_healthy
+plantwild_v1,plum leaf,325,False,tomato_leaf_mold
+plantwild_v1,plum pocket disease,76,False,apple_scab
+plantwild_v1,rice blast,148,False,grape_black_rot
+plantwild_v1,rice leaf,252,False,grape_leaf_blight
+plantwild_v1,rice sheath blight,250,False,grape_leaf_blight
+plantwild_v1,squash leaf,410,False,squash_powdery_mildew
+plantwild_v1,strawberry anthracnose,98,False,strawberry_healthy
+plantwild_v1,tobacco leaf,71,False,tomato_leaf_mold
+plantwild_v1,tobacco mosaic virus,91,False,tomato_mosaic_virus
+plantwild_v1,zucchini yellow mosaic virus,181,False,tomato_mosaic_virus
+plantwild_v2,apple mosaic virus,89,False,tomato_mosaic_virus
+plantwild_v2,banana anthracnose,71,False,soybean_healthy
+plantwild_v2,banana black leaf streak,167,False,grape_black_rot
+plantwild_v2,banana bunchy top,157,False,soybean_healthy
+plantwild_v2,banana cigar end rot,60,False,apple_cedar_rust
+plantwild_v2,banana cordana leaf spot,55,False,corn_gray_leaf_spot
+plantwild_v2,banana panama disease,63,False,corn_gray_leaf_spot
+plantwild_v2,basil downy mildew,63,False,squash_powdery_mildew
+plantwild_v2,bean halo blight,56,False,soybean_healthy
+plantwild_v2,bean mosaic virus,58,False,tomato_mosaic_virus
+plantwild_v2,bean rust,115,False,soybean_healthy
+plantwild_v2,bell pepper blossom end rot,112,False,pepper_bacterial_spot
+plantwild_v2,bell pepper frogeye leaf spot,31,False,corn_gray_leaf_spot
+plantwild_v2,bell pepper powdery mildew,28,False,cherry_powdery_mildew
+plantwild_v2,blueberry anthracnose,42,False,blueberry_healthy
+plantwild_v2,blueberry botrytis blight,36,False,blueberry_healthy
+plantwild_v2,blueberry mummy berry,47,False,blueberry_healthy
+plantwild_v2,blueberry rust,44,False,blueberry_healthy
+plantwild_v2,blueberry scorch,43,False,blueberry_healthy
+plantwild_v2,broccoli alternaria leaf spot,65,False,corn_gray_leaf_spot
+plantwild_v2,broccoli downy mildew,29,False,cherry_powdery_mildew
+plantwild_v2,broccoli ring spot,16,False,corn_gray_leaf_spot
+plantwild_v2,cabbage alternaria leaf spot,63,False,corn_gray_leaf_spot
+plantwild_v2,cabbage black rot,131,False,grape_black_rot
+plantwild_v2,cabbage downy mildew,84,False,cherry_powdery_mildew
+plantwild_v2,carrot alternaria leaf blight,60,False,corn_northern_leaf_blight
+plantwild_v2,carrot cavity spot,72,False,corn_gray_leaf_spot
+plantwild_v2,carrot cercospora leaf blight,19,False,grape_leaf_blight
+plantwild_v2,cauliflower alternaria leaf spot,54,False,corn_gray_leaf_spot
+plantwild_v2,cauliflower bacterial soft rot,36,False,pepper_bacterial_spot
+plantwild_v2,celery anthracnose,29,False,cherry_healthy
+plantwild_v2,celery early blight,36,False,tomato_early_blight
+plantwild_v2,cherry leaf spot,107,False,corn_gray_leaf_spot
+plantwild_v2,citrus canker,390,False,citrus_greening
+plantwild_v2,coffee berry blotch,118,False,strawberry_leaf_scorch
+plantwild_v2,coffee black rot,7,False,grape_black_rot
+plantwild_v2,coffee brown eye spot,20,False,corn_gray_leaf_spot
+plantwild_v2,coffee leaf rust,159,False,corn_gray_leaf_spot
+plantwild_v2,corn smut,202,False,corn_common_rust
+plantwild_v2,cucumber angular leaf spot,182,False,corn_gray_leaf_spot
+plantwild_v2,cucumber bacterial wilt,108,False,pepper_bacterial_spot
+plantwild_v2,cucumber powdery mildew,189,False,cherry_powdery_mildew
+plantwild_v2,eggplant cercospora leaf spot,60,False,tomato_septoria_leaf_spot
+plantwild_v2,eggplant phomopsis fruit rot,46,False,grape_black_rot
+plantwild_v2,eggplant phytophthora blight,33,False,potato_late_blight
+plantwild_v2,garlic leaf blight,92,False,grape_leaf_blight
+plantwild_v2,garlic rust,106,False,grape_black_rot
+plantwild_v2,ginger leaf spot,25,False,corn_gray_leaf_spot
+plantwild_v2,ginger sheath blight,68,False,grape_leaf_blight
+plantwild_v2,grape downy mildew,281,False,squash_powdery_mildew
+plantwild_v2,grapevine leafroll disease,71,False,grape_leaf_blight
+plantwild_v2,lettuce downy mildew,84,False,cherry_powdery_mildew
+plantwild_v2,lettuce mosaic virus,39,False,tomato_mosaic_virus
+plantwild_v2,maple tar spot,114,False,apple_cedar_rust
+plantwild_v2,peach anthracnose,13,False,peach_healthy
+plantwild_v2,peach brown rot,173,False,grape_black_rot
+plantwild_v2,peach leaf curl,182,False,peach_healthy
+plantwild_v2,peach rust,8,False,peach_healthy
+plantwild_v2,peach scab,78,False,peach_healthy
+plantwild_v2,plum bacterial spot,16,False,tomato_bacterial_spot
+plantwild_v2,plum brown rot,81,False,apple_black_rot
+plantwild_v2,plum pocket disease,57,False,apple_scab
+plantwild_v2,plum pox virus,33,False,apple_cedar_rust
+plantwild_v2,plum rust,34,False,apple_cedar_rust
+plantwild_v2,raspberry fire blight,34,False,grape_leaf_blight
+plantwild_v2,raspberry gray mold,40,False,raspberry_healthy
+plantwild_v2,raspberry leaf spot,19,False,strawberry_leaf_scorch
+plantwild_v2,raspberry yellow rust,37,False,raspberry_healthy
+plantwild_v2,rice blast,83,False,grape_black_rot
+plantwild_v2,rice sheath blight,76,False,grape_leaf_blight
+plantwild_v2,soybean bacterial blight,91,False,tomato_bacterial_spot
+plantwild_v2,soybean brown spot,71,False,soybean_healthy
+plantwild_v2,soybean downy mildew,153,False,squash_powdery_mildew
+plantwild_v2,soybean frog eye leaf spot,238,False,corn_gray_leaf_spot
+plantwild_v2,soybean mosaic,117,False,soybean_healthy
+plantwild_v2,soybean rust,118,False,soybean_healthy
+plantwild_v2,strawberry anthracnose,58,False,strawberry_healthy
+plantwild_v2,tobacco blue mold,60,False,tomato_leaf_mold
+plantwild_v2,tobacco brown spot,66,False,tomato_bacterial_spot
+plantwild_v2,tobacco frogeye leaf spot,28,False,corn_gray_leaf_spot
+plantwild_v2,tobacco mosaic virus,41,False,tomato_mosaic_virus
+plantwild_v2,wheat bacterial leaf streak (black chaff),117,False,tomato_bacterial_spot
+plantwild_v2,wheat head scab,319,False,apple_scab
+plantwild_v2,wheat leaf rust,132,False,apple_cedar_rust
+plantwild_v2,wheat loose smut,215,False,tomato_leaf_mold
+plantwild_v2,wheat powdery mildew,271,False,cherry_powdery_mildew
+plantwild_v2,wheat septoria blotch,232,False,tomato_septoria_leaf_spot
+plantwild_v2,wheat stem rust,148,False,tomato_mosaic_virus
+plantwild_v2,wheat stripe rust,358,False,tomato_mosaic_virus
+plantwild_v2,zucchini bacterial wilt,81,False,tomato_bacterial_spot
+plantwild_v2,zucchini downy mildew,45,False,squash_powdery_mildew
+plantwild_v2,zucchini powdery mildew,223,False,squash_powdery_mildew
+plantwild_v2,zucchini yellow mosaic virus,95,False,tomato_mosaic_virus

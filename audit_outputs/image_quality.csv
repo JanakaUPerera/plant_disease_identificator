@@ -1,0 +1,5 @@
+dataset,images,unreadable,min_side_lt_100px,min_side_lt_224px,greyscale_or_palette,median_width,median_height
+PlantDoc,2572,0,3,111,1,800.0,667.5
+PlantVillage,49221,0,0,0,0,256.0,256.0
+PlantWild v1,7678,0,45,595,0,660.0,514.0
+PlantWild v2,2715,0,7,232,0,640.0,500.0

@@ -1,0 +1,347 @@
+{
+  "_readme": [
+    "Maps each canonical class to the exact folder name used by each dataset.",
+    "PlantVillage = raw/color folder names, PlantDoc = train/ and test/ folder names, PlantWild = folder names shared by v1 images/ and v2; healthy '<crop> leaf' folders exist only in v1.",
+    "tier 'core'      = present in all three datasets -> proposed label space.",
+    "tier 'candidate' = excluded from the proposed label space (see 'reason'); counts are still reported.",
+    "approximate=true = label names differ between datasets; inspect the contact sheets before accepting the mapping.",
+    "Set a folder to null when the class does not exist in that dataset. A list gives aliases (e.g. PlantWild v1 and v2 names).",
+    "Folder names are matched case-insensitively, ignoring underscores, commas and repeated spaces.",
+    "Every PlantVillage and PlantDoc folder is mapped; unmapped PlantWild folders are crops or diseases outside the label space."
+  ],
+  "classes": [
+    {
+      "id": "apple_scab",
+      "crop": "apple",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Apple___Apple_scab",
+      "plantdoc": "Apple Scab Leaf",
+      "plantwild": "apple scab"
+    },
+    {
+      "id": "apple_cedar_rust",
+      "crop": "apple",
+      "tier": "core",
+      "approximate": true,
+      "plantvillage": "Apple___Cedar_apple_rust",
+      "plantdoc": "Apple rust leaf",
+      "plantwild": "apple rust"
+    },
+    {
+      "id": "apple_healthy",
+      "crop": "apple",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Apple___healthy",
+      "plantdoc": "Apple leaf",
+      "plantwild": "apple leaf"
+    },
+    {
+      "id": "pepper_bacterial_spot",
+      "crop": "bell_pepper",
+      "tier": "core",
+      "approximate": true,
+      "plantvillage": "Pepper,_bell___Bacterial_spot",
+      "plantdoc": "Bell_pepper leaf spot",
+      "plantwild": [
+        "bell pepper leaf spot",
+        "bell pepper bacterial spot"
+      ]
+    },
+    {
+      "id": "pepper_healthy",
+      "crop": "bell_pepper",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Pepper,_bell___healthy",
+      "plantdoc": "Bell_pepper leaf",
+      "plantwild": "bell pepper leaf"
+    },
+    {
+      "id": "corn_gray_leaf_spot",
+      "crop": "corn",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+      "plantdoc": "Corn Gray leaf spot",
+      "plantwild": "corn gray leaf spot"
+    },
+    {
+      "id": "corn_northern_leaf_blight",
+      "crop": "corn",
+      "tier": "core",
+      "approximate": true,
+      "plantvillage": "Corn_(maize)___Northern_Leaf_Blight",
+      "plantdoc": "Corn leaf blight",
+      "plantwild": "corn northern leaf blight"
+    },
+    {
+      "id": "corn_common_rust",
+      "crop": "corn",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Corn_(maize)___Common_rust_",
+      "plantdoc": "Corn rust leaf",
+      "plantwild": "corn rust"
+    },
+    {
+      "id": "grape_black_rot",
+      "crop": "grape",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Grape___Black_rot",
+      "plantdoc": "grape leaf black rot",
+      "plantwild": "grape black rot"
+    },
+    {
+      "id": "grape_healthy",
+      "crop": "grape",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Grape___healthy",
+      "plantdoc": "grape leaf",
+      "plantwild": "grape leaf"
+    },
+    {
+      "id": "potato_early_blight",
+      "crop": "potato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Potato___Early_blight",
+      "plantdoc": "Potato leaf early blight",
+      "plantwild": "potato early blight"
+    },
+    {
+      "id": "potato_late_blight",
+      "crop": "potato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Potato___Late_blight",
+      "plantdoc": "Potato leaf late blight",
+      "plantwild": "potato late blight"
+    },
+    {
+      "id": "tomato_bacterial_spot",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___Bacterial_spot",
+      "plantdoc": "Tomato leaf bacterial spot",
+      "plantwild": "tomato bacterial leaf spot"
+    },
+    {
+      "id": "tomato_early_blight",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___Early_blight",
+      "plantdoc": "Tomato Early blight leaf",
+      "plantwild": "tomato early blight"
+    },
+    {
+      "id": "tomato_late_blight",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___Late_blight",
+      "plantdoc": "Tomato leaf late blight",
+      "plantwild": "tomato late blight"
+    },
+    {
+      "id": "tomato_leaf_mold",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___Leaf_Mold",
+      "plantdoc": "Tomato mold leaf",
+      "plantwild": "tomato leaf mold"
+    },
+    {
+      "id": "tomato_septoria_leaf_spot",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___Septoria_leaf_spot",
+      "plantdoc": "Tomato Septoria leaf spot",
+      "plantwild": "tomato septoria leaf spot"
+    },
+    {
+      "id": "tomato_mosaic_virus",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___Tomato_mosaic_virus",
+      "plantdoc": "Tomato leaf mosaic virus",
+      "plantwild": "tomato mosaic virus"
+    },
+    {
+      "id": "tomato_yellow_leaf_curl",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "plantdoc": "Tomato leaf yellow virus",
+      "plantwild": "tomato yellow leaf curl virus"
+    },
+    {
+      "id": "tomato_healthy",
+      "crop": "tomato",
+      "tier": "core",
+      "approximate": false,
+      "plantvillage": "Tomato___healthy",
+      "plantdoc": "Tomato leaf",
+      "plantwild": "tomato leaf"
+    },
+    {
+      "id": "apple_black_rot",
+      "crop": "apple",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Apple___Black_rot",
+      "plantdoc": null,
+      "plantwild": "apple black rot",
+      "reason": "missing from PlantDoc, so no in-the-wild validation images"
+    },
+    {
+      "id": "corn_healthy",
+      "crop": "corn",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Corn_(maize)___healthy",
+      "plantdoc": null,
+      "plantwild": "corn leaf",
+      "reason": "missing from PlantDoc, so no in-the-wild validation images"
+    },
+    {
+      "id": "potato_healthy",
+      "crop": "potato",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Potato___healthy",
+      "plantdoc": null,
+      "plantwild": "potato leaf",
+      "reason": "missing from PlantDoc, so no in-the-wild validation images"
+    },
+    {
+      "id": "cherry_powdery_mildew",
+      "crop": "cherry",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Cherry_(including_sour)___Powdery_mildew",
+      "plantdoc": null,
+      "plantwild": "cherry powdery mildew",
+      "reason": "missing from PlantDoc, so no in-the-wild validation images"
+    },
+    {
+      "id": "strawberry_leaf_scorch",
+      "crop": "strawberry",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Strawberry___Leaf_scorch",
+      "plantdoc": null,
+      "plantwild": "strawberry leaf scorch",
+      "reason": "missing from PlantDoc, so no in-the-wild validation images"
+    },
+    {
+      "id": "grape_leaf_blight",
+      "crop": "grape",
+      "tier": "candidate",
+      "approximate": true,
+      "plantvillage": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+      "plantdoc": null,
+      "plantwild": "grape leaf spot",
+      "reason": "missing from PlantDoc, so no in-the-wild validation images"
+    },
+    {
+      "id": "citrus_greening",
+      "crop": "citrus",
+      "tier": "candidate",
+      "approximate": true,
+      "plantvillage": "Orange___Haunglongbing_(Citrus_greening)",
+      "plantdoc": null,
+      "plantwild": "citrus greening disease",
+      "reason": "missing from PlantDoc, so no in-the-wild validation images"
+    },
+    {
+      "id": "tomato_spider_mites",
+      "crop": "tomato",
+      "tier": "candidate",
+      "approximate": true,
+      "plantvillage": "Tomato___Spider_mites Two-spotted_spider_mite",
+      "plantdoc": "Tomato two spotted spider mites leaf",
+      "plantwild": null,
+      "reason": "only 2 PlantDoc images (train only, none in test) and missing from PlantWild"
+    },
+    {
+      "id": "cherry_healthy",
+      "crop": "cherry",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Cherry_(including_sour)___healthy",
+      "plantdoc": "Cherry leaf",
+      "plantwild": "cherry leaf",
+      "reason": "only cherry class in PlantDoc: crop identity would give the label away"
+    },
+    {
+      "id": "strawberry_healthy",
+      "crop": "strawberry",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Strawberry___healthy",
+      "plantdoc": "Strawberry leaf",
+      "plantwild": "strawberry leaf",
+      "reason": "only strawberry class in PlantDoc: crop identity would give the label away"
+    },
+    {
+      "id": "peach_healthy",
+      "crop": "peach",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Peach___healthy",
+      "plantdoc": "Peach leaf",
+      "plantwild": "peach leaf",
+      "reason": "only peach class in PlantDoc: crop identity would give the label away"
+    },
+    {
+      "id": "blueberry_healthy",
+      "crop": "blueberry",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Blueberry___healthy",
+      "plantdoc": "Blueberry leaf",
+      "plantwild": "blueberry leaf",
+      "reason": "only blueberry class in PlantVillage and PlantDoc: crop identity would give the label away"
+    },
+    {
+      "id": "raspberry_healthy",
+      "crop": "raspberry",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Raspberry___healthy",
+      "plantdoc": "Raspberry leaf",
+      "plantwild": "raspberry leaf",
+      "reason": "only raspberry class in PlantVillage and PlantDoc: crop identity would give the label away"
+    },
+    {
+      "id": "soybean_healthy",
+      "crop": "soybean",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Soybean___healthy",
+      "plantdoc": "Soyabean leaf",
+      "plantwild": "soybean leaf",
+      "reason": "only soybean class in PlantVillage and PlantDoc: crop identity would give the label away"
+    },
+    {
+      "id": "squash_powdery_mildew",
+      "crop": "squash",
+      "tier": "candidate",
+      "approximate": false,
+      "plantvillage": "Squash___Powdery_mildew",
+      "plantdoc": "Squash Powdery mildew leaf",
+      "plantwild": "squash powdery mildew",
+      "reason": "only squash class in PlantVillage and PlantDoc: crop identity would give the label away"
+    }
+  ]
+}
