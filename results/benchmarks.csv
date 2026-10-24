@@ -1,0 +1,5 @@
+benchmark,split,accuracy,macro_f1_20,macro_f1_16_disease
+always majority,val_lab,0.448,0.209,0.166
+always majority,val_wild,0.259,0.146,0.124
+random within crop,val_lab,0.253,0.284,0.265
+random within crop,val_wild,0.293,0.295,0.285
