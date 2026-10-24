@@ -1,5 +1,5 @@
-/data/
-/__pycache__/
+data/
+__pycache__/
 README.md
 
 # audit outputs: images (licence) and rebuildable caches
@@ -10,3 +10,6 @@ audit_outputs/image_index.csv
 
 # review outputs images (licence)
 review/sheets/
+
+# cache images (licence)
+cache_256/
