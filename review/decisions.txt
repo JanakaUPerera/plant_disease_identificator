@@ -1,0 +1,141 @@
+# One line per sheet. Write the image numbers to exclude, each group followed by its code.
+# Codes: symptoms (healthy classes), no_symptoms (disease classes), not_leaf, wrong_crop (any class).
+# 'none' = sheet reviewed, nothing excluded. Empty = not reviewed yet. Unsure = keep.
+# Example:  S003: 4 18 symptoms, 23 not_leaf
+
+S001: 1 2 10 16 17 11 19 20 21 22 26 27 28 29 30 31 37 40 not_leaf, 3 4 5 6 7 8 12 13 14 15 32 38 wrong_crop
+S002: 4 7 8 10 13 14 16 17 21 27 30 31 36 38 39 40 not_leaf, 2 6 11 12 15 19 20 23 29 32 33 37 wrong_crop, 9 34 symptoms
+S003: 2 4 10 15 19 20 21 22 23 27 28 29 32 35 38 40 not_leaf, 1 3 5 6 7 8 9 12 13 16 17 26 30 wrong_crop, 31 symptoms
+S004: 2 3 4 5 6 11 12 13 22 26 27 28 29 30 31 32 34 35 36 37 not_leaf, 1 8 10 15 16 17 18 19 21 23 24 25 33 38 39 wrong_crop, 20 symptoms
+S005: 4 10 12 14 16 17 22 28 32 39 not_leaf, 1 2 3 5 7 9 13 19 21 23 24 26 29 33 34 35 37 38 40 wrong_crop, 6 8 18 27 36 symptoms 
+S006: 5 7 10 11 12 13 14 15 18 19 28 32 33 34 not_leaf, 1 2 3 4 6 8 16 20 21 22 23 35 36 38 39 wrong_crop
+S007: 1 2 3 4 6 8 9 12 14 32 37 not_leaf, 11 15 18 19 21 22 24 25 28 29 30 31 33 34 35 36 38 39 40 wrong_crop
+S008: 12 15 18 20 21 22 25 26 29 31 36 40 not_leaf, 1 3 4 5 6 7 9 wrong_crop
+S009: 5 6 12 14 25 30 31 33 not_leaf, 9 10 17 18 20 24 26 27 29 32 38 39 wrong_crop
+S010: 7 8 10 16 23 25 27 29 32 33 34 36 38 39 40 not_leaf, 1 2 3 17 20 wrong_crop
+S011: 1 3 4 5 6 7 10 12 15 16 20 22 24 29 30 not_leaf, 13 19 23 wrong_crop
+S012: 3 5 6 8 9 10 11 13 15 16 18 17 20 21 22 23 36 40 not_leaf 
+S013: 4 6 12 14 15 16 17 21 22 23 27 30 not_leaf, 10 25 26 wrong_crop
+S014: 11 28 not_leaf
+S015: 12 15 16 19 20 25 31 33 34 35 not_leaf, 1 symptoms
+S016: 2 13 not_leaf
+S017: 3 5 6 8 11 13 14 19 22 24 25 28 29 30 34 35 37 38 40 not_leaf, 17 26 36 wrong_crop
+S018: 1 2 4 8 13 14 16 17 18 19 23 24 25 26 27 28 29 30 31 32 34 35 36 37 39 not_leaf, 40 wrong_crop
+S019: 2 3 4 5 6 7 10 11 12 13 14 15 17 18 19 21 22 29 31 34 35 37 38 39 40 not_leaf
+S020: 1 2 3 5 6 8 9 10 12 18 19 22 24 25 26 30 31 32 36 not_leaf
+S021: 1 8 9 11 12 14 16 19 20 22 24 25 29 30 31 35 not_leaf, 15 27 wrong_crop
+S022: 13 16 17 22 24 29 33 34 not_leaf, 15 27 wrong_crop
+S023: 4 6 11 14 16 19 24 27 not_leaf, 37 symptoms
+S024: 16 40 not_leaf
+S025: 1 2 3 12 17 28 29 37 38 not_leaf
+S026: 1 4 5 6 9 10 12 15 17 19 23 25 26 27 28 31 33 34 35 36 37 38 40 not_leaf
+S027: 1 2 4 6 7 10 12 14 15 18 19 25 26 23 30 33 35 38 40 not_leaf, 8 wrong_crop
+S028: 1 2 4 5 7 8 not_leaf, 10 wrong_crop
+S029: 11 12 13 23 24 25 26 28 32 33 34 38 39 40 not_leaf, 27 symptoms
+S030: 1 2 3 4 5 6 7 8 9 10 19 20 21 22 23 24 25 not_leaf
+S031: 1 3 4 5 6 7 8 9 not_leaf
+S032: 27 not_leaf
+S033: 24 not_leaf
+S034: 39 not_leaf, 40 wrong_crop, 3 5 6 8 10 12 13 14 15 16 25 38 symptoms
+S035: 6 9 12 not_leaf
+S036: 9 40 wrong_crop, 23 symptoms
+S037: 11 22 not_leaf, 5 symptoms
+S038: 5 11 15 18 23 32 34 40 not_leaf
+S039: 17 18 31 32 37 not_leaf
+S040: 3 6 10 11 not_leaf
+S041: 12 not_leaf
+S042: 1 3 4 5 6 8 10 11 13 15 16 19 20 21 22 25 28 32 33 34 35 36 38 not_leaf
+S043: 1 2 3 5 7 11 13 14 15 16 17 19 20 25 28 29 32 33 34 36 38 40 not_leaf
+S044: 1 4 5 6 7 8 10 11 12 14 15 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 39 40 not_leaf
+S045: 1 2 3 4 5 6 7 8 9 10 11 14 16 17 18 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 40 not_leaf
+S046: 1 2 3 4 5 6 10 11 12 13 16 19 23 24 26 28 30 31 32 33 34 35 37 39 40 not_leaf
+S047: 1 3 5 6 8 14 16 17 18 19 20 21 23 27 28 30 31 33 35 36 37 38 40 not_leaf 
+S048: 1 2 3 4 6 7 not_leaf
+S049: 40 not_leaf
+S050: none
+S051: 39 not_leaf
+S052: 9 23 26 28 30 not_leaf
+S053: 32 40 not_leaf
+S054: 1 4 17 34 39 not_leaf
+S055: 5 not_leaf
+S056: 9 37 not_leaf
+S057: 21 29 33 38 not_leaf
+S058: 1 5 6 7 8 14 15 26 27 28 32 not_leaf
+S059: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 not_leaf
+S060: 1 2 3 4 5 6 7 8 9 12 13 14 15 16 19 20 21 22 24 25 26 27 29 30 31 33 36 37 38 40 not_leaf
+S061: 1 2 3 4 6 8 9 10 11 12 14 18 20 21 22 23 24 26 27 28 30 31 32 not_leaf
+S062: 2 8 14 17 26 29 32 37 not_leaf
+S063: 3 6 7 16 not_leaf
+S064: 33 36 not_leaf
+S065: 29 not_leaf
+S066: none
+S067: none
+S068: 33 not_leaf
+S069: none
+S070: 1 5 8 12 21 23 26 28 33 35 38 not_leaf
+S071: 1 3 4 6 7 9 14 18 19 20 21 29 not_leaf
+S072: 3 7 16 not_leaf
+S073: 1 4 5 13 16 21 23 27 30 38 40 not_leaf
+S074: 6 7 15 20 24 32 35 not_leaf
+S075: 2 3 4 7 9 13 16 24 38 not_leaf
+S076: 1 5 11 14 16 not_leaf
+S077: 4 7 19 21 22 26 27 28 30 31 36 40 not_leaf
+S078: 2 3 7 9 11 12 13 14 16 18 34 26 27 30 35 36 39 not_leaf
+S079: 7 8 9 10 13 16 17 18 19 20 22 24 25 26 27 28 29 30 31 32 33 34 35 36 40 not_leaf
+S080: 1 2 3 6 7 8 9 10 11 13 14 16 19 22 23 25 26 27 not_leaf
+S081: 39 not_leaf
+S082: 25 39 not_leaf
+S083: none
+S084: none
+S085: 36 not_leaf
+S086: none
+S087: 15 not_leaf
+S088: 3 17 23 27 not_leaf
+S089: none
+S090: 4 25 not_leaf
+S091: 6 11 18 22 28 31 36 not_leaf
+S092: 39 not_leaf
+S093: 13 not_leaf
+S094: none
+S095: none
+S096: 10 15 not_leaf
+S097: none
+S098: none
+S099: none
+S100: none
+S101: 19 27 not_leaf
+S102: none
+S103: none
+S104: 2 19 not_leaf
+S105: 12 not_leaf
+S106: 10 not_leaf
+S107: none
+S108: 11 36 not_leaf
+S109: 3 23 not_leaf
+S110: 3 12 13 not_leaf
+S111: 17 not_leaf
+S112: none
+S113: none
+S114: none
+S115: none
+S116: none
+S117: none
+S118: 1 3 not_leaf
+S119: 20 23 24 25 35 36 not_leaf
+S120: none
+S121: 1 not_leaf
+S122: 29 not_leaf
+S123: none
+S124: 13 not_leaf
+S125: 3 not_leaf
+S126: 33 not_leaf
+S127: none
+S128: none
+S129: 5 20 not_leaf
+S130: none
+S131: 1 12 17 20 not_leaf
+S132: none
+S133: 10 37 not_leaf
+S134: none
+S135: 5 6 30 not_leaf
+S136: 19 25 not_leaf

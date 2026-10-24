@@ -1,0 +1,1117 @@
+dataset,source_split,rel_path,reason,class_id,split,sheet,number
+PlantWild,v1,apple leaf/1.jpg,not_leaf,apple_healthy,test_wild,S001,1
+PlantWild,v1,apple leaf/10.jpg,not_leaf,apple_healthy,test_wild,S001,2
+PlantWild,v1,apple leaf/100.jpg,wrong_crop,apple_healthy,test_wild,S001,3
+PlantWild,v1,apple leaf/103.jpg,wrong_crop,apple_healthy,test_wild,S001,4
+PlantWild,v1,apple leaf/105.jpg,wrong_crop,apple_healthy,test_wild,S001,5
+PlantWild,v1,apple leaf/106.jpg,wrong_crop,apple_healthy,test_wild,S001,6
+PlantWild,v1,apple leaf/107.jpg,wrong_crop,apple_healthy,test_wild,S001,7
+PlantWild,v1,apple leaf/109.jpg,wrong_crop,apple_healthy,test_wild,S001,8
+PlantWild,v1,apple leaf/110.jpg,not_leaf,apple_healthy,test_wild,S001,10
+PlantWild,v1,apple leaf/111.jpg,not_leaf,apple_healthy,test_wild,S001,11
+PlantWild,v1,apple leaf/112.jpg,wrong_crop,apple_healthy,test_wild,S001,12
+PlantWild,v1,apple leaf/113.jpg,wrong_crop,apple_healthy,test_wild,S001,13
+PlantWild,v1,apple leaf/114.jpg,wrong_crop,apple_healthy,test_wild,S001,14
+PlantWild,v1,apple leaf/115.jpg,wrong_crop,apple_healthy,test_wild,S001,15
+PlantWild,v1,apple leaf/117.jpg,not_leaf,apple_healthy,test_wild,S001,16
+PlantWild,v1,apple leaf/119.jpg,not_leaf,apple_healthy,test_wild,S001,17
+PlantWild,v1,apple leaf/121.jpg,not_leaf,apple_healthy,test_wild,S001,19
+PlantWild,v1,apple leaf/124.jpg,not_leaf,apple_healthy,test_wild,S001,20
+PlantWild,v1,apple leaf/125.jpg,not_leaf,apple_healthy,test_wild,S001,21
+PlantWild,v1,apple leaf/126.jpg,not_leaf,apple_healthy,test_wild,S001,22
+PlantWild,v1,apple leaf/13.jpg,not_leaf,apple_healthy,test_wild,S001,26
+PlantWild,v1,apple leaf/130.jpg,not_leaf,apple_healthy,test_wild,S001,27
+PlantWild,v1,apple leaf/131.jpg,not_leaf,apple_healthy,test_wild,S001,28
+PlantWild,v1,apple leaf/132.jpg,not_leaf,apple_healthy,test_wild,S001,29
+PlantWild,v1,apple leaf/133.jpg,not_leaf,apple_healthy,test_wild,S001,30
+PlantWild,v1,apple leaf/134.jpg,not_leaf,apple_healthy,test_wild,S001,31
+PlantWild,v1,apple leaf/135.jpg,wrong_crop,apple_healthy,test_wild,S001,32
+PlantWild,v1,apple leaf/14.jpg,not_leaf,apple_healthy,test_wild,S001,37
+PlantWild,v1,apple leaf/140.jpg,wrong_crop,apple_healthy,test_wild,S001,38
+PlantWild,v1,apple leaf/142.jpg,not_leaf,apple_healthy,test_wild,S001,40
+PlantWild,v1,apple leaf/144.jpg,wrong_crop,apple_healthy,test_wild,S002,2
+PlantWild,v1,apple leaf/146.jpg,not_leaf,apple_healthy,test_wild,S002,4
+PlantWild,v1,apple leaf/149.jpg,wrong_crop,apple_healthy,test_wild,S002,6
+PlantWild,v1,apple leaf/15.jpg,not_leaf,apple_healthy,test_wild,S002,7
+PlantWild,v1,apple leaf/150.jpg,not_leaf,apple_healthy,test_wild,S002,8
+PlantWild,v1,apple leaf/151.jpg,symptoms,apple_healthy,test_wild,S002,9
+PlantWild,v1,apple leaf/152.jpg,not_leaf,apple_healthy,test_wild,S002,10
+PlantWild,v1,apple leaf/153.jpg,wrong_crop,apple_healthy,test_wild,S002,11
+PlantWild,v1,apple leaf/154.jpg,wrong_crop,apple_healthy,test_wild,S002,12
+PlantWild,v1,apple leaf/157.jpg,not_leaf,apple_healthy,test_wild,S002,13
+PlantWild,v1,apple leaf/158.jpg,not_leaf,apple_healthy,test_wild,S002,14
+PlantWild,v1,apple leaf/159.jpg,wrong_crop,apple_healthy,test_wild,S002,15
+PlantWild,v1,apple leaf/16.jpg,not_leaf,apple_healthy,test_wild,S002,16
+PlantWild,v1,apple leaf/160.jpg,not_leaf,apple_healthy,test_wild,S002,17
+PlantWild,v1,apple leaf/162.jpg,wrong_crop,apple_healthy,test_wild,S002,19
+PlantWild,v1,apple leaf/163.jpg,wrong_crop,apple_healthy,test_wild,S002,20
+PlantWild,v1,apple leaf/164.jpg,not_leaf,apple_healthy,test_wild,S002,21
+PlantWild,v1,apple leaf/166.jpg,wrong_crop,apple_healthy,test_wild,S002,23
+PlantWild,v1,apple leaf/170.jpg,not_leaf,apple_healthy,test_wild,S002,27
+PlantWild,v1,apple leaf/172.jpg,wrong_crop,apple_healthy,test_wild,S002,29
+PlantWild,v1,apple leaf/174.jpg,not_leaf,apple_healthy,test_wild,S002,30
+PlantWild,v1,apple leaf/175.jpg,not_leaf,apple_healthy,test_wild,S002,31
+PlantWild,v1,apple leaf/177.jpg,wrong_crop,apple_healthy,test_wild,S002,32
+PlantWild,v1,apple leaf/178.jpg,wrong_crop,apple_healthy,test_wild,S002,33
+PlantWild,v1,apple leaf/179.jpg,symptoms,apple_healthy,test_wild,S002,34
+PlantWild,v1,apple leaf/180.jpg,not_leaf,apple_healthy,test_wild,S002,36
+PlantWild,v1,apple leaf/181.jpg,wrong_crop,apple_healthy,test_wild,S002,37
+PlantWild,v1,apple leaf/182.jpg,not_leaf,apple_healthy,test_wild,S002,38
+PlantWild,v1,apple leaf/183.jpg,not_leaf,apple_healthy,test_wild,S002,39
+PlantWild,v1,apple leaf/184.jpg,not_leaf,apple_healthy,test_wild,S002,40
+PlantWild,v1,apple leaf/185.jpg,wrong_crop,apple_healthy,test_wild,S003,1
+PlantWild,v1,apple leaf/186.jpg,not_leaf,apple_healthy,test_wild,S003,2
+PlantWild,v1,apple leaf/187.jpg,wrong_crop,apple_healthy,test_wild,S003,3
+PlantWild,v1,apple leaf/188.jpg,not_leaf,apple_healthy,test_wild,S003,4
+PlantWild,v1,apple leaf/189.jpg,wrong_crop,apple_healthy,test_wild,S003,5
+PlantWild,v1,apple leaf/190.jpg,wrong_crop,apple_healthy,test_wild,S003,6
+PlantWild,v1,apple leaf/191.jpg,wrong_crop,apple_healthy,test_wild,S003,7
+PlantWild,v1,apple leaf/192.jpg,wrong_crop,apple_healthy,test_wild,S003,8
+PlantWild,v1,apple leaf/193.jpg,wrong_crop,apple_healthy,test_wild,S003,9
+PlantWild,v1,apple leaf/194.jpg,not_leaf,apple_healthy,test_wild,S003,10
+PlantWild,v1,apple leaf/196.jpg,wrong_crop,apple_healthy,test_wild,S003,12
+PlantWild,v1,apple leaf/198.jpg,wrong_crop,apple_healthy,test_wild,S003,13
+PlantWild,v1,apple leaf/20.jpg,not_leaf,apple_healthy,test_wild,S003,15
+PlantWild,v1,apple leaf/200.jpg,wrong_crop,apple_healthy,test_wild,S003,16
+PlantWild,v1,apple leaf/201.jpg,wrong_crop,apple_healthy,test_wild,S003,17
+PlantWild,v1,apple leaf/204.jpg,not_leaf,apple_healthy,test_wild,S003,19
+PlantWild,v1,apple leaf/205.jpg,not_leaf,apple_healthy,test_wild,S003,20
+PlantWild,v1,apple leaf/206.jpg,not_leaf,apple_healthy,test_wild,S003,21
+PlantWild,v1,apple leaf/207.jpg,not_leaf,apple_healthy,test_wild,S003,22
+PlantWild,v1,apple leaf/208.jpg,not_leaf,apple_healthy,test_wild,S003,23
+PlantWild,v1,apple leaf/210.jpg,wrong_crop,apple_healthy,test_wild,S003,26
+PlantWild,v1,apple leaf/211.jpg,not_leaf,apple_healthy,test_wild,S003,27
+PlantWild,v1,apple leaf/213.jpg,not_leaf,apple_healthy,test_wild,S003,28
+PlantWild,v1,apple leaf/214.jpg,not_leaf,apple_healthy,test_wild,S003,29
+PlantWild,v1,apple leaf/215.jpg,wrong_crop,apple_healthy,test_wild,S003,30
+PlantWild,v1,apple leaf/216.jpg,symptoms,apple_healthy,test_wild,S003,31
+PlantWild,v1,apple leaf/217.jpg,not_leaf,apple_healthy,test_wild,S003,32
+PlantWild,v1,apple leaf/220.jpg,not_leaf,apple_healthy,test_wild,S003,35
+PlantWild,v1,apple leaf/223.jpg,not_leaf,apple_healthy,test_wild,S003,38
+PlantWild,v1,apple leaf/225.jpg,not_leaf,apple_healthy,test_wild,S003,40
+PlantWild,v1,apple leaf/226.jpg,wrong_crop,apple_healthy,test_wild,S004,1
+PlantWild,v1,apple leaf/227.jpg,not_leaf,apple_healthy,test_wild,S004,2
+PlantWild,v1,apple leaf/228.jpg,not_leaf,apple_healthy,test_wild,S004,3
+PlantWild,v1,apple leaf/229.jpg,not_leaf,apple_healthy,test_wild,S004,4
+PlantWild,v1,apple leaf/23.jpg,not_leaf,apple_healthy,test_wild,S004,5
+PlantWild,v1,apple leaf/230.jpg,not_leaf,apple_healthy,test_wild,S004,6
+PlantWild,v1,apple leaf/233.jpg,wrong_crop,apple_healthy,test_wild,S004,8
+PlantWild,v1,apple leaf/237.jpg,wrong_crop,apple_healthy,test_wild,S004,10
+PlantWild,v1,apple leaf/238.jpg,not_leaf,apple_healthy,test_wild,S004,11
+PlantWild,v1,apple leaf/239.jpg,not_leaf,apple_healthy,test_wild,S004,12
+PlantWild,v1,apple leaf/24.jpg,not_leaf,apple_healthy,test_wild,S004,13
+PlantWild,v1,apple leaf/241.jpg,wrong_crop,apple_healthy,test_wild,S004,15
+PlantWild,v1,apple leaf/242.jpg,wrong_crop,apple_healthy,test_wild,S004,16
+PlantWild,v1,apple leaf/243.jpg,wrong_crop,apple_healthy,test_wild,S004,17
+PlantWild,v1,apple leaf/244.jpg,wrong_crop,apple_healthy,test_wild,S004,18
+PlantWild,v1,apple leaf/245.jpg,wrong_crop,apple_healthy,test_wild,S004,19
+PlantWild,v1,apple leaf/247.jpg,symptoms,apple_healthy,test_wild,S004,20
+PlantWild,v1,apple leaf/248.jpg,wrong_crop,apple_healthy,test_wild,S004,21
+PlantWild,v1,apple leaf/25.jpg,not_leaf,apple_healthy,test_wild,S004,22
+PlantWild,v1,apple leaf/250.jpg,wrong_crop,apple_healthy,test_wild,S004,23
+PlantWild,v1,apple leaf/251.jpg,wrong_crop,apple_healthy,test_wild,S004,24
+PlantWild,v1,apple leaf/252.jpg,wrong_crop,apple_healthy,test_wild,S004,25
+PlantWild,v1,apple leaf/256.jpg,not_leaf,apple_healthy,test_wild,S004,26
+PlantWild,v1,apple leaf/257.jpg,not_leaf,apple_healthy,test_wild,S004,27
+PlantWild,v1,apple leaf/258.jpg,not_leaf,apple_healthy,test_wild,S004,28
+PlantWild,v1,apple leaf/26.jpg,not_leaf,apple_healthy,test_wild,S004,29
+PlantWild,v1,apple leaf/260.jpg,not_leaf,apple_healthy,test_wild,S004,30
+PlantWild,v1,apple leaf/261.jpg,not_leaf,apple_healthy,test_wild,S004,31
+PlantWild,v1,apple leaf/262.jpg,not_leaf,apple_healthy,test_wild,S004,32
+PlantWild,v1,apple leaf/263.jpg,wrong_crop,apple_healthy,test_wild,S004,33
+PlantWild,v1,apple leaf/264.jpg,not_leaf,apple_healthy,test_wild,S004,34
+PlantWild,v1,apple leaf/265.jpg,not_leaf,apple_healthy,test_wild,S004,35
+PlantWild,v1,apple leaf/266.jpg,not_leaf,apple_healthy,test_wild,S004,36
+PlantWild,v1,apple leaf/267.jpg,not_leaf,apple_healthy,test_wild,S004,37
+PlantWild,v1,apple leaf/268.jpg,wrong_crop,apple_healthy,test_wild,S004,38
+PlantWild,v1,apple leaf/269.jpg,wrong_crop,apple_healthy,test_wild,S004,39
+PlantWild,v1,apple leaf/270.jpg,wrong_crop,apple_healthy,test_wild,S005,1
+PlantWild,v1,apple leaf/271.jpg,wrong_crop,apple_healthy,test_wild,S005,2
+PlantWild,v1,apple leaf/272.jpg,wrong_crop,apple_healthy,test_wild,S005,3
+PlantWild,v1,apple leaf/273.jpg,not_leaf,apple_healthy,test_wild,S005,4
+PlantWild,v1,apple leaf/274.jpg,wrong_crop,apple_healthy,test_wild,S005,5
+PlantWild,v1,apple leaf/275.jpg,symptoms,apple_healthy,test_wild,S005,6
+PlantWild,v1,apple leaf/276.jpg,wrong_crop,apple_healthy,test_wild,S005,7
+PlantWild,v1,apple leaf/277.jpg,symptoms,apple_healthy,test_wild,S005,8
+PlantWild,v1,apple leaf/278.jpg,wrong_crop,apple_healthy,test_wild,S005,9
+PlantWild,v1,apple leaf/28.jpg,not_leaf,apple_healthy,test_wild,S005,10
+PlantWild,v1,apple leaf/281.jpg,not_leaf,apple_healthy,test_wild,S005,12
+PlantWild,v1,apple leaf/282.jpg,wrong_crop,apple_healthy,test_wild,S005,13
+PlantWild,v1,apple leaf/283.jpg,not_leaf,apple_healthy,test_wild,S005,14
+PlantWild,v1,apple leaf/285.jpg,not_leaf,apple_healthy,test_wild,S005,16
+PlantWild,v1,apple leaf/287.jpg,not_leaf,apple_healthy,test_wild,S005,17
+PlantWild,v1,apple leaf/288.jpg,symptoms,apple_healthy,test_wild,S005,18
+PlantWild,v1,apple leaf/289.jpg,wrong_crop,apple_healthy,test_wild,S005,19
+PlantWild,v1,apple leaf/290.jpg,wrong_crop,apple_healthy,test_wild,S005,21
+PlantWild,v1,apple leaf/291.jpg,not_leaf,apple_healthy,test_wild,S005,22
+PlantWild,v1,apple leaf/292.jpg,wrong_crop,apple_healthy,test_wild,S005,23
+PlantWild,v1,apple leaf/294.jpg,wrong_crop,apple_healthy,test_wild,S005,24
+PlantWild,v1,apple leaf/296.jpg,wrong_crop,apple_healthy,test_wild,S005,26
+PlantWild,v1,apple leaf/297.jpg,symptoms,apple_healthy,test_wild,S005,27
+PlantWild,v1,apple leaf/298.jpg,not_leaf,apple_healthy,test_wild,S005,28
+PlantWild,v1,apple leaf/299.jpg,wrong_crop,apple_healthy,test_wild,S005,29
+PlantWild,v1,apple leaf/300.jpg,not_leaf,apple_healthy,test_wild,S005,32
+PlantWild,v1,apple leaf/301.jpg,wrong_crop,apple_healthy,test_wild,S005,33
+PlantWild,v1,apple leaf/302.jpg,wrong_crop,apple_healthy,test_wild,S005,34
+PlantWild,v1,apple leaf/303.jpg,wrong_crop,apple_healthy,test_wild,S005,35
+PlantWild,v1,apple leaf/305.jpg,symptoms,apple_healthy,test_wild,S005,36
+PlantWild,v1,apple leaf/307.jpg,wrong_crop,apple_healthy,test_wild,S005,37
+PlantWild,v1,apple leaf/308.jpg,wrong_crop,apple_healthy,test_wild,S005,38
+PlantWild,v1,apple leaf/309.jpg,not_leaf,apple_healthy,test_wild,S005,39
+PlantWild,v1,apple leaf/310.jpg,wrong_crop,apple_healthy,test_wild,S005,40
+PlantWild,v1,apple leaf/311.jpg,wrong_crop,apple_healthy,test_wild,S006,1
+PlantWild,v1,apple leaf/312.jpg,wrong_crop,apple_healthy,test_wild,S006,2
+PlantWild,v1,apple leaf/313.jpg,wrong_crop,apple_healthy,test_wild,S006,3
+PlantWild,v1,apple leaf/314.jpg,wrong_crop,apple_healthy,test_wild,S006,4
+PlantWild,v1,apple leaf/315.jpg,not_leaf,apple_healthy,test_wild,S006,5
+PlantWild,v1,apple leaf/316.jpg,wrong_crop,apple_healthy,test_wild,S006,6
+PlantWild,v1,apple leaf/317.jpg,not_leaf,apple_healthy,test_wild,S006,7
+PlantWild,v1,apple leaf/318.jpg,wrong_crop,apple_healthy,test_wild,S006,8
+PlantWild,v1,apple leaf/320.jpg,not_leaf,apple_healthy,test_wild,S006,10
+PlantWild,v1,apple leaf/321.jpg,not_leaf,apple_healthy,test_wild,S006,11
+PlantWild,v1,apple leaf/322.jpg,not_leaf,apple_healthy,test_wild,S006,12
+PlantWild,v1,apple leaf/323.jpg,not_leaf,apple_healthy,test_wild,S006,13
+PlantWild,v1,apple leaf/324.jpg,not_leaf,apple_healthy,test_wild,S006,14
+PlantWild,v1,apple leaf/325.jpg,not_leaf,apple_healthy,test_wild,S006,15
+PlantWild,v1,apple leaf/326.jpg,wrong_crop,apple_healthy,test_wild,S006,16
+PlantWild,v1,apple leaf/332.jpg,not_leaf,apple_healthy,test_wild,S006,18
+PlantWild,v1,apple leaf/333.jpg,not_leaf,apple_healthy,test_wild,S006,19
+PlantWild,v1,apple leaf/334.jpg,wrong_crop,apple_healthy,test_wild,S006,20
+PlantWild,v1,apple leaf/335.jpg,wrong_crop,apple_healthy,test_wild,S006,21
+PlantWild,v1,apple leaf/35.jpg,wrong_crop,apple_healthy,test_wild,S006,22
+PlantWild,v1,apple leaf/36.jpg,wrong_crop,apple_healthy,test_wild,S006,23
+PlantWild,v1,apple leaf/41.jpg,not_leaf,apple_healthy,test_wild,S006,28
+PlantWild,v1,apple leaf/45.jpg,not_leaf,apple_healthy,test_wild,S006,32
+PlantWild,v1,apple leaf/46.jpg,not_leaf,apple_healthy,test_wild,S006,33
+PlantWild,v1,apple leaf/47.jpg,not_leaf,apple_healthy,test_wild,S006,34
+PlantWild,v1,apple leaf/48.jpg,wrong_crop,apple_healthy,test_wild,S006,35
+PlantWild,v1,apple leaf/49.jpg,wrong_crop,apple_healthy,test_wild,S006,36
+PlantWild,v1,apple leaf/50.jpg,wrong_crop,apple_healthy,test_wild,S006,38
+PlantWild,v1,apple leaf/51.jpg,wrong_crop,apple_healthy,test_wild,S006,39
+PlantWild,v1,apple leaf/53.jpg,not_leaf,apple_healthy,test_wild,S007,1
+PlantWild,v1,apple leaf/54.jpg,not_leaf,apple_healthy,test_wild,S007,2
+PlantWild,v1,apple leaf/55.jpg,not_leaf,apple_healthy,test_wild,S007,3
+PlantWild,v1,apple leaf/58.jpg,not_leaf,apple_healthy,test_wild,S007,4
+PlantWild,v1,apple leaf/6.jpg,not_leaf,apple_healthy,test_wild,S007,6
+PlantWild,v1,apple leaf/61.jpg,not_leaf,apple_healthy,test_wild,S007,8
+PlantWild,v1,apple leaf/62.jpg,not_leaf,apple_healthy,test_wild,S007,9
+PlantWild,v1,apple leaf/64.jpg,wrong_crop,apple_healthy,test_wild,S007,11
+PlantWild,v1,apple leaf/65.jpg,not_leaf,apple_healthy,test_wild,S007,12
+PlantWild,v1,apple leaf/67.jpg,not_leaf,apple_healthy,test_wild,S007,14
+PlantWild,v1,apple leaf/68.jpg,wrong_crop,apple_healthy,test_wild,S007,15
+PlantWild,v1,apple leaf/70.jpg,wrong_crop,apple_healthy,test_wild,S007,18
+PlantWild,v1,apple leaf/71.jpg,wrong_crop,apple_healthy,test_wild,S007,19
+PlantWild,v1,apple leaf/74.jpg,wrong_crop,apple_healthy,test_wild,S007,21
+PlantWild,v1,apple leaf/75.jpg,wrong_crop,apple_healthy,test_wild,S007,22
+PlantWild,v1,apple leaf/78.jpg,wrong_crop,apple_healthy,test_wild,S007,24
+PlantWild,v1,apple leaf/79.jpg,wrong_crop,apple_healthy,test_wild,S007,25
+PlantWild,v1,apple leaf/81.jpg,wrong_crop,apple_healthy,test_wild,S007,28
+PlantWild,v1,apple leaf/82.jpg,wrong_crop,apple_healthy,test_wild,S007,29
+PlantWild,v1,apple leaf/83.jpg,wrong_crop,apple_healthy,test_wild,S007,30
+PlantWild,v1,apple leaf/84.jpg,wrong_crop,apple_healthy,test_wild,S007,31
+PlantWild,v1,apple leaf/85.jpg,not_leaf,apple_healthy,test_wild,S007,32
+PlantWild,v1,apple leaf/86.jpg,wrong_crop,apple_healthy,test_wild,S007,33
+PlantWild,v1,apple leaf/87.jpg,wrong_crop,apple_healthy,test_wild,S007,34
+PlantWild,v1,apple leaf/88.jpg,wrong_crop,apple_healthy,test_wild,S007,35
+PlantWild,v1,apple leaf/89.jpg,wrong_crop,apple_healthy,test_wild,S007,36
+PlantWild,v1,apple leaf/9.jpg,not_leaf,apple_healthy,test_wild,S007,37
+PlantWild,v1,apple leaf/90.jpg,wrong_crop,apple_healthy,test_wild,S007,38
+PlantWild,v1,apple leaf/91.jpg,wrong_crop,apple_healthy,test_wild,S007,39
+PlantWild,v1,apple leaf/92.jpg,wrong_crop,apple_healthy,test_wild,S007,40
+PlantWild,v1,apple leaf/93.jpg,wrong_crop,apple_healthy,test_wild,S008,1
+PlantWild,v1,apple leaf/95.jpg,wrong_crop,apple_healthy,test_wild,S008,3
+PlantWild,v1,apple leaf/96.jpg,wrong_crop,apple_healthy,test_wild,S008,4
+PlantWild,v1,apple leaf/97.jpg,wrong_crop,apple_healthy,test_wild,S008,5
+PlantWild,v1,apple leaf/98.jpg,wrong_crop,apple_healthy,test_wild,S008,6
+PlantWild,v1,apple leaf/99.jpg,wrong_crop,apple_healthy,test_wild,S008,7
+PlantWild,v1,apple leaf/google_0001.jpg,wrong_crop,apple_healthy,test_wild,S008,9
+PlantWild,v1,apple leaf/google_0004.jpg,not_leaf,apple_healthy,test_wild,S008,12
+PlantWild,v1,apple leaf/google_0008.jpg,not_leaf,apple_healthy,test_wild,S008,15
+PlantWild,v1,apple leaf/google_0012.jpg,not_leaf,apple_healthy,test_wild,S008,18
+PlantWild,v1,apple leaf/google_0015.jpg,not_leaf,apple_healthy,test_wild,S008,20
+PlantWild,v1,apple leaf/google_0016.jpg,not_leaf,apple_healthy,test_wild,S008,21
+PlantWild,v1,apple leaf/google_0018.jpg,not_leaf,apple_healthy,test_wild,S008,22
+PlantWild,v1,apple leaf/google_0023.jpg,not_leaf,apple_healthy,test_wild,S008,25
+PlantWild,v1,apple leaf/google_0024.jpg,not_leaf,apple_healthy,test_wild,S008,26
+PlantWild,v1,apple leaf/google_0027.jpg,not_leaf,apple_healthy,test_wild,S008,29
+PlantWild,v1,apple leaf/google_0032.jpg,not_leaf,apple_healthy,test_wild,S008,31
+PlantWild,v1,apple leaf/google_0044.jpg,not_leaf,apple_healthy,test_wild,S008,36
+PlantWild,v1,apple leaf/google_0057.jpg,not_leaf,apple_healthy,test_wild,S008,40
+PlantWild,v1,apple leaf/google_0073.jpg,not_leaf,apple_healthy,test_wild,S009,5
+PlantWild,v1,apple leaf/google_0075.jpg,not_leaf,apple_healthy,test_wild,S009,6
+PlantWild,v1,apple leaf/google_0079.jpg,wrong_crop,apple_healthy,test_wild,S009,9
+PlantWild,v1,apple leaf/google_0081.jpg,wrong_crop,apple_healthy,test_wild,S009,10
+PlantWild,v1,apple leaf/google_0094.jpg,not_leaf,apple_healthy,test_wild,S009,12
+PlantWild,v1,apple leaf/google_0112.jpg,not_leaf,apple_healthy,test_wild,S009,14
+PlantWild,v1,apple leaf/google_0121.jpg,wrong_crop,apple_healthy,test_wild,S009,17
+PlantWild,v1,apple leaf/google_0126.jpg,wrong_crop,apple_healthy,test_wild,S009,18
+PlantWild,v1,apple leaf/google_0133.jpg,wrong_crop,apple_healthy,test_wild,S009,20
+PlantWild,v1,apple leaf/google_0143.jpg,wrong_crop,apple_healthy,test_wild,S009,24
+PlantWild,v1,apple leaf/google_0149.jpg,not_leaf,apple_healthy,test_wild,S009,25
+PlantWild,v1,apple leaf/google_0151.jpg,wrong_crop,apple_healthy,test_wild,S009,26
+PlantWild,v1,apple leaf/google_0158.jpg,wrong_crop,apple_healthy,test_wild,S009,27
+PlantWild,v1,apple leaf/google_0173.jpg,wrong_crop,apple_healthy,test_wild,S009,29
+PlantWild,v1,apple leaf/google_0185.jpg,not_leaf,apple_healthy,test_wild,S009,30
+PlantWild,v1,apple leaf/google_0191.jpg,not_leaf,apple_healthy,test_wild,S009,31
+PlantWild,v1,apple leaf/google_0201.jpg,wrong_crop,apple_healthy,test_wild,S009,32
+PlantWild,v1,apple leaf/google_0204.jpg,not_leaf,apple_healthy,test_wild,S009,33
+PlantWild,v1,apple leaf/google_0224.jpg,wrong_crop,apple_healthy,test_wild,S009,38
+PlantWild,v1,apple leaf/google_0237.jpg,wrong_crop,apple_healthy,test_wild,S009,39
+PlantWild,v1,apple leaf/google_0244.jpg,wrong_crop,apple_healthy,test_wild,S010,1
+PlantWild,v1,apple leaf/google_0250.jpg,wrong_crop,apple_healthy,test_wild,S010,2
+PlantWild,v1,apple leaf/google_0259.jpg,wrong_crop,apple_healthy,test_wild,S010,3
+PlantWild,v1,apple leaf/google_0309.jpg,not_leaf,apple_healthy,test_wild,S010,7
+PlantWild,v1,apple leaf/google_0319.jpg,not_leaf,apple_healthy,test_wild,S010,8
+PlantWild,v1,apple leaf/google_0327.jpg,not_leaf,apple_healthy,test_wild,S010,10
+PlantWild,v1,apple leaf/google_0374.jpg,not_leaf,apple_healthy,test_wild,S010,16
+PlantWild,v1,apple leaf/google_0376.jpg,wrong_crop,apple_healthy,test_wild,S010,17
+PlantWild,v1,apple leaf/google_0386.jpg,wrong_crop,apple_healthy,test_wild,S010,20
+PlantWild,v1,apple leaf/google_0396.jpg,not_leaf,apple_healthy,test_wild,S010,23
+PlantWild,v1,apple leaf/google_0405.jpg,not_leaf,apple_healthy,test_wild,S010,25
+PlantWild,v1,apple leaf/google_0422.jpg,not_leaf,apple_healthy,test_wild,S010,27
+PlantWild,v1,apple leaf/google_0425.jpg,not_leaf,apple_healthy,test_wild,S010,29
+PlantWild,v1,apple leaf/google_0431.jpg,not_leaf,apple_healthy,test_wild,S010,32
+PlantWild,v1,apple leaf/google_0437.jpg,not_leaf,apple_healthy,test_wild,S010,33
+PlantWild,v1,apple leaf/google_0446.jpg,not_leaf,apple_healthy,test_wild,S010,34
+PlantWild,v1,apple leaf/google_0466.jpg,not_leaf,apple_healthy,test_wild,S010,36
+PlantWild,v1,apple leaf/google_0479.jpg,not_leaf,apple_healthy,test_wild,S010,38
+PlantWild,v1,apple leaf/google_0480.jpg,not_leaf,apple_healthy,test_wild,S010,39
+PlantWild,v1,apple leaf/google_0481.jpg,not_leaf,apple_healthy,test_wild,S010,40
+PlantWild,v1,apple leaf/google_0493.jpg,not_leaf,apple_healthy,test_wild,S011,1
+PlantWild,v1,apple leaf/google_0497.jpg,not_leaf,apple_healthy,test_wild,S011,3
+PlantWild,v1,apple leaf/google_0498.jpg,not_leaf,apple_healthy,test_wild,S011,4
+PlantWild,v1,apple leaf/google_0503.jpg,not_leaf,apple_healthy,test_wild,S011,5
+PlantWild,v1,apple leaf/google_0505.jpg,not_leaf,apple_healthy,test_wild,S011,6
+PlantWild,v1,apple leaf/google_0506.jpg,not_leaf,apple_healthy,test_wild,S011,7
+PlantWild,v1,apple leaf/google_0518.jpg,not_leaf,apple_healthy,test_wild,S011,10
+PlantWild,v1,apple leaf/google_0522.jpg,not_leaf,apple_healthy,test_wild,S011,12
+PlantWild,v1,apple leaf/google_0527.jpg,wrong_crop,apple_healthy,test_wild,S011,13
+PlantWild,v1,apple leaf/google_0530.jpg,not_leaf,apple_healthy,test_wild,S011,15
+PlantWild,v1,apple leaf/google_0535.jpg,not_leaf,apple_healthy,test_wild,S011,16
+PlantWild,v1,apple leaf/google_0552.jpg,wrong_crop,apple_healthy,test_wild,S011,19
+PlantWild,v1,apple leaf/google_0554.jpg,not_leaf,apple_healthy,test_wild,S011,20
+PlantWild,v1,apple leaf/google_0558.jpg,not_leaf,apple_healthy,test_wild,S011,22
+PlantWild,v1,apple leaf/google_0566.jpg,wrong_crop,apple_healthy,test_wild,S011,23
+PlantWild,v1,apple leaf/google_0570.jpg,not_leaf,apple_healthy,test_wild,S011,24
+PlantWild,v1,apple leaf/google_0582.jpg,not_leaf,apple_healthy,test_wild,S011,29
+PlantWild,v1,apple leaf/google_0585.jpg,not_leaf,apple_healthy,test_wild,S011,30
+PlantWild,v1,grape leaf/101.jpg,not_leaf,grape_healthy,test_wild,S012,3
+PlantWild,v1,grape leaf/103.jpg,not_leaf,grape_healthy,test_wild,S012,5
+PlantWild,v1,grape leaf/104.jpg,not_leaf,grape_healthy,test_wild,S012,6
+PlantWild,v1,grape leaf/106.jpg,not_leaf,grape_healthy,test_wild,S012,8
+PlantWild,v1,grape leaf/107.jpg,not_leaf,grape_healthy,test_wild,S012,9
+PlantWild,v1,grape leaf/108.jpg,not_leaf,grape_healthy,test_wild,S012,10
+PlantWild,v1,grape leaf/109.jpg,not_leaf,grape_healthy,test_wild,S012,11
+PlantWild,v1,grape leaf/110.jpg,not_leaf,grape_healthy,test_wild,S012,13
+PlantWild,v1,grape leaf/112.jpg,not_leaf,grape_healthy,test_wild,S012,15
+PlantWild,v1,grape leaf/113.jpg,not_leaf,grape_healthy,test_wild,S012,16
+PlantWild,v1,grape leaf/114.jpg,not_leaf,grape_healthy,test_wild,S012,17
+PlantWild,v1,grape leaf/117.jpg,not_leaf,grape_healthy,test_wild,S012,18
+PlantWild,v1,grape leaf/122.jpg,not_leaf,grape_healthy,test_wild,S012,20
+PlantWild,v1,grape leaf/123.jpg,not_leaf,grape_healthy,test_wild,S012,21
+PlantWild,v1,grape leaf/124.jpg,not_leaf,grape_healthy,test_wild,S012,22
+PlantWild,v1,grape leaf/127.jpg,not_leaf,grape_healthy,test_wild,S012,23
+PlantWild,v1,grape leaf/139.jpg,not_leaf,grape_healthy,test_wild,S012,36
+PlantWild,v1,grape leaf/142.jpg,not_leaf,grape_healthy,test_wild,S012,40
+PlantWild,v1,grape leaf/146.jpg,not_leaf,grape_healthy,test_wild,S013,4
+PlantWild,v1,grape leaf/148.jpg,not_leaf,grape_healthy,test_wild,S013,6
+PlantWild,v1,grape leaf/151.jpg,wrong_crop,grape_healthy,test_wild,S013,10
+PlantWild,v1,grape leaf/154.jpg,not_leaf,grape_healthy,test_wild,S013,12
+PlantWild,v1,grape leaf/156.jpg,not_leaf,grape_healthy,test_wild,S013,14
+PlantWild,v1,grape leaf/157.jpg,not_leaf,grape_healthy,test_wild,S013,15
+PlantWild,v1,grape leaf/158.jpg,not_leaf,grape_healthy,test_wild,S013,16
+PlantWild,v1,grape leaf/159.jpg,not_leaf,grape_healthy,test_wild,S013,17
+PlantWild,v1,grape leaf/166.jpg,not_leaf,grape_healthy,test_wild,S013,21
+PlantWild,v1,grape leaf/167.jpg,not_leaf,grape_healthy,test_wild,S013,22
+PlantWild,v1,grape leaf/168.jpg,not_leaf,grape_healthy,test_wild,S013,23
+PlantWild,v1,grape leaf/17.jpg,wrong_crop,grape_healthy,test_wild,S013,25
+PlantWild,v1,grape leaf/170.jpg,wrong_crop,grape_healthy,test_wild,S013,26
+PlantWild,v1,grape leaf/171.jpg,not_leaf,grape_healthy,test_wild,S013,27
+PlantWild,v1,grape leaf/174.jpg,not_leaf,grape_healthy,test_wild,S013,30
+PlantWild,v1,grape leaf/34.jpg,not_leaf,grape_healthy,test_wild,S014,11
+PlantWild,v1,grape leaf/5.jpg,not_leaf,grape_healthy,test_wild,S014,28
+PlantWild,v1,grape leaf/63.jpg,symptoms,grape_healthy,test_wild,S015,1
+PlantWild,v1,grape leaf/74.jpg,not_leaf,grape_healthy,test_wild,S015,12
+PlantWild,v1,grape leaf/79.jpg,not_leaf,grape_healthy,test_wild,S015,15
+PlantWild,v1,grape leaf/8.jpg,not_leaf,grape_healthy,test_wild,S015,16
+PlantWild,v1,grape leaf/82.jpg,not_leaf,grape_healthy,test_wild,S015,19
+PlantWild,v1,grape leaf/83.jpg,not_leaf,grape_healthy,test_wild,S015,20
+PlantWild,v1,grape leaf/88.jpg,not_leaf,grape_healthy,test_wild,S015,25
+PlantWild,v1,grape leaf/93.jpg,not_leaf,grape_healthy,test_wild,S015,31
+PlantWild,v1,grape leaf/95.jpg,not_leaf,grape_healthy,test_wild,S015,33
+PlantWild,v1,grape leaf/96.jpg,not_leaf,grape_healthy,test_wild,S015,34
+PlantWild,v1,grape leaf/97.jpg,not_leaf,grape_healthy,test_wild,S015,35
+PlantWild,v1,grape leaf/google_0010.jpg,not_leaf,grape_healthy,test_wild,S016,2
+PlantWild,v1,grape leaf/google_0076.jpg,not_leaf,grape_healthy,test_wild,S016,13
+PlantWild,v1,bell pepper leaf/101.jpg,not_leaf,pepper_healthy,test_wild,S017,3
+PlantWild,v1,bell pepper leaf/108.jpg,not_leaf,pepper_healthy,test_wild,S017,5
+PlantWild,v1,bell pepper leaf/109.jpg,not_leaf,pepper_healthy,test_wild,S017,6
+PlantWild,v1,bell pepper leaf/110.jpg,not_leaf,pepper_healthy,test_wild,S017,8
+PlantWild,v1,bell pepper leaf/125.jpg,not_leaf,pepper_healthy,test_wild,S017,11
+PlantWild,v1,bell pepper leaf/14.jpg,not_leaf,pepper_healthy,test_wild,S017,13
+PlantWild,v1,bell pepper leaf/143.jpg,not_leaf,pepper_healthy,test_wild,S017,14
+PlantWild,v1,bell pepper leaf/153.jpg,wrong_crop,pepper_healthy,test_wild,S017,17
+PlantWild,v1,bell pepper leaf/155.jpg,not_leaf,pepper_healthy,test_wild,S017,19
+PlantWild,v1,bell pepper leaf/158.jpg,not_leaf,pepper_healthy,test_wild,S017,22
+PlantWild,v1,bell pepper leaf/16.jpg,not_leaf,pepper_healthy,test_wild,S017,24
+PlantWild,v1,bell pepper leaf/161.jpg,not_leaf,pepper_healthy,test_wild,S017,25
+PlantWild,v1,bell pepper leaf/162.jpg,wrong_crop,pepper_healthy,test_wild,S017,26
+PlantWild,v1,bell pepper leaf/167.jpg,not_leaf,pepper_healthy,test_wild,S017,28
+PlantWild,v1,bell pepper leaf/168.jpg,not_leaf,pepper_healthy,test_wild,S017,29
+PlantWild,v1,bell pepper leaf/17.jpg,not_leaf,pepper_healthy,test_wild,S017,30
+PlantWild,v1,bell pepper leaf/174.jpg,not_leaf,pepper_healthy,test_wild,S017,34
+PlantWild,v1,bell pepper leaf/175.jpg,not_leaf,pepper_healthy,test_wild,S017,35
+PlantWild,v1,bell pepper leaf/177.jpg,wrong_crop,pepper_healthy,test_wild,S017,36
+PlantWild,v1,bell pepper leaf/179.jpg,not_leaf,pepper_healthy,test_wild,S017,37
+PlantWild,v1,bell pepper leaf/18.jpg,not_leaf,pepper_healthy,test_wild,S017,38
+PlantWild,v1,bell pepper leaf/185.jpg,not_leaf,pepper_healthy,test_wild,S017,40
+PlantWild,v1,bell pepper leaf/186.jpg,not_leaf,pepper_healthy,test_wild,S018,1
+PlantWild,v1,bell pepper leaf/189.jpg,not_leaf,pepper_healthy,test_wild,S018,2
+PlantWild,v1,bell pepper leaf/190.jpg,not_leaf,pepper_healthy,test_wild,S018,4
+PlantWild,v1,bell pepper leaf/20.jpg,not_leaf,pepper_healthy,test_wild,S018,8
+PlantWild,v1,bell pepper leaf/21.jpg,not_leaf,pepper_healthy,test_wild,S018,13
+PlantWild,v1,bell pepper leaf/210.jpg,not_leaf,pepper_healthy,test_wild,S018,14
+PlantWild,v1,bell pepper leaf/213.jpg,not_leaf,pepper_healthy,test_wild,S018,16
+PlantWild,v1,bell pepper leaf/214.jpg,not_leaf,pepper_healthy,test_wild,S018,17
+PlantWild,v1,bell pepper leaf/216.jpg,not_leaf,pepper_healthy,test_wild,S018,18
+PlantWild,v1,bell pepper leaf/219.jpg,not_leaf,pepper_healthy,test_wild,S018,19
+PlantWild,v1,bell pepper leaf/228.jpg,not_leaf,pepper_healthy,test_wild,S018,23
+PlantWild,v1,bell pepper leaf/23.jpg,not_leaf,pepper_healthy,test_wild,S018,24
+PlantWild,v1,bell pepper leaf/230.jpg,not_leaf,pepper_healthy,test_wild,S018,25
+PlantWild,v1,bell pepper leaf/233.jpg,not_leaf,pepper_healthy,test_wild,S018,26
+PlantWild,v1,bell pepper leaf/235.jpg,not_leaf,pepper_healthy,test_wild,S018,27
+PlantWild,v1,bell pepper leaf/237.jpg,not_leaf,pepper_healthy,test_wild,S018,28
+PlantWild,v1,bell pepper leaf/24.jpg,not_leaf,pepper_healthy,test_wild,S018,29
+PlantWild,v1,bell pepper leaf/241.jpg,not_leaf,pepper_healthy,test_wild,S018,30
+PlantWild,v1,bell pepper leaf/242.jpg,not_leaf,pepper_healthy,test_wild,S018,31
+PlantWild,v1,bell pepper leaf/243.jpg,not_leaf,pepper_healthy,test_wild,S018,32
+PlantWild,v1,bell pepper leaf/245.jpg,not_leaf,pepper_healthy,test_wild,S018,34
+PlantWild,v1,bell pepper leaf/248.jpg,not_leaf,pepper_healthy,test_wild,S018,35
+PlantWild,v1,bell pepper leaf/25.jpg,not_leaf,pepper_healthy,test_wild,S018,36
+PlantWild,v1,bell pepper leaf/253.jpg,not_leaf,pepper_healthy,test_wild,S018,37
+PlantWild,v1,bell pepper leaf/258.jpg,not_leaf,pepper_healthy,test_wild,S018,39
+PlantWild,v1,bell pepper leaf/259.jpg,wrong_crop,pepper_healthy,test_wild,S018,40
+PlantWild,v1,bell pepper leaf/260.jpg,not_leaf,pepper_healthy,test_wild,S019,2
+PlantWild,v1,bell pepper leaf/262.jpg,not_leaf,pepper_healthy,test_wild,S019,3
+PlantWild,v1,bell pepper leaf/266.jpg,not_leaf,pepper_healthy,test_wild,S019,4
+PlantWild,v1,bell pepper leaf/267.jpg,not_leaf,pepper_healthy,test_wild,S019,5
+PlantWild,v1,bell pepper leaf/27.jpg,not_leaf,pepper_healthy,test_wild,S019,6
+PlantWild,v1,bell pepper leaf/271.jpg,not_leaf,pepper_healthy,test_wild,S019,7
+PlantWild,v1,bell pepper leaf/275.jpg,not_leaf,pepper_healthy,test_wild,S019,10
+PlantWild,v1,bell pepper leaf/277.jpg,not_leaf,pepper_healthy,test_wild,S019,11
+PlantWild,v1,bell pepper leaf/278.jpg,not_leaf,pepper_healthy,test_wild,S019,12
+PlantWild,v1,bell pepper leaf/29.jpg,not_leaf,pepper_healthy,test_wild,S019,13
+PlantWild,v1,bell pepper leaf/3.jpg,not_leaf,pepper_healthy,test_wild,S019,14
+PlantWild,v1,bell pepper leaf/31.jpg,not_leaf,pepper_healthy,test_wild,S019,15
+PlantWild,v1,bell pepper leaf/33.jpg,not_leaf,pepper_healthy,test_wild,S019,17
+PlantWild,v1,bell pepper leaf/34.jpg,not_leaf,pepper_healthy,test_wild,S019,18
+PlantWild,v1,bell pepper leaf/35.jpg,not_leaf,pepper_healthy,test_wild,S019,19
+PlantWild,v1,bell pepper leaf/37.jpg,not_leaf,pepper_healthy,test_wild,S019,21
+PlantWild,v1,bell pepper leaf/38.jpg,not_leaf,pepper_healthy,test_wild,S019,22
+PlantWild,v1,bell pepper leaf/41.jpg,not_leaf,pepper_healthy,test_wild,S019,29
+PlantWild,v1,bell pepper leaf/44.jpg,not_leaf,pepper_healthy,test_wild,S019,31
+PlantWild,v1,bell pepper leaf/47.jpg,not_leaf,pepper_healthy,test_wild,S019,34
+PlantWild,v1,bell pepper leaf/49.jpg,not_leaf,pepper_healthy,test_wild,S019,35
+PlantWild,v1,bell pepper leaf/50.jpg,not_leaf,pepper_healthy,test_wild,S019,37
+PlantWild,v1,bell pepper leaf/51.jpg,not_leaf,pepper_healthy,test_wild,S019,38
+PlantWild,v1,bell pepper leaf/52.jpg,not_leaf,pepper_healthy,test_wild,S019,39
+PlantWild,v1,bell pepper leaf/53.jpg,not_leaf,pepper_healthy,test_wild,S019,40
+PlantWild,v1,bell pepper leaf/54.jpg,not_leaf,pepper_healthy,test_wild,S020,1
+PlantWild,v1,bell pepper leaf/56.jpg,not_leaf,pepper_healthy,test_wild,S020,2
+PlantWild,v1,bell pepper leaf/58.jpg,not_leaf,pepper_healthy,test_wild,S020,3
+PlantWild,v1,bell pepper leaf/60.jpg,not_leaf,pepper_healthy,test_wild,S020,5
+PlantWild,v1,bell pepper leaf/61.jpg,not_leaf,pepper_healthy,test_wild,S020,6
+PlantWild,v1,bell pepper leaf/65.jpg,not_leaf,pepper_healthy,test_wild,S020,8
+PlantWild,v1,bell pepper leaf/66.jpg,not_leaf,pepper_healthy,test_wild,S020,9
+PlantWild,v1,bell pepper leaf/68.jpg,not_leaf,pepper_healthy,test_wild,S020,10
+PlantWild,v1,bell pepper leaf/7.jpg,not_leaf,pepper_healthy,test_wild,S020,12
+PlantWild,v1,bell pepper leaf/73.jpg,not_leaf,pepper_healthy,test_wild,S020,18
+PlantWild,v1,bell pepper leaf/75.jpg,not_leaf,pepper_healthy,test_wild,S020,19
+PlantWild,v1,bell pepper leaf/8.jpg,not_leaf,pepper_healthy,test_wild,S020,22
+PlantWild,v1,bell pepper leaf/82.jpg,not_leaf,pepper_healthy,test_wild,S020,24
+PlantWild,v1,bell pepper leaf/83.jpg,not_leaf,pepper_healthy,test_wild,S020,25
+PlantWild,v1,bell pepper leaf/84.jpg,not_leaf,pepper_healthy,test_wild,S020,26
+PlantWild,v1,bell pepper leaf/91.jpg,not_leaf,pepper_healthy,test_wild,S020,30
+PlantWild,v1,bell pepper leaf/93.jpg,not_leaf,pepper_healthy,test_wild,S020,31
+PlantWild,v1,bell pepper leaf/96.jpg,not_leaf,pepper_healthy,test_wild,S020,32
+PlantWild,v1,bell pepper leaf/google_0002.jpg,not_leaf,pepper_healthy,test_wild,S020,36
+PlantWild,v1,bell pepper leaf/google_0013.jpg,not_leaf,pepper_healthy,test_wild,S021,1
+PlantWild,v1,bell pepper leaf/google_0027.jpg,not_leaf,pepper_healthy,test_wild,S021,8
+PlantWild,v1,bell pepper leaf/google_0032.jpg,not_leaf,pepper_healthy,test_wild,S021,9
+PlantWild,v1,bell pepper leaf/google_0053.jpg,not_leaf,pepper_healthy,test_wild,S021,11
+PlantWild,v1,bell pepper leaf/google_0055.jpg,not_leaf,pepper_healthy,test_wild,S021,12
+PlantWild,v1,bell pepper leaf/google_0064.jpg,not_leaf,pepper_healthy,test_wild,S021,14
+PlantWild,v1,bell pepper leaf/google_0066.jpg,wrong_crop,pepper_healthy,test_wild,S021,15
+PlantWild,v1,bell pepper leaf/google_0067.jpg,not_leaf,pepper_healthy,test_wild,S021,16
+PlantWild,v1,bell pepper leaf/google_0072.jpg,not_leaf,pepper_healthy,test_wild,S021,19
+PlantWild,v1,bell pepper leaf/google_0075.jpg,not_leaf,pepper_healthy,test_wild,S021,20
+PlantWild,v1,bell pepper leaf/google_0084.jpg,not_leaf,pepper_healthy,test_wild,S021,22
+PlantWild,v1,bell pepper leaf/google_0088.jpg,not_leaf,pepper_healthy,test_wild,S021,24
+PlantWild,v1,bell pepper leaf/google_0091.jpg,not_leaf,pepper_healthy,test_wild,S021,25
+PlantWild,v1,bell pepper leaf/google_0096.jpg,wrong_crop,pepper_healthy,test_wild,S021,27
+PlantWild,v1,bell pepper leaf/google_0098.jpg,not_leaf,pepper_healthy,test_wild,S021,29
+PlantWild,v1,bell pepper leaf/google_0099.jpg,not_leaf,pepper_healthy,test_wild,S021,30
+PlantWild,v1,bell pepper leaf/google_0101.jpg,not_leaf,pepper_healthy,test_wild,S021,31
+PlantWild,v1,bell pepper leaf/google_0108.jpg,not_leaf,pepper_healthy,test_wild,S021,35
+PlantWild,v1,bell pepper leaf/google_0186.jpg,not_leaf,pepper_healthy,test_wild,S022,13
+PlantWild,v1,bell pepper leaf/google_0192.jpg,wrong_crop,pepper_healthy,test_wild,S022,15
+PlantWild,v1,bell pepper leaf/google_0195.jpg,not_leaf,pepper_healthy,test_wild,S022,16
+PlantWild,v1,bell pepper leaf/google_0198.jpg,not_leaf,pepper_healthy,test_wild,S022,17
+PlantWild,v1,bell pepper leaf/google_0213.jpg,not_leaf,pepper_healthy,test_wild,S022,22
+PlantWild,v1,bell pepper leaf/google_0229.jpg,not_leaf,pepper_healthy,test_wild,S022,24
+PlantWild,v1,bell pepper leaf/google_0251.jpg,wrong_crop,pepper_healthy,test_wild,S022,27
+PlantWild,v1,bell pepper leaf/google_0260.jpg,not_leaf,pepper_healthy,test_wild,S022,29
+PlantWild,v1,bell pepper leaf/google_0273.jpg,not_leaf,pepper_healthy,test_wild,S022,33
+PlantWild,v1,bell pepper leaf/google_0275.jpg,not_leaf,pepper_healthy,test_wild,S022,34
+PlantWild,v1,tomato leaf/105.jpg,not_leaf,tomato_healthy,test_wild,S023,4
+PlantWild,v1,tomato leaf/108.jpg,not_leaf,tomato_healthy,test_wild,S023,6
+PlantWild,v1,tomato leaf/137.jpg,not_leaf,tomato_healthy,test_wild,S023,11
+PlantWild,v1,tomato leaf/140.jpg,not_leaf,tomato_healthy,test_wild,S023,14
+PlantWild,v1,tomato leaf/142.jpg,not_leaf,tomato_healthy,test_wild,S023,16
+PlantWild,v1,tomato leaf/145.jpg,not_leaf,tomato_healthy,test_wild,S023,19
+PlantWild,v1,tomato leaf/150.jpg,not_leaf,tomato_healthy,test_wild,S023,24
+PlantWild,v1,tomato leaf/17.jpg,not_leaf,tomato_healthy,test_wild,S023,27
+PlantWild,v1,tomato leaf/27.jpg,symptoms,tomato_healthy,test_wild,S023,37
+PlantWild,v1,tomato leaf/45.jpg,not_leaf,tomato_healthy,test_wild,S024,16
+PlantWild,v1,tomato leaf/73.jpg,not_leaf,tomato_healthy,test_wild,S024,40
+PlantWild,v1,tomato leaf/75.jpg,not_leaf,tomato_healthy,test_wild,S025,1
+PlantWild,v1,tomato leaf/76.jpg,not_leaf,tomato_healthy,test_wild,S025,2
+PlantWild,v1,tomato leaf/77.jpg,not_leaf,tomato_healthy,test_wild,S025,3
+PlantWild,v1,tomato leaf/90.jpg,not_leaf,tomato_healthy,test_wild,S025,12
+PlantWild,v1,tomato leaf/98.jpg,not_leaf,tomato_healthy,test_wild,S025,17
+PlantWild,v1,tomato leaf/google_0017.jpg,not_leaf,tomato_healthy,test_wild,S025,28
+PlantWild,v1,tomato leaf/google_0019.jpg,not_leaf,tomato_healthy,test_wild,S025,29
+PlantWild,v1,tomato leaf/google_0095.jpg,not_leaf,tomato_healthy,test_wild,S025,37
+PlantWild,v1,tomato leaf/google_0104.jpg,not_leaf,tomato_healthy,test_wild,S025,38
+PlantWild,v1,tomato leaf/google_0116.jpg,not_leaf,tomato_healthy,test_wild,S026,1
+PlantWild,v1,tomato leaf/google_0137.jpg,not_leaf,tomato_healthy,test_wild,S026,4
+PlantWild,v1,tomato leaf/google_0152.jpg,not_leaf,tomato_healthy,test_wild,S026,5
+PlantWild,v1,tomato leaf/google_0155.jpg,not_leaf,tomato_healthy,test_wild,S026,6
+PlantWild,v1,tomato leaf/google_0202.jpg,not_leaf,tomato_healthy,test_wild,S026,9
+PlantWild,v1,tomato leaf/google_0204.jpg,not_leaf,tomato_healthy,test_wild,S026,10
+PlantWild,v1,tomato leaf/google_0208.jpg,not_leaf,tomato_healthy,test_wild,S026,12
+PlantWild,v1,tomato leaf/google_0222.jpg,not_leaf,tomato_healthy,test_wild,S026,15
+PlantWild,v1,tomato leaf/google_0239.jpg,not_leaf,tomato_healthy,test_wild,S026,17
+PlantWild,v1,tomato leaf/google_0253.jpg,not_leaf,tomato_healthy,test_wild,S026,19
+PlantWild,v1,tomato leaf/google_0266.jpg,not_leaf,tomato_healthy,test_wild,S026,23
+PlantWild,v1,tomato leaf/google_0275.jpg,not_leaf,tomato_healthy,test_wild,S026,25
+PlantWild,v1,tomato leaf/google_0279.jpg,not_leaf,tomato_healthy,test_wild,S026,26
+PlantWild,v1,tomato leaf/google_0284.jpg,not_leaf,tomato_healthy,test_wild,S026,27
+PlantWild,v1,tomato leaf/google_0289.jpg,not_leaf,tomato_healthy,test_wild,S026,28
+PlantWild,v1,tomato leaf/google_0302.jpg,not_leaf,tomato_healthy,test_wild,S026,31
+PlantWild,v1,tomato leaf/google_0309.jpg,not_leaf,tomato_healthy,test_wild,S026,33
+PlantWild,v1,tomato leaf/google_0310.jpg,not_leaf,tomato_healthy,test_wild,S026,34
+PlantWild,v1,tomato leaf/google_0320.jpg,not_leaf,tomato_healthy,test_wild,S026,35
+PlantWild,v1,tomato leaf/google_0330.jpg,not_leaf,tomato_healthy,test_wild,S026,36
+PlantWild,v1,tomato leaf/google_0333.jpg,not_leaf,tomato_healthy,test_wild,S026,37
+PlantWild,v1,tomato leaf/google_0335.jpg,not_leaf,tomato_healthy,test_wild,S026,38
+PlantWild,v1,tomato leaf/google_0346.jpg,not_leaf,tomato_healthy,test_wild,S026,40
+PlantWild,v1,tomato leaf/google_0349.jpg,not_leaf,tomato_healthy,test_wild,S027,1
+PlantWild,v1,tomato leaf/google_0354.jpg,not_leaf,tomato_healthy,test_wild,S027,2
+PlantWild,v1,tomato leaf/google_0358.jpg,not_leaf,tomato_healthy,test_wild,S027,4
+PlantWild,v1,tomato leaf/google_0366.jpg,not_leaf,tomato_healthy,test_wild,S027,6
+PlantWild,v1,tomato leaf/google_0380.jpg,not_leaf,tomato_healthy,test_wild,S027,7
+PlantWild,v1,tomato leaf/google_0383.jpg,wrong_crop,tomato_healthy,test_wild,S027,8
+PlantWild,v1,tomato leaf/google_0417.jpg,not_leaf,tomato_healthy,test_wild,S027,10
+PlantWild,v1,tomato leaf/google_0427.jpg,not_leaf,tomato_healthy,test_wild,S027,12
+PlantWild,v1,tomato leaf/google_0431.jpg,not_leaf,tomato_healthy,test_wild,S027,14
+PlantWild,v1,tomato leaf/google_0434.jpg,not_leaf,tomato_healthy,test_wild,S027,15
+PlantWild,v1,tomato leaf/google_0443.jpg,not_leaf,tomato_healthy,test_wild,S027,18
+PlantWild,v1,tomato leaf/google_0445.jpg,not_leaf,tomato_healthy,test_wild,S027,19
+PlantWild,v1,tomato leaf/google_0460.jpg,not_leaf,tomato_healthy,test_wild,S027,23
+PlantWild,v1,tomato leaf/google_0468.jpg,not_leaf,tomato_healthy,test_wild,S027,25
+PlantWild,v1,tomato leaf/google_0469.jpg,not_leaf,tomato_healthy,test_wild,S027,26
+PlantWild,v1,tomato leaf/google_0482.jpg,not_leaf,tomato_healthy,test_wild,S027,30
+PlantWild,v1,tomato leaf/google_0519.jpg,not_leaf,tomato_healthy,test_wild,S027,33
+PlantWild,v1,tomato leaf/google_0526.jpg,not_leaf,tomato_healthy,test_wild,S027,35
+PlantWild,v1,tomato leaf/google_0550.jpg,not_leaf,tomato_healthy,test_wild,S027,38
+PlantWild,v1,tomato leaf/google_0571.jpg,not_leaf,tomato_healthy,test_wild,S027,40
+PlantWild,v1,tomato leaf/google_0575.jpg,not_leaf,tomato_healthy,test_wild,S028,1
+PlantWild,v1,tomato leaf/google_0577.jpg,not_leaf,tomato_healthy,test_wild,S028,2
+PlantWild,v1,tomato leaf/google_0589.jpg,not_leaf,tomato_healthy,test_wild,S028,4
+PlantWild,v1,tomato leaf/google_0593.jpg,not_leaf,tomato_healthy,test_wild,S028,5
+PlantWild,v1,tomato leaf/google_0607.jpg,not_leaf,tomato_healthy,test_wild,S028,7
+PlantWild,v1,tomato leaf/google_0612.jpg,not_leaf,tomato_healthy,test_wild,S028,8
+PlantWild,v1,tomato leaf/google_0631.jpg,wrong_crop,tomato_healthy,test_wild,S028,10
+PlantDoc,train,train/Apple leaf/2017-09-23-07-48-04.jpg,not_leaf,apple_healthy,val_wild,S029,11
+PlantDoc,train,train/Apple leaf/4633813-sweet-apple-with-leaf.jpg,not_leaf,apple_healthy,val_wild,S029,12
+PlantDoc,train,train/Apple leaf/Apple-Leaves-Diabetes.jpg,not_leaf,apple_healthy,val_wild,S029,13
+PlantDoc,train,train/Apple leaf/apple-tree-branch-blossom-plant-fruit-berry-leaf-flower-food-green-produce-evergreen-flora-sad-shrub-apples-branch-with-apples-flowering-plant-rose-family-acerola-malpighia-woody-plant-land-plant-928225.jpg,not_leaf,apple_healthy,val_wild,S029,23
+PlantDoc,train,train/Apple leaf/apple-tree-branch-green-leaves-fresh-isolated-white-background-33032922.jpg,not_leaf,apple_healthy,val_wild,S029,24
+PlantDoc,train,train/Apple leaf/apple-tree-branch-green-leaves-fresh-isolated-white-background-33032924.jpg,not_leaf,apple_healthy,val_wild,S029,25
+PlantDoc,train,train/Apple leaf/apple-tree-branch-plant-fruit-leaf-flower-food-green-produce-flora-immature-apple-tree-flowering-plant-wild-apple-tree-apple-gear-land-plant-606389.jpg,not_leaf,apple_healthy,val_wild,S029,26
+PlantDoc,train,train/Apple leaf/apple-tree-leaf-curl-apple-tree-leaf-curl-aphids-apple-tree-leaves-curling-too-much-water.jpg,symptoms,apple_healthy,val_wild,S029,27
+PlantDoc,train,train/Apple leaf/apple-tree-leaves.jpg,not_leaf,apple_healthy,val_wild,S029,28
+PlantDoc,train,train/Apple leaf/bright-red-crab-apple-fruit-malus-john-downie-on-the-tree-in-late-KH3WRX.jpg,not_leaf,apple_healthy,val_wild,S029,32
+PlantDoc,train,train/Apple leaf/closeup-red-apple-fruit-leaf-isolated-white-background-57605895.jpg,not_leaf,apple_healthy,val_wild,S029,33
+PlantDoc,train,train/Apple leaf/crab_apple_03_leaves.jpg,not_leaf,apple_healthy,val_wild,S029,34
+PlantDoc,train,train/Apple leaf/depositphotos_45748597-stock-photo-ripe-apple-with-leaf.jpg,not_leaf,apple_healthy,val_wild,S029,38
+PlantDoc,train,train/Apple leaf/depositphotos_55202179-stock-photo-green-apple-with-leaf-and.jpg,not_leaf,apple_healthy,val_wild,S029,39
+PlantDoc,train,train/Apple leaf/depositphotos_56066889-stock-photo-apple-with-leaf.jpg,not_leaf,apple_healthy,val_wild,S029,40
+PlantDoc,train,train/Apple leaf/depositphotos_6657863-stock-photo-single-red-apple-with-leaf.jpg,not_leaf,apple_healthy,val_wild,S030,1
+PlantDoc,train,"train/Apple leaf/flat,1000x1000,075,f.u2.jpg",not_leaf,apple_healthy,val_wild,S030,2
+PlantDoc,train,train/Apple leaf/fresh-wet-green-apple-leaf-water-drops-isolated-white-background-31353097.jpg,not_leaf,apple_healthy,val_wild,S030,3
+PlantDoc,train,train/Apple leaf/fruit_apple_apple-tree_wallpaper_EA60026.jpg,not_leaf,apple_healthy,val_wild,S030,4
+PlantDoc,train,train/Apple leaf/green-apple-fruits-leaf-16266077.jpg,not_leaf,apple_healthy,val_wild,S030,5
+PlantDoc,train,train/Apple leaf/green-apple-fruits-leaf-25050127.jpg,not_leaf,apple_healthy,val_wild,S030,6
+PlantDoc,train,train/Apple leaf/green-apple-leaf-26110796.jpg,not_leaf,apple_healthy,val_wild,S030,7
+PlantDoc,train,train/Apple leaf/green-apple-leaf-cut-white-ripe-background-clipping-path-42422046.jpg,not_leaf,apple_healthy,val_wild,S030,8
+PlantDoc,train,train/Apple leaf/green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-42352971.jpg,not_leaf,apple_healthy,val_wild,S030,9
+PlantDoc,train,train/Apple leaf/green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-44598638.jpg,not_leaf,apple_healthy,val_wild,S030,10
+PlantDoc,train,train/Apple leaf/red-apple-green-leaf-isolated-white-background-57496220.jpg,not_leaf,apple_healthy,val_wild,S030,19
+PlantDoc,train,train/Apple leaf/red-apple-leaf-slice-white-background-29914331.jpg,not_leaf,apple_healthy,val_wild,S030,20
+PlantDoc,train,train/Apple leaf/red-apple-leaves-309078.jpg,not_leaf,apple_healthy,val_wild,S030,21
+PlantDoc,train,train/Apple leaf/red-apple-one-leaf-13226302.jpg,not_leaf,apple_healthy,val_wild,S030,22
+PlantDoc,train,train/Apple leaf/ripe-red-apple-with-green-leaf-isolated-on-white-picture-id184640296_s=612x612.jpg,not_leaf,apple_healthy,val_wild,S030,23
+PlantDoc,train,train/Apple leaf/ripe-red-apple-with-leaf-picture-id117485645_b=1&k=6&m=117485645&s=612x612&w=0&h=Ii96HYzF-2E5ky-IcXbVhvEFvU28o0rlkwagb7T6LhY=.jpg,not_leaf,apple_healthy,val_wild,S030,24
+PlantDoc,train,train/Apple leaf/shiny-red-apple-green-leaf-isolated-white-background-56202743.jpg,not_leaf,apple_healthy,val_wild,S030,25
+PlantDoc,train,train/Apple leaf/stock-photo-isolated-apple-green-granny-smith-apple-with-leaf-isolated-on-white-background-60343762.jpg,not_leaf,apple_healthy,val_wild,S031,1
+PlantDoc,train,train/Apple leaf/stock-photo-red-apple-with-green-leaf-isolated-on-white-background-with-clipping-path-327512429.jpg,not_leaf,apple_healthy,val_wild,S031,3
+PlantDoc,train,train/Apple leaf/stock-photo-red-apple-with-leaf-124592107.jpg,not_leaf,apple_healthy,val_wild,S031,4
+PlantDoc,train,train/Apple leaf/stock-photo-red-apple-with-leaf-138430751.jpg,not_leaf,apple_healthy,val_wild,S031,5
+PlantDoc,train,train/Apple leaf/stock-photo-red-apple-with-leaves-isolated-on-white-99003845.jpg,not_leaf,apple_healthy,val_wild,S031,6
+PlantDoc,train,train/Apple leaf/stock-photo-whole-ripe-green-apple-with-apple-leaf-and-green-apple-half-isolated-on-white-background-with-566226067.jpg,not_leaf,apple_healthy,val_wild,S031,7
+PlantDoc,train,train/Apple leaf/yellow-apple-leaves-isolated-10868989.jpg,not_leaf,apple_healthy,val_wild,S031,8
+PlantDoc,train,train/Apple leaf/yellow-ripe-apple-leaf-27092797.jpg,not_leaf,apple_healthy,val_wild,S031,9
+PlantDoc,train,train/grape leaf/blue-grape-cluster-leaves-3323887.jpg,not_leaf,grape_healthy,val_wild,S032,27
+PlantDoc,train,train/grape leaf/nature-plant-grape-vine-wine-fruit-food-green-produce-agriculture-grapevine-vines-shrub-grapes-winegrowing-rebstock-flowering-plant-vitis-grape-leaves-green-grapes-swiss-francs-land-plant-grapevine-family-556232.jpg,not_leaf,grape_healthy,val_wild,S033,24
+PlantDoc,test,test/Bell_pepper leaf/GREEN%20BELL%20PLANT%20YELLOW%20LEAF.JPG.jpg,symptoms,pepper_healthy,val_wild,S034,3
+PlantDoc,test,test/Bell_pepper leaf/RnGnC.jpg,symptoms,pepper_healthy,val_wild,S034,5
+PlantDoc,test,test/Bell_pepper leaf/e33155.jpg,symptoms,pepper_healthy,val_wild,S034,6
+PlantDoc,test,test/Bell_pepper leaf/why-are-my-pepper-plants-yellow-yellow-pepper-plants-yellow-leaves-green-veins-pepper-plants-yellow-veins.jpg,symptoms,pepper_healthy,val_wild,S034,8
+PlantDoc,train,train/Bell_pepper leaf/007.JPG.jpg,symptoms,pepper_healthy,val_wild,S034,10
+PlantDoc,train,train/Bell_pepper leaf/14ec45.jpg,symptoms,pepper_healthy,val_wild,S034,12
+PlantDoc,train,train/Bell_pepper leaf/2477703364_0c94646b48.jpg,symptoms,pepper_healthy,val_wild,S034,13
+PlantDoc,train,train/Bell_pepper leaf/28a593.jpg,symptoms,pepper_healthy,val_wild,S034,14
+PlantDoc,train,train/Bell_pepper leaf/387502.jpg,symptoms,pepper_healthy,val_wild,S034,15
+PlantDoc,train,train/Bell_pepper leaf/5493139683d035a18fd0dfa12893f38b--outdoor-decor-worms.jpg,symptoms,pepper_healthy,val_wild,S034,16
+PlantDoc,train,train/Bell_pepper leaf/IMG_1495.JPG.jpg,symptoms,pepper_healthy,val_wild,S034,25
+PlantDoc,train,train/Bell_pepper leaf/file.php_id=18598&t=1.jpg,symptoms,pepper_healthy,val_wild,S034,38
+PlantDoc,train,train/Bell_pepper leaf/fotolia_4311376_XS.jpg,not_leaf,pepper_healthy,val_wild,S034,39
+PlantDoc,train,train/Bell_pepper leaf/green-pepper-leaf-parks-3302644.jpg,wrong_crop,pepper_healthy,val_wild,S034,40
+PlantDoc,train,train/Bell_pepper leaf/october-bell-peppers.jpg,not_leaf,pepper_healthy,val_wild,S035,6
+PlantDoc,train,train/Bell_pepper leaf/pepper.jpg,not_leaf,pepper_healthy,val_wild,S035,9
+PlantDoc,train,train/Bell_pepper leaf/stock-photo-black-pepper-plant-with-green-berries-and-leaves-555241408.jpg,not_leaf,pepper_healthy,val_wild,S035,12
+PlantDoc,train,train/Tomato leaf/003.JPG.jpg,wrong_crop,tomato_healthy,val_wild,S036,9
+PlantDoc,train,train/Tomato leaf/Bacterial-leaf-spot-transplants1.jpg,symptoms,tomato_healthy,val_wild,S036,23
+PlantDoc,train,train/Tomato leaf/happier-inside.jpg,wrong_crop,tomato_healthy,val_wild,S036,40
+PlantDoc,train,train/Tomato leaf/p1011399.jpg,symptoms,tomato_healthy,val_wild,S037,5
+PlantDoc,train,train/Tomato leaf/stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg,not_leaf,tomato_healthy,val_wild,S037,11
+PlantDoc,train,train/Tomato leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg,not_leaf,tomato_healthy,val_wild,S037,22
+PlantWild,v2,apple rust/apple_rust_107.jpg,not_leaf,apple_cedar_rust,test_wild,S038,5
+PlantWild,v2,apple rust/apple_rust_14.jpg,not_leaf,apple_cedar_rust,test_wild,S038,11
+PlantWild,v2,apple rust/apple_rust_152.jpg,not_leaf,apple_cedar_rust,test_wild,S038,15
+PlantWild,v2,apple rust/apple_rust_159.jpg,not_leaf,apple_cedar_rust,test_wild,S038,18
+PlantWild,v2,apple rust/apple_rust_182.jpg,not_leaf,apple_cedar_rust,test_wild,S038,23
+PlantWild,v2,apple rust/apple_rust_33.jpg,not_leaf,apple_cedar_rust,test_wild,S038,32
+PlantWild,v2,apple rust/apple_rust_35.jpg,not_leaf,apple_cedar_rust,test_wild,S038,34
+PlantWild,v2,apple rust/apple_rust_44.jpg,not_leaf,apple_cedar_rust,test_wild,S038,40
+PlantWild,v2,apple rust/apple_rust_67.jpg,not_leaf,apple_cedar_rust,test_wild,S039,17
+PlantWild,v2,apple rust/apple_rust_68.jpg,not_leaf,apple_cedar_rust,test_wild,S039,18
+PlantWild,v2,apple rust/apple_rust_95.jpg,not_leaf,apple_cedar_rust,test_wild,S039,31
+PlantWild,v2,apple rust/apple_rust_96.jpg,not_leaf,apple_cedar_rust,test_wild,S039,32
+PlantWild,v2,apple rust/apple_rust_google_0011.jpg,not_leaf,apple_cedar_rust,test_wild,S039,37
+PlantWild,v2,apple rust/apple_rust_google_0032.jpg,not_leaf,apple_cedar_rust,test_wild,S040,3
+PlantWild,v2,apple rust/apple_rust_google_0038.jpg,not_leaf,apple_cedar_rust,test_wild,S040,6
+PlantWild,v2,apple rust/apple_rust_google_0054.jpg,not_leaf,apple_cedar_rust,test_wild,S040,10
+PlantWild,v2,apple rust/apple_rust_google_0056.jpg,not_leaf,apple_cedar_rust,test_wild,S040,11
+PlantWild,v2,apple rust/apple_rust_google_0238.jpg,not_leaf,apple_cedar_rust,test_wild,S041,12
+PlantWild,v2,apple scab/apple_scab_1.jpg,not_leaf,apple_scab,test_wild,S042,1
+PlantWild,v2,apple scab/apple_scab_11.jpg,not_leaf,apple_scab,test_wild,S042,3
+PlantWild,v2,apple scab/apple_scab_118.jpg,not_leaf,apple_scab,test_wild,S042,4
+PlantWild,v2,apple scab/apple_scab_12.jpg,not_leaf,apple_scab,test_wild,S042,5
+PlantWild,v2,apple scab/apple_scab_13.jpg,not_leaf,apple_scab,test_wild,S042,6
+PlantWild,v2,apple scab/apple_scab_15.jpg,not_leaf,apple_scab,test_wild,S042,8
+PlantWild,v2,apple scab/apple_scab_17.jpg,not_leaf,apple_scab,test_wild,S042,10
+PlantWild,v2,apple scab/apple_scab_18.jpg,not_leaf,apple_scab,test_wild,S042,11
+PlantWild,v2,apple scab/apple_scab_2.jpg,not_leaf,apple_scab,test_wild,S042,13
+PlantWild,v2,apple scab/apple_scab_21.jpg,not_leaf,apple_scab,test_wild,S042,15
+PlantWild,v2,apple scab/apple_scab_22.jpg,not_leaf,apple_scab,test_wild,S042,16
+PlantWild,v2,apple scab/apple_scab_25.jpg,not_leaf,apple_scab,test_wild,S042,19
+PlantWild,v2,apple scab/apple_scab_26.jpg,not_leaf,apple_scab,test_wild,S042,20
+PlantWild,v2,apple scab/apple_scab_27.jpg,not_leaf,apple_scab,test_wild,S042,21
+PlantWild,v2,apple scab/apple_scab_29.jpg,not_leaf,apple_scab,test_wild,S042,22
+PlantWild,v2,apple scab/apple_scab_31.jpg,not_leaf,apple_scab,test_wild,S042,25
+PlantWild,v2,apple scab/apple_scab_37.jpg,not_leaf,apple_scab,test_wild,S042,28
+PlantWild,v2,apple scab/apple_scab_40.jpg,not_leaf,apple_scab,test_wild,S042,32
+PlantWild,v2,apple scab/apple_scab_43.jpg,not_leaf,apple_scab,test_wild,S042,33
+PlantWild,v2,apple scab/apple_scab_44.jpg,not_leaf,apple_scab,test_wild,S042,34
+PlantWild,v2,apple scab/apple_scab_45.jpg,not_leaf,apple_scab,test_wild,S042,35
+PlantWild,v2,apple scab/apple_scab_46.jpg,not_leaf,apple_scab,test_wild,S042,36
+PlantWild,v2,apple scab/apple_scab_48.jpg,not_leaf,apple_scab,test_wild,S042,38
+PlantWild,v2,apple scab/apple_scab_50.jpg,not_leaf,apple_scab,test_wild,S043,1
+PlantWild,v2,apple scab/apple_scab_51.jpg,not_leaf,apple_scab,test_wild,S043,2
+PlantWild,v2,apple scab/apple_scab_52.jpg,not_leaf,apple_scab,test_wild,S043,3
+PlantWild,v2,apple scab/apple_scab_54.jpg,not_leaf,apple_scab,test_wild,S043,5
+PlantWild,v2,apple scab/apple_scab_57.jpg,not_leaf,apple_scab,test_wild,S043,7
+PlantWild,v2,apple scab/apple_scab_61.jpg,not_leaf,apple_scab,test_wild,S043,11
+PlantWild,v2,apple scab/apple_scab_64.jpg,not_leaf,apple_scab,test_wild,S043,13
+PlantWild,v2,apple scab/apple_scab_66.jpg,not_leaf,apple_scab,test_wild,S043,14
+PlantWild,v2,apple scab/apple_scab_67.jpg,not_leaf,apple_scab,test_wild,S043,15
+PlantWild,v2,apple scab/apple_scab_68.jpg,not_leaf,apple_scab,test_wild,S043,16
+PlantWild,v2,apple scab/apple_scab_69.jpg,not_leaf,apple_scab,test_wild,S043,17
+PlantWild,v2,apple scab/apple_scab_72.jpg,not_leaf,apple_scab,test_wild,S043,19
+PlantWild,v2,apple scab/apple_scab_73.jpg,not_leaf,apple_scab,test_wild,S043,20
+PlantWild,v2,apple scab/apple_scab_82.jpg,not_leaf,apple_scab,test_wild,S043,25
+PlantWild,v2,apple scab/apple_scab_9.jpg,not_leaf,apple_scab,test_wild,S043,28
+PlantWild,v2,apple scab/apple_scab_92.jpg,not_leaf,apple_scab,test_wild,S043,29
+PlantWild,v2,apple scab/apple_scab_google_0000.jpg,not_leaf,apple_scab,test_wild,S043,32
+PlantWild,v2,apple scab/apple_scab_google_0001.jpg,not_leaf,apple_scab,test_wild,S043,33
+PlantWild,v2,apple scab/apple_scab_google_0002.jpg,not_leaf,apple_scab,test_wild,S043,34
+PlantWild,v2,apple scab/apple_scab_google_0007.jpg,not_leaf,apple_scab,test_wild,S043,36
+PlantWild,v2,apple scab/apple_scab_google_0009.jpg,not_leaf,apple_scab,test_wild,S043,38
+PlantWild,v2,apple scab/apple_scab_google_0012.jpg,not_leaf,apple_scab,test_wild,S043,40
+PlantWild,v2,apple scab/apple_scab_google_0013.jpg,not_leaf,apple_scab,test_wild,S044,1
+PlantWild,v2,apple scab/apple_scab_google_0016.jpg,not_leaf,apple_scab,test_wild,S044,4
+PlantWild,v2,apple scab/apple_scab_google_0018.jpg,not_leaf,apple_scab,test_wild,S044,5
+PlantWild,v2,apple scab/apple_scab_google_0019.jpg,not_leaf,apple_scab,test_wild,S044,6
+PlantWild,v2,apple scab/apple_scab_google_0020.jpg,not_leaf,apple_scab,test_wild,S044,7
+PlantWild,v2,apple scab/apple_scab_google_0021.jpg,not_leaf,apple_scab,test_wild,S044,8
+PlantWild,v2,apple scab/apple_scab_google_0024.jpg,not_leaf,apple_scab,test_wild,S044,10
+PlantWild,v2,apple scab/apple_scab_google_0028.jpg,not_leaf,apple_scab,test_wild,S044,11
+PlantWild,v2,apple scab/apple_scab_google_0029.jpg,not_leaf,apple_scab,test_wild,S044,12
+PlantWild,v2,apple scab/apple_scab_google_0031.jpg,not_leaf,apple_scab,test_wild,S044,14
+PlantWild,v2,apple scab/apple_scab_google_0032.jpg,not_leaf,apple_scab,test_wild,S044,15
+PlantWild,v2,apple scab/apple_scab_google_0035.jpg,not_leaf,apple_scab,test_wild,S044,17
+PlantWild,v2,apple scab/apple_scab_google_0036.jpg,not_leaf,apple_scab,test_wild,S044,18
+PlantWild,v2,apple scab/apple_scab_google_0037.jpg,not_leaf,apple_scab,test_wild,S044,19
+PlantWild,v2,apple scab/apple_scab_google_0038.jpg,not_leaf,apple_scab,test_wild,S044,20
+PlantWild,v2,apple scab/apple_scab_google_0039.jpg,not_leaf,apple_scab,test_wild,S044,21
+PlantWild,v2,apple scab/apple_scab_google_0041.jpg,not_leaf,apple_scab,test_wild,S044,22
+PlantWild,v2,apple scab/apple_scab_google_0043.jpg,not_leaf,apple_scab,test_wild,S044,23
+PlantWild,v2,apple scab/apple_scab_google_0045.jpg,not_leaf,apple_scab,test_wild,S044,24
+PlantWild,v2,apple scab/apple_scab_google_0046.jpg,not_leaf,apple_scab,test_wild,S044,25
+PlantWild,v2,apple scab/apple_scab_google_0049.jpg,not_leaf,apple_scab,test_wild,S044,26
+PlantWild,v2,apple scab/apple_scab_google_0050.jpg,not_leaf,apple_scab,test_wild,S044,27
+PlantWild,v2,apple scab/apple_scab_google_0053.jpg,not_leaf,apple_scab,test_wild,S044,28
+PlantWild,v2,apple scab/apple_scab_google_0055.jpg,not_leaf,apple_scab,test_wild,S044,29
+PlantWild,v2,apple scab/apple_scab_google_0057.jpg,not_leaf,apple_scab,test_wild,S044,30
+PlantWild,v2,apple scab/apple_scab_google_0058.jpg,not_leaf,apple_scab,test_wild,S044,31
+PlantWild,v2,apple scab/apple_scab_google_0059.jpg,not_leaf,apple_scab,test_wild,S044,32
+PlantWild,v2,apple scab/apple_scab_google_0060.jpg,not_leaf,apple_scab,test_wild,S044,33
+PlantWild,v2,apple scab/apple_scab_google_0062.jpg,not_leaf,apple_scab,test_wild,S044,34
+PlantWild,v2,apple scab/apple_scab_google_0064.jpg,not_leaf,apple_scab,test_wild,S044,35
+PlantWild,v2,apple scab/apple_scab_google_0067.jpg,not_leaf,apple_scab,test_wild,S044,36
+PlantWild,v2,apple scab/apple_scab_google_0068.jpg,not_leaf,apple_scab,test_wild,S044,37
+PlantWild,v2,apple scab/apple_scab_google_0071.jpg,not_leaf,apple_scab,test_wild,S044,39
+PlantWild,v2,apple scab/apple_scab_google_0072.jpg,not_leaf,apple_scab,test_wild,S044,40
+PlantWild,v2,apple scab/apple_scab_google_0073.jpg,not_leaf,apple_scab,test_wild,S045,1
+PlantWild,v2,apple scab/apple_scab_google_0074.jpg,not_leaf,apple_scab,test_wild,S045,2
+PlantWild,v2,apple scab/apple_scab_google_0075.jpg,not_leaf,apple_scab,test_wild,S045,3
+PlantWild,v2,apple scab/apple_scab_google_0082.jpg,not_leaf,apple_scab,test_wild,S045,4
+PlantWild,v2,apple scab/apple_scab_google_0084.jpg,not_leaf,apple_scab,test_wild,S045,5
+PlantWild,v2,apple scab/apple_scab_google_0086.jpg,not_leaf,apple_scab,test_wild,S045,6
+PlantWild,v2,apple scab/apple_scab_google_0092.jpg,not_leaf,apple_scab,test_wild,S045,7
+PlantWild,v2,apple scab/apple_scab_google_0093.jpg,not_leaf,apple_scab,test_wild,S045,8
+PlantWild,v2,apple scab/apple_scab_google_0095.jpg,not_leaf,apple_scab,test_wild,S045,9
+PlantWild,v2,apple scab/apple_scab_google_0097.jpg,not_leaf,apple_scab,test_wild,S045,10
+PlantWild,v2,apple scab/apple_scab_google_0098.jpg,not_leaf,apple_scab,test_wild,S045,11
+PlantWild,v2,apple scab/apple_scab_google_0104.jpg,not_leaf,apple_scab,test_wild,S045,14
+PlantWild,v2,apple scab/apple_scab_google_0106.jpg,not_leaf,apple_scab,test_wild,S045,16
+PlantWild,v2,apple scab/apple_scab_google_0107.jpg,not_leaf,apple_scab,test_wild,S045,17
+PlantWild,v2,apple scab/apple_scab_google_0108.jpg,not_leaf,apple_scab,test_wild,S045,18
+PlantWild,v2,apple scab/apple_scab_google_0110.jpg,not_leaf,apple_scab,test_wild,S045,20
+PlantWild,v2,apple scab/apple_scab_google_0111.jpg,not_leaf,apple_scab,test_wild,S045,21
+PlantWild,v2,apple scab/apple_scab_google_0113.jpg,not_leaf,apple_scab,test_wild,S045,22
+PlantWild,v2,apple scab/apple_scab_google_0114.jpg,not_leaf,apple_scab,test_wild,S045,23
+PlantWild,v2,apple scab/apple_scab_google_0115.jpg,not_leaf,apple_scab,test_wild,S045,24
+PlantWild,v2,apple scab/apple_scab_google_0117.jpg,not_leaf,apple_scab,test_wild,S045,25
+PlantWild,v2,apple scab/apple_scab_google_0118.jpg,not_leaf,apple_scab,test_wild,S045,26
+PlantWild,v2,apple scab/apple_scab_google_0119.jpg,not_leaf,apple_scab,test_wild,S045,27
+PlantWild,v2,apple scab/apple_scab_google_0121.jpg,not_leaf,apple_scab,test_wild,S045,28
+PlantWild,v2,apple scab/apple_scab_google_0122.jpg,not_leaf,apple_scab,test_wild,S045,29
+PlantWild,v2,apple scab/apple_scab_google_0124.jpg,not_leaf,apple_scab,test_wild,S045,30
+PlantWild,v2,apple scab/apple_scab_google_0125.jpg,not_leaf,apple_scab,test_wild,S045,31
+PlantWild,v2,apple scab/apple_scab_google_0129.jpg,not_leaf,apple_scab,test_wild,S045,32
+PlantWild,v2,apple scab/apple_scab_google_0130.jpg,not_leaf,apple_scab,test_wild,S045,33
+PlantWild,v2,apple scab/apple_scab_google_0132.jpg,not_leaf,apple_scab,test_wild,S045,34
+PlantWild,v2,apple scab/apple_scab_google_0133.jpg,not_leaf,apple_scab,test_wild,S045,35
+PlantWild,v2,apple scab/apple_scab_google_0134.jpg,not_leaf,apple_scab,test_wild,S045,36
+PlantWild,v2,apple scab/apple_scab_google_0140.jpg,not_leaf,apple_scab,test_wild,S045,40
+PlantWild,v2,apple scab/apple_scab_google_0142.jpg,not_leaf,apple_scab,test_wild,S046,1
+PlantWild,v2,apple scab/apple_scab_google_0143.jpg,not_leaf,apple_scab,test_wild,S046,2
+PlantWild,v2,apple scab/apple_scab_google_0144.jpg,not_leaf,apple_scab,test_wild,S046,3
+PlantWild,v2,apple scab/apple_scab_google_0147.jpg,not_leaf,apple_scab,test_wild,S046,4
+PlantWild,v2,apple scab/apple_scab_google_0152.jpg,not_leaf,apple_scab,test_wild,S046,5
+PlantWild,v2,apple scab/apple_scab_google_0153.jpg,not_leaf,apple_scab,test_wild,S046,6
+PlantWild,v2,apple scab/apple_scab_google_0157.jpg,not_leaf,apple_scab,test_wild,S046,10
+PlantWild,v2,apple scab/apple_scab_google_0158.jpg,not_leaf,apple_scab,test_wild,S046,11
+PlantWild,v2,apple scab/apple_scab_google_0163.jpg,not_leaf,apple_scab,test_wild,S046,12
+PlantWild,v2,apple scab/apple_scab_google_0165.jpg,not_leaf,apple_scab,test_wild,S046,13
+PlantWild,v2,apple scab/apple_scab_google_0177.jpg,not_leaf,apple_scab,test_wild,S046,16
+PlantWild,v2,apple scab/apple_scab_google_0187.jpg,not_leaf,apple_scab,test_wild,S046,19
+PlantWild,v2,apple scab/apple_scab_google_0191.jpg,not_leaf,apple_scab,test_wild,S046,23
+PlantWild,v2,apple scab/apple_scab_google_0192.jpg,not_leaf,apple_scab,test_wild,S046,24
+PlantWild,v2,apple scab/apple_scab_google_0194.jpg,not_leaf,apple_scab,test_wild,S046,26
+PlantWild,v2,apple scab/apple_scab_google_0196.jpg,not_leaf,apple_scab,test_wild,S046,28
+PlantWild,v2,apple scab/apple_scab_google_0200.jpg,not_leaf,apple_scab,test_wild,S046,30
+PlantWild,v2,apple scab/apple_scab_google_0201.jpg,not_leaf,apple_scab,test_wild,S046,31
+PlantWild,v2,apple scab/apple_scab_google_0203.jpg,not_leaf,apple_scab,test_wild,S046,32
+PlantWild,v2,apple scab/apple_scab_google_0204.jpg,not_leaf,apple_scab,test_wild,S046,33
+PlantWild,v2,apple scab/apple_scab_google_0205.jpg,not_leaf,apple_scab,test_wild,S046,34
+PlantWild,v2,apple scab/apple_scab_google_0206.jpg,not_leaf,apple_scab,test_wild,S046,35
+PlantWild,v2,apple scab/apple_scab_google_0208.jpg,not_leaf,apple_scab,test_wild,S046,37
+PlantWild,v2,apple scab/apple_scab_google_0212.jpg,not_leaf,apple_scab,test_wild,S046,39
+PlantWild,v2,apple scab/apple_scab_google_0216.jpg,not_leaf,apple_scab,test_wild,S046,40
+PlantWild,v2,apple scab/apple_scab_google_0219.jpg,not_leaf,apple_scab,test_wild,S047,1
+PlantWild,v2,apple scab/apple_scab_google_0230.jpg,not_leaf,apple_scab,test_wild,S047,3
+PlantWild,v2,apple scab/apple_scab_google_0238.jpg,not_leaf,apple_scab,test_wild,S047,5
+PlantWild,v2,apple scab/apple_scab_google_0240.jpg,not_leaf,apple_scab,test_wild,S047,6
+PlantWild,v2,apple scab/apple_scab_google_0245.jpg,not_leaf,apple_scab,test_wild,S047,8
+PlantWild,v2,apple scab/apple_scab_google_0259.jpg,not_leaf,apple_scab,test_wild,S047,14
+PlantWild,v2,apple scab/apple_scab_google_0268.jpg,not_leaf,apple_scab,test_wild,S047,16
+PlantWild,v2,apple scab/apple_scab_google_0270.jpg,not_leaf,apple_scab,test_wild,S047,17
+PlantWild,v2,apple scab/apple_scab_google_0272.jpg,not_leaf,apple_scab,test_wild,S047,18
+PlantWild,v2,apple scab/apple_scab_google_0273.jpg,not_leaf,apple_scab,test_wild,S047,19
+PlantWild,v2,apple scab/apple_scab_google_0274.jpg,not_leaf,apple_scab,test_wild,S047,20
+PlantWild,v2,apple scab/apple_scab_google_0284.jpg,not_leaf,apple_scab,test_wild,S047,21
+PlantWild,v2,apple scab/apple_scab_google_0288.jpg,not_leaf,apple_scab,test_wild,S047,23
+PlantWild,v2,apple scab/apple_scab_google_0296.jpg,not_leaf,apple_scab,test_wild,S047,27
+PlantWild,v2,apple scab/apple_scab_google_0297.jpg,not_leaf,apple_scab,test_wild,S047,28
+PlantWild,v2,apple scab/apple_scab_google_0300.jpg,not_leaf,apple_scab,test_wild,S047,30
+PlantWild,v2,apple scab/apple_scab_google_0301.jpg,not_leaf,apple_scab,test_wild,S047,31
+PlantWild,v2,apple scab/apple_scab_google_0304.jpg,not_leaf,apple_scab,test_wild,S047,33
+PlantWild,v2,apple scab/apple_scab_google_0306.jpg,not_leaf,apple_scab,test_wild,S047,35
+PlantWild,v2,apple scab/apple_scab_google_0310.jpg,not_leaf,apple_scab,test_wild,S047,36
+PlantWild,v2,apple scab/apple_scab_google_0312.jpg,not_leaf,apple_scab,test_wild,S047,37
+PlantWild,v2,apple scab/apple_scab_google_0315.jpg,not_leaf,apple_scab,test_wild,S047,38
+PlantWild,v2,apple scab/apple_scab_google_0317.jpg,not_leaf,apple_scab,test_wild,S047,40
+PlantWild,v2,apple scab/apple_scab_google_0318.jpg,not_leaf,apple_scab,test_wild,S048,1
+PlantWild,v2,apple scab/apple_scab_google_0319.jpg,not_leaf,apple_scab,test_wild,S048,2
+PlantWild,v2,apple scab/apple_scab_google_0320.jpg,not_leaf,apple_scab,test_wild,S048,3
+PlantWild,v2,apple scab/apple_scab_google_0323.jpg,not_leaf,apple_scab,test_wild,S048,4
+PlantWild,v2,apple scab/apple_scab_google_0330.jpg,not_leaf,apple_scab,test_wild,S048,6
+PlantWild,v2,apple scab/apple_scab_google_0332.jpg,not_leaf,apple_scab,test_wild,S048,7
+PlantWild,v2,corn rust/corn_rust_68.jpg,not_leaf,corn_common_rust,test_wild,S049,40
+PlantWild,v2,corn rust/corn_rust_google_0127.jpg,not_leaf,corn_common_rust,test_wild,S051,39
+PlantWild,v2,corn rust/corn_rust_google_0152.jpg,not_leaf,corn_common_rust,test_wild,S052,9
+PlantWild,v2,corn rust/corn_rust_google_0186.jpg,not_leaf,corn_common_rust,test_wild,S052,23
+PlantWild,v2,corn rust/corn_rust_google_0196.jpg,not_leaf,corn_common_rust,test_wild,S052,26
+PlantWild,v2,corn rust/corn_rust_google_0203.jpg,not_leaf,corn_common_rust,test_wild,S052,28
+PlantWild,v2,corn rust/corn_rust_google_0207.jpg,not_leaf,corn_common_rust,test_wild,S052,30
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0024.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S053,32
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0053.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S053,40
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0055.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S054,1
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0060.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S054,4
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0089.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S054,17
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0173.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S054,34
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0206.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S054,39
+PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0270.jpg,not_leaf,corn_gray_leaf_spot,test_wild,S055,5
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_16.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S056,9
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_58.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S056,37
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0021.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S057,21
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0036.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S057,29
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0043.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S057,33
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0051.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S057,38
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0060.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,1
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0072.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,5
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0074.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,6
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0077.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,7
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0079.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,8
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0098.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,14
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0099.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,15
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0133.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,26
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0134.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,27
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0135.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,28
+PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0162.jpg,not_leaf,corn_northern_leaf_blight,test_wild,S058,32
+PlantWild,v2,grape black rot/grape_black_rot_1.jpg,not_leaf,grape_black_rot,test_wild,S059,1
+PlantWild,v2,grape black rot/grape_black_rot_10.jpg,not_leaf,grape_black_rot,test_wild,S059,2
+PlantWild,v2,grape black rot/grape_black_rot_12.jpg,not_leaf,grape_black_rot,test_wild,S059,3
+PlantWild,v2,grape black rot/grape_black_rot_13.jpg,not_leaf,grape_black_rot,test_wild,S059,4
+PlantWild,v2,grape black rot/grape_black_rot_141.jpg,not_leaf,grape_black_rot,test_wild,S059,5
+PlantWild,v2,grape black rot/grape_black_rot_149.jpg,not_leaf,grape_black_rot,test_wild,S059,6
+PlantWild,v2,grape black rot/grape_black_rot_15.jpg,not_leaf,grape_black_rot,test_wild,S059,7
+PlantWild,v2,grape black rot/grape_black_rot_152.jpg,not_leaf,grape_black_rot,test_wild,S059,8
+PlantWild,v2,grape black rot/grape_black_rot_170.jpg,not_leaf,grape_black_rot,test_wild,S059,9
+PlantWild,v2,grape black rot/grape_black_rot_171.jpg,not_leaf,grape_black_rot,test_wild,S059,10
+PlantWild,v2,grape black rot/grape_black_rot_176.jpg,not_leaf,grape_black_rot,test_wild,S059,11
+PlantWild,v2,grape black rot/grape_black_rot_18.jpg,not_leaf,grape_black_rot,test_wild,S059,12
+PlantWild,v2,grape black rot/grape_black_rot_191.jpg,not_leaf,grape_black_rot,test_wild,S059,13
+PlantWild,v2,grape black rot/grape_black_rot_2.jpg,not_leaf,grape_black_rot,test_wild,S059,14
+PlantWild,v2,grape black rot/grape_black_rot_21.jpg,not_leaf,grape_black_rot,test_wild,S059,15
+PlantWild,v2,grape black rot/grape_black_rot_216.jpg,not_leaf,grape_black_rot,test_wild,S059,16
+PlantWild,v2,grape black rot/grape_black_rot_23.jpg,not_leaf,grape_black_rot,test_wild,S059,17
+PlantWild,v2,grape black rot/grape_black_rot_25.jpg,not_leaf,grape_black_rot,test_wild,S059,18
+PlantWild,v2,grape black rot/grape_black_rot_29.jpg,not_leaf,grape_black_rot,test_wild,S059,19
+PlantWild,v2,grape black rot/grape_black_rot_3.jpg,not_leaf,grape_black_rot,test_wild,S059,20
+PlantWild,v2,grape black rot/grape_black_rot_33.jpg,not_leaf,grape_black_rot,test_wild,S059,21
+PlantWild,v2,grape black rot/grape_black_rot_37.jpg,not_leaf,grape_black_rot,test_wild,S059,22
+PlantWild,v2,grape black rot/grape_black_rot_4.jpg,not_leaf,grape_black_rot,test_wild,S059,23
+PlantWild,v2,grape black rot/grape_black_rot_40.jpg,not_leaf,grape_black_rot,test_wild,S059,24
+PlantWild,v2,grape black rot/grape_black_rot_42.jpg,not_leaf,grape_black_rot,test_wild,S059,25
+PlantWild,v2,grape black rot/grape_black_rot_45.jpg,not_leaf,grape_black_rot,test_wild,S059,26
+PlantWild,v2,grape black rot/grape_black_rot_49.jpg,not_leaf,grape_black_rot,test_wild,S059,27
+PlantWild,v2,grape black rot/grape_black_rot_5.jpg,not_leaf,grape_black_rot,test_wild,S059,28
+PlantWild,v2,grape black rot/grape_black_rot_50.jpg,not_leaf,grape_black_rot,test_wild,S059,29
+PlantWild,v2,grape black rot/grape_black_rot_6.jpg,not_leaf,grape_black_rot,test_wild,S059,30
+PlantWild,v2,grape black rot/grape_black_rot_68.jpg,not_leaf,grape_black_rot,test_wild,S059,31
+PlantWild,v2,grape black rot/grape_black_rot_7.jpg,not_leaf,grape_black_rot,test_wild,S059,32
+PlantWild,v2,grape black rot/grape_black_rot_8.jpg,not_leaf,grape_black_rot,test_wild,S059,33
+PlantWild,v2,grape black rot/grape_black_rot_9.jpg,not_leaf,grape_black_rot,test_wild,S059,34
+PlantWild,v2,grape black rot/grape_black_rot_google_0000.jpg,not_leaf,grape_black_rot,test_wild,S059,35
+PlantWild,v2,grape black rot/grape_black_rot_google_0001.jpg,not_leaf,grape_black_rot,test_wild,S059,36
+PlantWild,v2,grape black rot/grape_black_rot_google_0003.jpg,not_leaf,grape_black_rot,test_wild,S059,37
+PlantWild,v2,grape black rot/grape_black_rot_google_0005.jpg,not_leaf,grape_black_rot,test_wild,S059,38
+PlantWild,v2,grape black rot/grape_black_rot_google_0007.jpg,not_leaf,grape_black_rot,test_wild,S059,39
+PlantWild,v2,grape black rot/grape_black_rot_google_0009.jpg,not_leaf,grape_black_rot,test_wild,S059,40
+PlantWild,v2,grape black rot/grape_black_rot_google_0011.jpg,not_leaf,grape_black_rot,test_wild,S060,1
+PlantWild,v2,grape black rot/grape_black_rot_google_0013.jpg,not_leaf,grape_black_rot,test_wild,S060,2
+PlantWild,v2,grape black rot/grape_black_rot_google_0014.jpg,not_leaf,grape_black_rot,test_wild,S060,3
+PlantWild,v2,grape black rot/grape_black_rot_google_0018.jpg,not_leaf,grape_black_rot,test_wild,S060,4
+PlantWild,v2,grape black rot/grape_black_rot_google_0019.jpg,not_leaf,grape_black_rot,test_wild,S060,5
+PlantWild,v2,grape black rot/grape_black_rot_google_0021.jpg,not_leaf,grape_black_rot,test_wild,S060,6
+PlantWild,v2,grape black rot/grape_black_rot_google_0024.jpg,not_leaf,grape_black_rot,test_wild,S060,7
+PlantWild,v2,grape black rot/grape_black_rot_google_0027.jpg,not_leaf,grape_black_rot,test_wild,S060,8
+PlantWild,v2,grape black rot/grape_black_rot_google_0028.jpg,not_leaf,grape_black_rot,test_wild,S060,9
+PlantWild,v2,grape black rot/grape_black_rot_google_0041.jpg,not_leaf,grape_black_rot,test_wild,S060,12
+PlantWild,v2,grape black rot/grape_black_rot_google_0043.jpg,not_leaf,grape_black_rot,test_wild,S060,13
+PlantWild,v2,grape black rot/grape_black_rot_google_0049.jpg,not_leaf,grape_black_rot,test_wild,S060,14
+PlantWild,v2,grape black rot/grape_black_rot_google_0050.jpg,not_leaf,grape_black_rot,test_wild,S060,15
+PlantWild,v2,grape black rot/grape_black_rot_google_0051.jpg,not_leaf,grape_black_rot,test_wild,S060,16
+PlantWild,v2,grape black rot/grape_black_rot_google_0064.jpg,not_leaf,grape_black_rot,test_wild,S060,19
+PlantWild,v2,grape black rot/grape_black_rot_google_0067.jpg,not_leaf,grape_black_rot,test_wild,S060,20
+PlantWild,v2,grape black rot/grape_black_rot_google_0068.jpg,not_leaf,grape_black_rot,test_wild,S060,21
+PlantWild,v2,grape black rot/grape_black_rot_google_0071.jpg,not_leaf,grape_black_rot,test_wild,S060,22
+PlantWild,v2,grape black rot/grape_black_rot_google_0075.jpg,not_leaf,grape_black_rot,test_wild,S060,24
+PlantWild,v2,grape black rot/grape_black_rot_google_0077.jpg,not_leaf,grape_black_rot,test_wild,S060,25
+PlantWild,v2,grape black rot/grape_black_rot_google_0080.jpg,not_leaf,grape_black_rot,test_wild,S060,26
+PlantWild,v2,grape black rot/grape_black_rot_google_0081.jpg,not_leaf,grape_black_rot,test_wild,S060,27
+PlantWild,v2,grape black rot/grape_black_rot_google_0085.jpg,not_leaf,grape_black_rot,test_wild,S060,29
+PlantWild,v2,grape black rot/grape_black_rot_google_0087.jpg,not_leaf,grape_black_rot,test_wild,S060,30
+PlantWild,v2,grape black rot/grape_black_rot_google_0088.jpg,not_leaf,grape_black_rot,test_wild,S060,31
+PlantWild,v2,grape black rot/grape_black_rot_google_0090.jpg,not_leaf,grape_black_rot,test_wild,S060,33
+PlantWild,v2,grape black rot/grape_black_rot_google_0097.jpg,not_leaf,grape_black_rot,test_wild,S060,36
+PlantWild,v2,grape black rot/grape_black_rot_google_0101.jpg,not_leaf,grape_black_rot,test_wild,S060,37
+PlantWild,v2,grape black rot/grape_black_rot_google_0108.jpg,not_leaf,grape_black_rot,test_wild,S060,38
+PlantWild,v2,grape black rot/grape_black_rot_google_0118.jpg,not_leaf,grape_black_rot,test_wild,S060,40
+PlantWild,v2,grape black rot/grape_black_rot_google_0119.jpg,not_leaf,grape_black_rot,test_wild,S061,1
+PlantWild,v2,grape black rot/grape_black_rot_google_0123.jpg,not_leaf,grape_black_rot,test_wild,S061,2
+PlantWild,v2,grape black rot/grape_black_rot_google_0130.jpg,not_leaf,grape_black_rot,test_wild,S061,3
+PlantWild,v2,grape black rot/grape_black_rot_google_0132.jpg,not_leaf,grape_black_rot,test_wild,S061,4
+PlantWild,v2,grape black rot/grape_black_rot_google_0147.jpg,not_leaf,grape_black_rot,test_wild,S061,6
+PlantWild,v2,grape black rot/grape_black_rot_google_0156.jpg,not_leaf,grape_black_rot,test_wild,S061,8
+PlantWild,v2,grape black rot/grape_black_rot_google_0158.jpg,not_leaf,grape_black_rot,test_wild,S061,9
+PlantWild,v2,grape black rot/grape_black_rot_google_0161.jpg,not_leaf,grape_black_rot,test_wild,S061,10
+PlantWild,v2,grape black rot/grape_black_rot_google_0162.jpg,not_leaf,grape_black_rot,test_wild,S061,11
+PlantWild,v2,grape black rot/grape_black_rot_google_0166.jpg,not_leaf,grape_black_rot,test_wild,S061,12
+PlantWild,v2,grape black rot/grape_black_rot_google_0204.jpg,not_leaf,grape_black_rot,test_wild,S061,14
+PlantWild,v2,grape black rot/grape_black_rot_google_0223.jpg,not_leaf,grape_black_rot,test_wild,S061,18
+PlantWild,v2,grape black rot/grape_black_rot_google_0233.jpg,not_leaf,grape_black_rot,test_wild,S061,20
+PlantWild,v2,grape black rot/grape_black_rot_google_0237.jpg,not_leaf,grape_black_rot,test_wild,S061,21
+PlantWild,v2,grape black rot/grape_black_rot_google_0239.jpg,not_leaf,grape_black_rot,test_wild,S061,22
+PlantWild,v2,grape black rot/grape_black_rot_google_0260.jpg,not_leaf,grape_black_rot,test_wild,S061,23
+PlantWild,v2,grape black rot/grape_black_rot_google_0262.jpg,not_leaf,grape_black_rot,test_wild,S061,24
+PlantWild,v2,grape black rot/grape_black_rot_google_0286.jpg,not_leaf,grape_black_rot,test_wild,S061,26
+PlantWild,v2,grape black rot/grape_black_rot_google_0291.jpg,not_leaf,grape_black_rot,test_wild,S061,27
+PlantWild,v2,grape black rot/grape_black_rot_google_0307.jpg,not_leaf,grape_black_rot,test_wild,S061,28
+PlantWild,v2,grape black rot/grape_black_rot_google_0330.jpg,not_leaf,grape_black_rot,test_wild,S061,30
+PlantWild,v2,grape black rot/grape_black_rot_google_0332.jpg,not_leaf,grape_black_rot,test_wild,S061,31
+PlantWild,v2,grape black rot/grape_black_rot_google_0356.jpg,not_leaf,grape_black_rot,test_wild,S061,32
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0001.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,2
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0009.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,8
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0022.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,14
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0029.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,17
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0053.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,26
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0056.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,29
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0067.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,32
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0085.jpg,not_leaf,pepper_bacterial_spot,test_wild,S062,37
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0113.jpg,not_leaf,pepper_bacterial_spot,test_wild,S063,3
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0144.jpg,not_leaf,pepper_bacterial_spot,test_wild,S063,6
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0148.jpg,not_leaf,pepper_bacterial_spot,test_wild,S063,7
+PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Google_0033.jpg,not_leaf,pepper_bacterial_spot,test_wild,S063,16
+PlantWild,v2,potato early blight/potato_early_blight_google_0007.jpg,not_leaf,potato_early_blight,test_wild,S064,33
+PlantWild,v2,potato early blight/potato_early_blight_google_0015.jpg,not_leaf,potato_early_blight,test_wild,S064,36
+PlantWild,v2,potato early blight/potato_early_blight_google_0182.jpg,not_leaf,potato_early_blight,test_wild,S065,29
+PlantWild,v2,potato late blight/potato_late_blight_google_0118.jpg,not_leaf,potato_late_blight,test_wild,S068,33
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_1.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,1
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_11.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,5
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_122.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,8
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_147.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,12
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_177.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,21
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_184.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,23
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_19.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,26
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_2.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,28
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_27.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,33
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_30.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,35
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_33.jpg,not_leaf,tomato_bacterial_spot,test_wild,S070,38
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_42.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,1
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_44.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,3
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_48.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,4
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_51.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,6
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_57.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,7
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_63.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,9
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_71.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,14
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_8.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,18
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_80.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,19
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_81.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,20
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_9.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,21
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0033.jpg,not_leaf,tomato_bacterial_spot,test_wild,S071,29
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0095.jpg,not_leaf,tomato_bacterial_spot,test_wild,S072,3
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0144.jpg,not_leaf,tomato_bacterial_spot,test_wild,S072,7
+PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0405.jpg,not_leaf,tomato_bacterial_spot,test_wild,S072,16
+PlantWild,v2,tomato early blight/tomato_early_blight_1.jpg,not_leaf,tomato_early_blight,test_wild,S073,1
+PlantWild,v2,tomato early blight/tomato_early_blight_12.jpg,not_leaf,tomato_early_blight,test_wild,S073,4
+PlantWild,v2,tomato early blight/tomato_early_blight_120.jpg,not_leaf,tomato_early_blight,test_wild,S073,5
+PlantWild,v2,tomato early blight/tomato_early_blight_140.jpg,not_leaf,tomato_early_blight,test_wild,S073,13
+PlantWild,v2,tomato early blight/tomato_early_blight_159.jpg,not_leaf,tomato_early_blight,test_wild,S073,16
+PlantWild,v2,tomato early blight/tomato_early_blight_178.jpg,not_leaf,tomato_early_blight,test_wild,S073,21
+PlantWild,v2,tomato early blight/tomato_early_blight_182.jpg,not_leaf,tomato_early_blight,test_wild,S073,23
+PlantWild,v2,tomato early blight/tomato_early_blight_19.jpg,not_leaf,tomato_early_blight,test_wild,S073,27
+PlantWild,v2,tomato early blight/tomato_early_blight_202.jpg,not_leaf,tomato_early_blight,test_wild,S073,30
+PlantWild,v2,tomato early blight/tomato_early_blight_25.jpg,not_leaf,tomato_early_blight,test_wild,S073,38
+PlantWild,v2,tomato early blight/tomato_early_blight_28.jpg,not_leaf,tomato_early_blight,test_wild,S073,40
+PlantWild,v2,tomato early blight/tomato_early_blight_39.jpg,not_leaf,tomato_early_blight,test_wild,S074,6
+PlantWild,v2,tomato early blight/tomato_early_blight_4.jpg,not_leaf,tomato_early_blight,test_wild,S074,7
+PlantWild,v2,tomato early blight/tomato_early_blight_67.jpg,not_leaf,tomato_early_blight,test_wild,S074,15
+PlantWild,v2,tomato early blight/tomato_early_blight_89.jpg,not_leaf,tomato_early_blight,test_wild,S074,20
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0002.jpg,not_leaf,tomato_early_blight,test_wild,S074,24
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0021.jpg,not_leaf,tomato_early_blight,test_wild,S074,32
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0047.jpg,not_leaf,tomato_early_blight,test_wild,S074,35
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0073.jpg,not_leaf,tomato_early_blight,test_wild,S075,2
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0074.jpg,not_leaf,tomato_early_blight,test_wild,S075,3
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0077.jpg,not_leaf,tomato_early_blight,test_wild,S075,4
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0088.jpg,not_leaf,tomato_early_blight,test_wild,S075,7
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0098.jpg,not_leaf,tomato_early_blight,test_wild,S075,9
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0123.jpg,not_leaf,tomato_early_blight,test_wild,S075,13
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0140.jpg,not_leaf,tomato_early_blight,test_wild,S075,16
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0183.jpg,not_leaf,tomato_early_blight,test_wild,S075,24
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0247.jpg,not_leaf,tomato_early_blight,test_wild,S075,38
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0258.jpg,not_leaf,tomato_early_blight,test_wild,S076,1
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0290.jpg,not_leaf,tomato_early_blight,test_wild,S076,5
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0350.jpg,not_leaf,tomato_early_blight,test_wild,S076,11
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0383.jpg,not_leaf,tomato_early_blight,test_wild,S076,14
+PlantWild,v2,tomato early blight/tomato_early_blight_google_0390.jpg,not_leaf,tomato_early_blight,test_wild,S076,16
+PlantWild,v2,tomato late blight/tomato_late_blight_107.jpg,not_leaf,tomato_late_blight,test_wild,S077,4
+PlantWild,v2,tomato late blight/tomato_late_blight_122.jpg,not_leaf,tomato_late_blight,test_wild,S077,7
+PlantWild,v2,tomato late blight/tomato_late_blight_162.jpg,not_leaf,tomato_late_blight,test_wild,S077,19
+PlantWild,v2,tomato late blight/tomato_late_blight_168.jpg,not_leaf,tomato_late_blight,test_wild,S077,21
+PlantWild,v2,tomato late blight/tomato_late_blight_170.jpg,not_leaf,tomato_late_blight,test_wild,S077,22
+PlantWild,v2,tomato late blight/tomato_late_blight_179.jpg,not_leaf,tomato_late_blight,test_wild,S077,26
+PlantWild,v2,tomato late blight/tomato_late_blight_18.jpg,not_leaf,tomato_late_blight,test_wild,S077,27
+PlantWild,v2,tomato late blight/tomato_late_blight_182.jpg,not_leaf,tomato_late_blight,test_wild,S077,28
+PlantWild,v2,tomato late blight/tomato_late_blight_186.jpg,not_leaf,tomato_late_blight,test_wild,S077,30
+PlantWild,v2,tomato late blight/tomato_late_blight_189.jpg,not_leaf,tomato_late_blight,test_wild,S077,31
+PlantWild,v2,tomato late blight/tomato_late_blight_203.jpg,not_leaf,tomato_late_blight,test_wild,S077,36
+PlantWild,v2,tomato late blight/tomato_late_blight_209.jpg,not_leaf,tomato_late_blight,test_wild,S077,40
+PlantWild,v2,tomato late blight/tomato_late_blight_217.jpg,not_leaf,tomato_late_blight,test_wild,S078,2
+PlantWild,v2,tomato late blight/tomato_late_blight_220.jpg,not_leaf,tomato_late_blight,test_wild,S078,3
+PlantWild,v2,tomato late blight/tomato_late_blight_238.jpg,not_leaf,tomato_late_blight,test_wild,S078,7
+PlantWild,v2,tomato late blight/tomato_late_blight_246.jpg,not_leaf,tomato_late_blight,test_wild,S078,9
+PlantWild,v2,tomato late blight/tomato_late_blight_3.jpg,not_leaf,tomato_late_blight,test_wild,S078,11
+PlantWild,v2,tomato late blight/tomato_late_blight_30.jpg,not_leaf,tomato_late_blight,test_wild,S078,12
+PlantWild,v2,tomato late blight/tomato_late_blight_31.jpg,not_leaf,tomato_late_blight,test_wild,S078,13
+PlantWild,v2,tomato late blight/tomato_late_blight_33.jpg,not_leaf,tomato_late_blight,test_wild,S078,14
+PlantWild,v2,tomato late blight/tomato_late_blight_39.jpg,not_leaf,tomato_late_blight,test_wild,S078,16
+PlantWild,v2,tomato late blight/tomato_late_blight_41.jpg,not_leaf,tomato_late_blight,test_wild,S078,18
+PlantWild,v2,tomato late blight/tomato_late_blight_61.jpg,not_leaf,tomato_late_blight,test_wild,S078,26
+PlantWild,v2,tomato late blight/tomato_late_blight_65.jpg,not_leaf,tomato_late_blight,test_wild,S078,27
+PlantWild,v2,tomato late blight/tomato_late_blight_69.jpg,not_leaf,tomato_late_blight,test_wild,S078,30
+PlantWild,v2,tomato late blight/tomato_late_blight_77.jpg,not_leaf,tomato_late_blight,test_wild,S078,34
+PlantWild,v2,tomato late blight/tomato_late_blight_78.jpg,not_leaf,tomato_late_blight,test_wild,S078,35
+PlantWild,v2,tomato late blight/tomato_late_blight_79.jpg,not_leaf,tomato_late_blight,test_wild,S078,36
+PlantWild,v2,tomato late blight/tomato_late_blight_83.jpg,not_leaf,tomato_late_blight,test_wild,S078,39
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0007.jpg,not_leaf,tomato_late_blight,test_wild,S079,7
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0012.jpg,not_leaf,tomato_late_blight,test_wild,S079,8
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0013.jpg,not_leaf,tomato_late_blight,test_wild,S079,9
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0015.jpg,not_leaf,tomato_late_blight,test_wild,S079,10
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0031.jpg,not_leaf,tomato_late_blight,test_wild,S079,13
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0043.jpg,not_leaf,tomato_late_blight,test_wild,S079,16
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0044.jpg,not_leaf,tomato_late_blight,test_wild,S079,17
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0045.jpg,not_leaf,tomato_late_blight,test_wild,S079,18
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0048.jpg,not_leaf,tomato_late_blight,test_wild,S079,19
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0050.jpg,not_leaf,tomato_late_blight,test_wild,S079,20
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0058.jpg,not_leaf,tomato_late_blight,test_wild,S079,22
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0066.jpg,not_leaf,tomato_late_blight,test_wild,S079,24
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0067.jpg,not_leaf,tomato_late_blight,test_wild,S079,25
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0074.jpg,not_leaf,tomato_late_blight,test_wild,S079,26
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0077.jpg,not_leaf,tomato_late_blight,test_wild,S079,27
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0080.jpg,not_leaf,tomato_late_blight,test_wild,S079,28
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0083.jpg,not_leaf,tomato_late_blight,test_wild,S079,29
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0084.jpg,not_leaf,tomato_late_blight,test_wild,S079,30
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0085.jpg,not_leaf,tomato_late_blight,test_wild,S079,31
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0087.jpg,not_leaf,tomato_late_blight,test_wild,S079,32
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0092.jpg,not_leaf,tomato_late_blight,test_wild,S079,33
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0095.jpg,not_leaf,tomato_late_blight,test_wild,S079,34
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0100.jpg,not_leaf,tomato_late_blight,test_wild,S079,35
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0101.jpg,not_leaf,tomato_late_blight,test_wild,S079,36
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0118.jpg,not_leaf,tomato_late_blight,test_wild,S079,40
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0120.jpg,not_leaf,tomato_late_blight,test_wild,S080,1
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0124.jpg,not_leaf,tomato_late_blight,test_wild,S080,2
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0133.jpg,not_leaf,tomato_late_blight,test_wild,S080,3
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0138.jpg,not_leaf,tomato_late_blight,test_wild,S080,6
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0140.jpg,not_leaf,tomato_late_blight,test_wild,S080,7
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0142.jpg,not_leaf,tomato_late_blight,test_wild,S080,8
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0156.jpg,not_leaf,tomato_late_blight,test_wild,S080,9
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0157.jpg,not_leaf,tomato_late_blight,test_wild,S080,10
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0159.jpg,not_leaf,tomato_late_blight,test_wild,S080,11
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0181.jpg,not_leaf,tomato_late_blight,test_wild,S080,13
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0184.jpg,not_leaf,tomato_late_blight,test_wild,S080,14
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0189.jpg,not_leaf,tomato_late_blight,test_wild,S080,16
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0206.jpg,not_leaf,tomato_late_blight,test_wild,S080,19
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0220.jpg,not_leaf,tomato_late_blight,test_wild,S080,22
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0221.jpg,not_leaf,tomato_late_blight,test_wild,S080,23
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0226.jpg,not_leaf,tomato_late_blight,test_wild,S080,25
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0235.jpg,not_leaf,tomato_late_blight,test_wild,S080,26
+PlantWild,v2,tomato late blight/tomato_late_blight_google_0244.jpg,not_leaf,tomato_late_blight,test_wild,S080,27
+PlantWild,v2,tomato leaf mold/tomato_leaf_mold_190.jpg,not_leaf,tomato_leaf_mold,test_wild,S081,39
+PlantWild,v2,tomato leaf mold/tomato_leaf_mold_25.jpg,not_leaf,tomato_leaf_mold,test_wild,S082,25
+PlantWild,v2,tomato leaf mold/tomato_leaf_mold_31.jpg,not_leaf,tomato_leaf_mold,test_wild,S082,39
+PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0046.jpg,not_leaf,tomato_mosaic_virus,test_wild,S085,36
+PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_23.jpg,not_leaf,tomato_septoria_leaf_spot,test_wild,S087,15
+PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0015.jpg,not_leaf,tomato_septoria_leaf_spot,test_wild,S088,3
+PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0045.jpg,not_leaf,tomato_septoria_leaf_spot,test_wild,S088,17
+PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0069.jpg,not_leaf,tomato_septoria_leaf_spot,test_wild,S088,23
+PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0084.jpg,not_leaf,tomato_septoria_leaf_spot,test_wild,S088,27
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_149.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S090,4
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_45.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S090,25
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0029.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S091,6
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0056.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S091,11
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0075.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S091,18
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0095.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S091,22
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0122.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S091,28
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0146.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S091,31
+PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0173.jpg,not_leaf,tomato_yellow_leaf_curl,test_wild,S091,36
+PlantDoc,train,train/Apple rust leaf/P7290482.JPG.jpg,not_leaf,apple_cedar_rust,val_wild,S092,39
+PlantDoc,train,train/Apple rust leaf/apples_rusts+apple-scab.jpg,not_leaf,apple_cedar_rust,val_wild,S093,13
+PlantDoc,train,train/Apple Scab Leaf/apple_scab.jpg,not_leaf,apple_scab,val_wild,S096,10
+PlantDoc,train,train/Apple Scab Leaf/apples-severely-affected-by-apple-scab-venturia-inaequalis-dgk11a.jpg,not_leaf,apple_scab,val_wild,S096,15
+PlantDoc,train,train/Corn Gray leaf spot/FJ_010_F17220_B00010.jpg,not_leaf,corn_gray_leaf_spot,val_wild,S101,19
+PlantDoc,train,train/Corn Gray leaf spot/GetFile.aspx_guid=fb78e057-33b3-4901-b836-e08e45889f6f.jpg,not_leaf,corn_gray_leaf_spot,val_wild,S101,27
+PlantDoc,train,train/Corn leaf blight/Corn+Blight+1970+Fungus%3A+Southern+Corn+Leaf+Blight.jpg,not_leaf,corn_northern_leaf_blight,val_wild,S104,2
+PlantDoc,train,train/Corn leaf blight/Figure%202%20Foliar%20symptoms%20of%20similar%20diseases%20to%20Goss.jpg,not_leaf,corn_northern_leaf_blight,val_wild,S104,19
+PlantDoc,train,train/Corn leaf blight/Risk+factors+for+Goss%E2%80%99s+wilt+and+leaf+blight+Percent+surface+residue.jpg,not_leaf,corn_northern_leaf_blight,val_wild,S105,12
+PlantDoc,train,train/Corn leaf blight/corn_disease_clip_image001_0003.jpg,not_leaf,corn_northern_leaf_blight,val_wild,S106,10
+PlantDoc,train,train/grape leaf black rot/01gb.jpg,not_leaf,grape_black_rot,val_wild,S108,11
+PlantDoc,train,train/grape leaf black rot/Concord-Grapes.jpg,not_leaf,grape_black_rot,val_wild,S108,36
+PlantDoc,train,train/grape leaf black rot/PLPATH-FRU-24_Fig1-black-rot-spots-on-grape-leaf_Page_1.jpg,not_leaf,grape_black_rot,val_wild,S109,3
+PlantDoc,train,train/grape leaf black rot/p_319.jpg,not_leaf,grape_black_rot,val_wild,S109,23
+PlantDoc,test,test/Bell_pepper leaf spot/01.jpg,not_leaf,pepper_bacterial_spot,val_wild,S110,3
+PlantDoc,train,train/Bell_pepper leaf spot/02.jpg,not_leaf,pepper_bacterial_spot,val_wild,S110,12
+PlantDoc,train,train/Bell_pepper leaf spot/03.jpg,not_leaf,pepper_bacterial_spot,val_wild,S110,13
+PlantDoc,train,train/Bell_pepper leaf spot/pepper-plant-leaves-holes-in-pepper-plant-leaves-holes-in-pepper-plant-leaves-small-holes-in-pepper-plant-leaves-pepper-plant-leaves-eaten.jpg,not_leaf,pepper_bacterial_spot,val_wild,S111,17
+PlantDoc,test,test/Tomato leaf bacterial spot/%2320+Bacterial+Spot+and+Speck.jpg,not_leaf,tomato_bacterial_spot,val_wild,S118,1
+PlantDoc,test,test/Tomato leaf bacterial spot/Tom_Bact3.jpg,not_leaf,tomato_bacterial_spot,val_wild,S118,3
+PlantDoc,train,train/Tomato leaf bacterial spot/a3fb24f84fe70e5d37352d13106531d6.jpg,not_leaf,tomato_bacterial_spot,val_wild,S119,20
+PlantDoc,train,train/Tomato leaf bacterial spot/bac-canker.jpg,not_leaf,tomato_bacterial_spot,val_wild,S119,23
+PlantDoc,train,train/Tomato leaf bacterial spot/bac-spot.jpg,not_leaf,tomato_bacterial_spot,val_wild,S119,24
+PlantDoc,train,train/Tomato leaf bacterial spot/bac.jpg,not_leaf,tomato_bacterial_spot,val_wild,S119,25
+PlantDoc,train,train/Tomato leaf bacterial spot/bacterial-spot-of-tomato-6-638.jpg,not_leaf,tomato_bacterial_spot,val_wild,S119,35
+PlantDoc,train,train/Tomato leaf bacterial spot/bacterial-spot-of-tomato-7-638.jpg,not_leaf,tomato_bacterial_spot,val_wild,S119,36
+PlantDoc,test,test/Tomato Early blight leaf/039b47d574bc4bb8a14259a1cd96a741.jpg,not_leaf,tomato_early_blight,val_wild,S121,1
+PlantDoc,train,train/Tomato Early blight leaf/tomato_blight_early.jpg,not_leaf,tomato_early_blight,val_wild,S122,29
+PlantDoc,train,train/Tomato leaf late blight/late-blight-phytophthora-infestans-damage-to-tomato-leaves-and-fruit-cmnxnf.jpg,not_leaf,tomato_late_blight,val_wild,S124,13
+PlantDoc,train,train/Tomato leaf late blight/tomato+blight.jpg,not_leaf,tomato_late_blight,val_wild,S125,3
+PlantDoc,train,train/Tomato mold leaf/Leaf+Mold+upper+leaf+surface.jpg,not_leaf,tomato_leaf_mold,val_wild,S126,33
+PlantDoc,test,test/Tomato leaf mosaic virus/page_2.jpg,not_leaf,tomato_mosaic_virus,val_wild,S129,5
+PlantDoc,train,train/Tomato leaf mosaic virus/Tomato-brown-rugose-fruit-virus-ToBRFV-infected-tomato-Solanum-lycopersicum-plants_Q320.jpg,not_leaf,tomato_mosaic_virus,val_wild,S129,20
+PlantDoc,test,test/Tomato Septoria leaf spot/0.jpg,not_leaf,tomato_septoria_leaf_spot,val_wild,S131,1
+PlantDoc,train,train/Tomato Septoria leaf spot/128110613-56a6d3633df78cf7729070ad.jpg,not_leaf,tomato_septoria_leaf_spot,val_wild,S131,12
+PlantDoc,train,train/Tomato Septoria leaf spot/20100824septoria.jpg,not_leaf,tomato_septoria_leaf_spot,val_wild,S131,17
+PlantDoc,train,train/Tomato Septoria leaf spot/3-septoria-leaf-blight-n.jpg,not_leaf,tomato_septoria_leaf_spot,val_wild,S131,20
+PlantDoc,train,train/Tomato Septoria leaf spot/septoria-leaf-spot-in-tomatoes.jpg,not_leaf,tomato_septoria_leaf_spot,val_wild,S133,10
+PlantDoc,train,train/Tomato Septoria leaf spot/tomato-diseases-1-638.jpg,not_leaf,tomato_septoria_leaf_spot,val_wild,S133,37
+PlantDoc,test,test/Tomato leaf yellow virus/glyphosate.jpg,not_leaf,tomato_yellow_leaf_curl,val_wild,S135,5
+PlantDoc,test,test/Tomato leaf yellow virus/tylcv-seminar-1-638.jpg,not_leaf,tomato_yellow_leaf_curl,val_wild,S135,6
+PlantDoc,train,train/Tomato leaf yellow virus/IU-TYLCV_img_6.jpg,not_leaf,tomato_yellow_leaf_curl,val_wild,S135,30
+PlantDoc,train,train/Tomato leaf yellow virus/tomato-yellow-leaf-curl-virus-pdf-78kb.jpg,not_leaf,tomato_yellow_leaf_curl,val_wild,S136,19
+PlantDoc,train,train/Tomato leaf yellow virus/tomato_leaf_roll.JPG.jpg,not_leaf,tomato_yellow_leaf_curl,val_wild,S136,25
