@@ -7,3 +7,6 @@ audit_outputs/contact_sheets/
 audit_outputs/duplicate_pairs/
 audit_outputs/hash_cache.csv
 audit_outputs/image_index.csv
+
+# review outputs images (licence)
+review/sheets/
