@@ -1,0 +1,102 @@
+[
+  {
+    "index": 0,
+    "id": "apple_scab",
+    "crop": "apple"
+  },
+  {
+    "index": 1,
+    "id": "apple_cedar_rust",
+    "crop": "apple"
+  },
+  {
+    "index": 2,
+    "id": "apple_healthy",
+    "crop": "apple"
+  },
+  {
+    "index": 3,
+    "id": "pepper_bacterial_spot",
+    "crop": "bell_pepper"
+  },
+  {
+    "index": 4,
+    "id": "pepper_healthy",
+    "crop": "bell_pepper"
+  },
+  {
+    "index": 5,
+    "id": "corn_gray_leaf_spot",
+    "crop": "corn"
+  },
+  {
+    "index": 6,
+    "id": "corn_northern_leaf_blight",
+    "crop": "corn"
+  },
+  {
+    "index": 7,
+    "id": "corn_common_rust",
+    "crop": "corn"
+  },
+  {
+    "index": 8,
+    "id": "grape_black_rot",
+    "crop": "grape"
+  },
+  {
+    "index": 9,
+    "id": "grape_healthy",
+    "crop": "grape"
+  },
+  {
+    "index": 10,
+    "id": "potato_early_blight",
+    "crop": "potato"
+  },
+  {
+    "index": 11,
+    "id": "potato_late_blight",
+    "crop": "potato"
+  },
+  {
+    "index": 12,
+    "id": "tomato_bacterial_spot",
+    "crop": "tomato"
+  },
+  {
+    "index": 13,
+    "id": "tomato_early_blight",
+    "crop": "tomato"
+  },
+  {
+    "index": 14,
+    "id": "tomato_late_blight",
+    "crop": "tomato"
+  },
+  {
+    "index": 15,
+    "id": "tomato_leaf_mold",
+    "crop": "tomato"
+  },
+  {
+    "index": 16,
+    "id": "tomato_septoria_leaf_spot",
+    "crop": "tomato"
+  },
+  {
+    "index": 17,
+    "id": "tomato_mosaic_virus",
+    "crop": "tomato"
+  },
+  {
+    "index": 18,
+    "id": "tomato_yellow_leaf_curl",
+    "crop": "tomato"
+  },
+  {
+    "index": 19,
+    "id": "tomato_healthy",
+    "crop": "tomato"
+  }
+]
