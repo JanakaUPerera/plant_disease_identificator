@@ -13,3 +13,6 @@ review/sheets/
 
 # cache images (licence)
 cache_256/
+
+# checkpoints
+checkpoints/
