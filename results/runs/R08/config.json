@@ -1,0 +1,18 @@
+{
+  "run_id": "R08",
+  "note": "LR sweep: AdamW lr 1e-4",
+  "depth": 18,
+  "pretrained": true,
+  "freeze": "none",
+  "augment": true,
+  "optimiser": "adamw",
+  "lr": 0.0001,
+  "weight_decay": 0.01,
+  "batch_size": 64,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 42,
+  "num_workers": 8
+}
