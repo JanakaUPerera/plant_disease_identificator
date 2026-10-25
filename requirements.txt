@@ -1,6 +1,22 @@
-huggingface_hub>=0.23
+# requirements.txt
+# Python 3.13 (developed on 3.13.7, Windows, RTX 4050, CUDA 12.6)
+
+# data, images, metrics
 tqdm>=4.60
 numpy>=1.24
 pandas>=2.0
-pillow>=10.0
+pillow>=10.1
 imagehash>=4.3
+scikit-learn>=1.3
+matplotlib>=3.7
+
+# download
+huggingface_hub>=0.23
+
+# notebooks
+jupyter
+
+# PyTorch CUDA 12.6 wheels
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.14.1
+torchvision==0.29.1
