@@ -1,0 +1,18 @@
+{
+  "run_id": "R02",
+  "note": "fine-tune stage 4 + head (stem and stages 1-3 frozen)",
+  "depth": 18,
+  "pretrained": true,
+  "freeze": "stages1-3",
+  "augment": false,
+  "optimiser": "sgd",
+  "lr": 0.01,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 42,
+  "num_workers": 8
+}
