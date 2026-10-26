@@ -1,0 +1,18 @@
+{
+  "run_id": "R16",
+  "note": "batch size 16 (SGD lr 1e-3; compare R05 = bs 64)",
+  "depth": 18,
+  "pretrained": true,
+  "freeze": "none",
+  "augment": true,
+  "optimiser": "sgd",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 16,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 42,
+  "num_workers": 8
+}

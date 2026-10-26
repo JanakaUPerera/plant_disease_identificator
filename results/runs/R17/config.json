@@ -1,0 +1,18 @@
+{
+  "run_id": "R17",
+  "note": "depth: ResNet-34 (SGD lr 1e-3, bs 64; compare R05 = ResNet-18)",
+  "depth": 34,
+  "pretrained": true,
+  "freeze": "none",
+  "augment": true,
+  "optimiser": "sgd",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 42,
+  "num_workers": 8
+}
