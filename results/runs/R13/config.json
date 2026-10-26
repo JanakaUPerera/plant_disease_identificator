@@ -1,0 +1,18 @@
+{
+  "run_id": "R13",
+  "note": "LR sweep: AdamW lr 3e-5 (below range)",
+  "depth": 18,
+  "pretrained": true,
+  "freeze": "none",
+  "augment": true,
+  "optimiser": "adamw",
+  "lr": 3e-05,
+  "weight_decay": 0.01,
+  "batch_size": 64,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 42,
+  "num_workers": 8
+}
