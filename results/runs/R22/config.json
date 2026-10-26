@@ -1,0 +1,18 @@
+{
+  "run_id": "R22",
+  "note": "FINAL setting (= R15), seed 2",
+  "depth": 18,
+  "pretrained": true,
+  "freeze": "none",
+  "augment": true,
+  "optimiser": "sgd",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 32,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 2,
+  "num_workers": 8
+}
