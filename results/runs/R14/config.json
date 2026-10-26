@@ -1,0 +1,18 @@
+{
+  "run_id": "R14",
+  "note": "LR sweep: AdamW lr 1e-5 (bracket AdamW optimum)",
+  "depth": 18,
+  "pretrained": true,
+  "freeze": "none",
+  "augment": true,
+  "optimiser": "adamw",
+  "lr": 1e-05,
+  "weight_decay": 0.01,
+  "batch_size": 64,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 42,
+  "num_workers": 8
+}
