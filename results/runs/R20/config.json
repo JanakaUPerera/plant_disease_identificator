@@ -1,0 +1,18 @@
+{
+  "run_id": "R20",
+  "note": "fairness check: ResNet-50 at lower LR 3e-4 (compare R18)",
+  "depth": 50,
+  "pretrained": true,
+  "freeze": "none",
+  "augment": true,
+  "optimiser": "sgd",
+  "lr": 0.0003,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "epochs": 15,
+  "patience": 5,
+  "class_weights": "none",
+  "dropout": 0.2,
+  "seed": 42,
+  "num_workers": 8
+}
