@@ -1,0 +1,6 @@
+,"ms per image (median, batch of 1)"
+C04 classical (CPU),15.9
+R01 ANN (CUDA),4.8
+R01 ANN (CPU),15.6
+R15 ANN (CUDA),4.1
+R15 ANN (CPU),15.4
