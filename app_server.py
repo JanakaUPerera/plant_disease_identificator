@@ -29,6 +29,7 @@ MAX_BYTES = 10 * 1024 * 1024        # largest upload accepted (10 MB)
 MIN_SIDE = 100                      # same rule as data cleaning (R1): smaller images are rejected
 LOW_RES_SIDE = 224                  # below the model's input size: accepted, with a warning
 LOW_CONFIDENCE = 0.50               # calibrated top probability below this -> "uncertain" warning
+LOW_MARGIN = 0.20                   # ... or the top answer less than 20 points ahead of the second
 
 # what each class means for the officer's decision (Question 1)
 CLASS_INFO = {
@@ -151,8 +152,12 @@ async def predict(crop: str = Form(...), file: UploadFile = File(...)):
     if unfamiliar:
         warnings.append("Unfamiliar photo: it looks unlike the photos the model learned from (perhaps another "
                         "crop, a fruit or not a leaf). The suggestions below are unreliable.")
-    if results[0]["probability"] < LOW_CONFIDENCE:
-        warnings.append(f"Uncertain: the most likely answer has only {results[0]['probability']:.0%}. "
+    top, second = results[0]["probability"], results[1]["probability"]
+    if top < LOW_CONFIDENCE:
+        warnings.append(f"Uncertain: the most likely answer has only {top:.0%}. "
+                        "Treat it as a suggestion and confirm before acting.")
+    elif top - second < LOW_MARGIN:
+        warnings.append(f"Uncertain: the top two answers are close ({top:.0%} and {second:.0%}). "
                         "Treat it as a suggestion and confirm before acting.")
     if not any(c.endswith("_healthy") for c in ranked):
         warnings.append(f"The model cannot answer 'healthy' for {crop}: it always names one of the "
