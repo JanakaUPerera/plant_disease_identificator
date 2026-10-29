@@ -29,7 +29,12 @@
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--text);
          font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
-  main { max-width: 680px; margin: 0 auto; padding: 20px 16px 48px; }
+  main { max-width: 1080px; margin: 0 auto; padding: 20px 16px 48px; }
+  .layout { display: grid; grid-template-columns: 1fr 1fr; gap: 0 20px; align-items: start; }
+  .layout > .col { min-width: 0; }
+  #placeholder { display: grid; place-items: center; min-height: 200px; text-align: center; color: var(--muted);
+                 border: 2px dashed var(--border); border-radius: var(--radius); padding: 18px; margin-bottom: 16px; }
+  @media (max-width: 760px) { .layout { grid-template-columns: 1fr; } #placeholder { display: none; } }
   header h1 { font-size: 1.5rem; margin: 0 0 4px; }
   header p { margin: 0 0 20px; color: var(--text-2); }
   .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
@@ -88,6 +93,8 @@
     <p>For crop-protection extension officers. A decision-support tool: it suggests, you decide.</p>
   </header>
 
+  <div class="layout">
+  <div class="col" id="col-input">
   <form id="form" class="card" novalidate>
     <p class="step"><span>1</span>Which crop is it?</p>
     <select id="crop" name="crop" required aria-label="Crop">
@@ -103,7 +110,10 @@
 
     <p style="margin:18px 0 0"><button class="primary" id="go" type="submit" disabled>Diagnose</button></p>
   </form>
+  </div>
 
+  <div class="col" id="col-result">
+  <div id="placeholder">The diagnosis will appear here.</div>
   <div id="error" class="msg alert" role="alert"></div>
 
   <section id="result" aria-live="polite">
@@ -129,6 +139,8 @@
       <p class="meta" id="meta"></p>
     </div>
   </section>
+  </div>
+  </div>
 
   <section class="card">
     <h2>Limitations</h2>
@@ -235,8 +247,10 @@ function render(d) {
 
   $("meta").textContent = `Model ${d.model} · ${info ? info.model.architecture : ""} · answered in ${d.latency_ms} ms · ` +
                           `photo ${d.image_size[0]}×${d.image_size[1]} px`;
+  $("placeholder").style.display = "none";
   $("result").style.display = "block";
-  $("result").scrollIntoView({ behavior: "smooth", block: "start" });
+  if (window.matchMedia("(max-width: 760px)").matches)
+    $("result").scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 loadInfo();
