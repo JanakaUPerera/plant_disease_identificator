@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leaf disease assistant</title>
+<style>
+  :root {
+    --bg: #f6f5f1; --surface: #ffffff; --surface-2: #efeee8; --border: #dddcd4;
+    --text: #1d1d1b; --text-2: #55544f; --muted: #7b7a73;
+    --accent: #2f6f3e; --accent-text: #ffffff; --accent-soft: #e2efe4;
+    --warn-bg: #fdf3dc; --warn-border: #e7c56b; --warn-text: #5c4300;
+    --alert-bg: #fbe6e3; --alert-border: #e49a8f; --alert-text: #6e1d12;
+    --bar: #2f6f3e; --bar-track: #e6e5de;
+    --t-fungal: #7a4f1d; --t-oomycete: #9b2c1f; --t-bacterial: #5a3c8c; --t-viral: #1f5e8f; --t-healthy: #2f6f3e;
+    --radius: 12px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #161715; --surface: #1f201d; --surface-2: #2a2b27; --border: #3a3b36;
+      --text: #ecebe6; --text-2: #c2c1b9; --muted: #96958d;
+      --accent: #5aa86b; --accent-text: #0e1a10; --accent-soft: #1f3324;
+      --warn-bg: #3a3014; --warn-border: #8a6d22; --warn-text: #f3dc9d;
+      --alert-bg: #3d1d18; --alert-border: #9a4a3e; --alert-text: #f6c3ba;
+      --bar: #5aa86b; --bar-track: #33342f;
+      --t-fungal: #d9a86a; --t-oomycete: #f08b7c; --t-bacterial: #b9a2e6; --t-viral: #8cc2ec; --t-healthy: #7fc98f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 20px 16px 48px; }
+  header h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  header p { margin: 0 0 20px; color: var(--text-2); }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+          padding: 18px; margin-bottom: 16px; }
+  .step { display: flex; gap: 10px; align-items: baseline; margin: 0 0 10px; font-weight: 600; }
+  .step span { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%;
+               background: var(--accent-soft); color: var(--accent); font-size: .9rem; flex: none; }
+  label { display: block; font-weight: 600; margin-bottom: 6px; }
+  select, .file-btn, button.primary { width: 100%; min-height: 48px; border-radius: 10px; font: inherit; }
+  select { padding: 0 12px; border: 1px solid var(--border); background: var(--surface); color: var(--text); }
+  .hint { color: var(--muted); font-size: .9rem; margin: 6px 0 0; }
+  .file-btn { display: grid; place-items: center; border: 2px dashed var(--border); background: var(--surface-2);
+              color: var(--text-2); cursor: pointer; padding: 10px; text-align: center; }
+  .file-btn:hover { border-color: var(--accent); }
+  input[type=file] { position: absolute; width: 1px; height: 1px; opacity: 0; }
+  input[type=file]:focus-visible + .file-btn, select:focus-visible, button:focus-visible {
+    outline: 3px solid var(--accent); outline-offset: 2px; }
+  #preview { display: none; margin-top: 12px; max-width: 100%; max-height: 260px; border-radius: 10px;
+             border: 1px solid var(--border); }
+  button.primary { border: 0; background: var(--accent); color: var(--accent-text); font-weight: 650;
+                   cursor: pointer; margin-top: 4px; }
+  button.primary:disabled { opacity: .45; cursor: not-allowed; }
+  .msg { border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; border: 1px solid; }
+  .msg.warn { background: var(--warn-bg); border-color: var(--warn-border); color: var(--warn-text); }
+  .msg.alert { background: var(--alert-bg); border-color: var(--alert-border); color: var(--alert-text); }
+  .top-name { font-size: 1.35rem; font-weight: 700; margin: 2px 0 6px; }
+  .badge { display: inline-block; font-size: .78rem; font-weight: 650; letter-spacing: .02em; padding: 2px 8px;
+           border-radius: 999px; border: 1px solid currentColor; }
+  .t-fungal { color: var(--t-fungal); } .t-oomycete { color: var(--t-oomycete); } .t-bacterial { color: var(--t-bacterial); }
+  .t-viral { color: var(--t-viral); } .t-healthy { color: var(--t-healthy); }
+  .pct { font-size: 2rem; font-weight: 750; font-variant-numeric: tabular-nums; }
+  .bar { height: 10px; background: var(--bar-track); border-radius: 999px; overflow: hidden; margin: 6px 0 12px; }
+  .bar > div { height: 100%; background: var(--bar); border-radius: 999px; }
+  .action { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; margin: 0; }
+  .row { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; align-items: center; padding: 8px 0;
+         border-top: 1px solid var(--border); }
+  .row .bar { grid-column: 1 / -1; height: 6px; margin: 0; }
+  .row .p { font-variant-numeric: tabular-nums; color: var(--text-2); }
+  h2 { font-size: 1.05rem; margin: 0 0 10px; }
+  details summary { cursor: pointer; font-weight: 600; }
+  details p { color: var(--text-2); margin: 8px 0 0; }
+  ul.limits { margin: 0; padding-left: 20px; color: var(--text-2); }
+  ul.limits li { margin-bottom: 6px; }
+  .meta { color: var(--muted); font-size: .85rem; margin-top: 12px; }
+  #result, #error { display: none; }
+  .spinner { display: inline-block; width: 16px; height: 16px; border: 2px solid currentColor; border-right-color: transparent;
+             border-radius: 50%; animation: spin .8s linear infinite; vertical-align: -3px; margin-right: 8px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .spinner { animation: none; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Leaf disease assistant</h1>
+    <p>For crop-protection extension officers. A decision-support tool: it suggests, you decide.</p>
+  </header>
+
+  <form id="form" class="card" novalidate>
+    <p class="step"><span>1</span>Which crop is it?</p>
+    <select id="crop" name="crop" required aria-label="Crop">
+      <option value="" selected disabled>Choose the crop…</option>
+    </select>
+    <p class="hint" id="crop-hint"></p>
+
+    <p class="step" style="margin-top:18px"><span>2</span>Photo of one leaf</p>
+    <input id="file" name="file" type="file" accept="image/*" capture="environment" required>
+    <label for="file" class="file-btn" id="file-label">Take a photo or choose an image</label>
+    <p class="hint">Fill the frame with a single leaf, in daylight, in focus.</p>
+    <img id="preview" alt="The selected leaf photo">
+
+    <p style="margin:18px 0 0"><button class="primary" id="go" type="submit" disabled>Diagnose</button></p>
+  </form>
+
+  <div id="error" class="msg alert" role="alert"></div>
+
+  <section id="result" aria-live="polite">
+    <div id="warnings"></div>
+    <div class="card">
+      <div class="top-label" style="color:var(--text-2)">Most likely</div>
+      <div class="top-name" id="top-name"></div>
+      <span class="badge" id="top-type"></span>
+      <div style="margin-top:10px"><span class="pct" id="top-pct"></span></div>
+      <div class="bar" role="img" id="top-bar-wrap"><div id="top-bar"></div></div>
+      <p class="action" id="top-action"></p>
+    </div>
+    <div class="card">
+      <h2>Other possibilities</h2>
+      <div id="others"></div>
+      <details style="margin-top:14px">
+        <summary>What does the percentage mean?</summary>
+        <p>It is the model's estimated chance that the answer is right. The percentages were calibrated on
+           real-world validation photos (PlantDoc): across those photos, when the model said about 60%, it was right
+           about 60% of the time. On such photos it is right about half the time overall, so treat every answer
+           as a suggestion to confirm, never as a diagnosis.</p>
+      </details>
+      <p class="meta" id="meta"></p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Limitations</h2>
+    <ul class="limits" id="limits"><li>Loading…</li></ul>
+  </section>
+</main>
+
+<script>
+const TYPE_LABEL = { fungal: "Fungal", oomycete: "Late-blight type (oomycete)", bacterial: "Bacterial",
+                     viral: "Viral", healthy: "Healthy" };
+const $ = (id) => document.getElementById(id);
+let info = null;
+
+function pct(p) { return p > 0 && p < 0.01 ? "<1%" : Math.round(p * 100) + "%"; }
+function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls;
+                              if (text !== undefined) e.textContent = text; return e; }
+
+async function loadInfo() {
+  try {
+    const r = await fetch("/api/info");
+    info = await r.json();
+    for (const crop of Object.keys(info.crops)) {
+      const o = el("option", null, info.crop_names[crop] || crop);
+      o.value = crop;
+      $("crop").append(o);
+    }
+    $("limits").replaceChildren(...info.limitations.map((t) => el("li", null, t)));
+  } catch (e) {
+    showError("Cannot reach the model server. Is it running?");
+  }
+}
+
+function updateReady() {
+  $("go").disabled = !($("crop").value && $("file").files.length);
+}
+
+$("crop").addEventListener("change", () => {
+  const classes = info.crops[$("crop").value].map((c) => c.name);
+  $("crop-hint").textContent = "The model chooses between: " + classes.join(", ") + ".";
+  updateReady();
+});
+
+$("file").addEventListener("change", () => {
+  const f = $("file").files[0];
+  if (f) {
+    $("file-label").textContent = f.name + " (tap to change)";
+    const img = $("preview");
+    img.src = URL.createObjectURL(f);
+    img.style.display = "block";
+  }
+  updateReady();
+});
+
+function showError(text) {
+  $("error").textContent = text;
+  $("error").style.display = "block";
+  $("result").style.display = "none";
+}
+
+$("form").addEventListener("submit", async (ev) => {
+  ev.preventDefault();
+  $("error").style.display = "none";
+  const go = $("go");
+  go.disabled = true;
+  go.innerHTML = '<span class="spinner" aria-hidden="true"></span>Diagnosing…';
+  try {
+    const body = new FormData();
+    body.append("crop", $("crop").value);
+    body.append("file", $("file").files[0]);
+    const r = await fetch("/api/predict", { method: "POST", body });
+    const data = await r.json();
+    if (!r.ok) { showError(data.detail || "Something went wrong."); return; }
+    render(data);
+  } catch (e) {
+    showError("The request failed. Check that the model server is running.");
+  } finally {
+    go.textContent = "Diagnose";
+    updateReady();
+  }
+});
+
+function render(d) {
+  const warnings = d.warnings.map((w) => el("div", "msg " + (w.startsWith("Unfamiliar") ? "alert" : "warn"), w));
+  $("warnings").replaceChildren(...warnings);
+
+  const top = d.results[0];
+  $("top-name").textContent = top.name;
+  $("top-type").textContent = TYPE_LABEL[top.type] || top.type;
+  $("top-type").className = "badge t-" + top.type;
+  $("top-pct").textContent = pct(top.probability);
+  $("top-bar").style.width = (top.probability * 100).toFixed(1) + "%";
+  $("top-bar-wrap").setAttribute("aria-label", top.name + " " + pct(top.probability));
+  $("top-action").textContent = top.action;
+
+  $("others").replaceChildren(...d.results.slice(1).map((r) => {
+    const row = el("div", "row");
+    const name = el("div", null, r.name + " ");
+    name.append(el("span", "badge t-" + r.type, TYPE_LABEL[r.type] || r.type));
+    const bar = el("div", "bar"); const fill = el("div"); fill.style.width = (r.probability * 100).toFixed(1) + "%";
+    bar.append(fill);
+    row.append(name, el("div", "p", pct(r.probability)), bar);
+    return row;
+  }));
+
+  $("meta").textContent = `Model ${d.model} · ${info ? info.model.architecture : ""} · answered in ${d.latency_ms} ms · ` +
+                          `photo ${d.image_size[0]}×${d.image_size[1]} px`;
+  $("result").style.display = "block";
+  $("result").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+loadInfo();
+</script>
+</body>
+</html>
