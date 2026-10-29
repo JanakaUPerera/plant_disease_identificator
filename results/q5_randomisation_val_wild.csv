@@ -1,0 +1,9 @@
+model,mean rank correlation with R15's map,empty maps
+R15 (deployed),1.0,0%
+"R21 (same recipe, other seed)",0.748,0%
+random up to head,0.12,6%
+random up to layer4,-0.0,4%
+random up to layer3,0.032,12%
+random up to layer2,0.047,16%
+random up to layer1,0.08,22%
+random up to stem,0.044,18%

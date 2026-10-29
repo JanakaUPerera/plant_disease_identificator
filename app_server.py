@@ -9,7 +9,10 @@ Endpoints
   GET  /api/info      crops, their classes, model details and limitations (for the page to show)
   POST /api/predict   form fields: crop (text) and file (an image); returns the crop's classes ranked by
                       calibrated probability, the recommended action, and any warnings
+  POST /api/explain   form fields: crop, file and optionally class_id; returns a Grad-CAM heatmap of the
+                      regions that raised that class's score (default: the most likely class)
 """
+import base64
 import io
 import json
 import time
@@ -20,6 +23,7 @@ from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.staticfiles import StaticFiles
 from PIL import Image, ImageOps, UnidentifiedImageError
 
+from gradcam import GradCAM, overlay
 from plantdata import eval_transform, load_classes
 from plantmodel import CropMaskedResNet
 
@@ -84,6 +88,12 @@ MODEL.to(DEVICE).eval()
 TEMPERATURE = json.loads((ROOT / "checkpoints" / f"{RUN_ID}_calibration.json").read_text())["temperature"]
 OOD = json.loads((ROOT / "checkpoints" / f"{RUN_ID}_ood.json").read_text())   # score name + threshold (val only)
 TRANSFORM = eval_transform()
+EXPLAINER = GradCAM(MODEL)          # Question 5: heatmaps from the last convolutional stage (layer4)
+# warm-up: the first pass on a GPU is slow (kernels are loaded and tuned), so do it before the first officer
+_dummy = torch.zeros(1, 3, 224, 224, device=DEVICE)
+with torch.no_grad():
+    MODEL(_dummy, torch.tensor([0], device=DEVICE))
+EXPLAINER(_dummy, torch.tensor([0], device=DEVICE))
 LIMITATIONS.append(
     f"The 'unfamiliar photo' check catches only about {1 - OOD['ood_missed']:.0%} of photos of other crops "
     f"(validation). No warning does NOT mean the photo is within what the model knows.")
@@ -113,9 +123,8 @@ def info():
     }
 
 
-@app.post("/api/predict")
-async def predict(crop: str = Form(...), file: UploadFile = File(...)):
-    start = time.perf_counter()
+async def checked_photo(crop, file):
+    """The uploaded photo as an RGB image, after the same checks for every endpoint."""
     if crop not in CROPS:
         raise HTTPException(400, f"Unknown crop '{crop}'. Choose one of: {', '.join(CROPS)}.")
     data = await file.read()
@@ -134,7 +143,13 @@ async def predict(crop: str = Form(...), file: UploadFile = File(...)):
     if min(image.size) < MIN_SIDE:
         raise HTTPException(422, f"The image is too small ({image.size[0]}x{image.size[1]} pixels). "
                                  f"Please upload a photo at least {MIN_SIDE} pixels on each side.")
+    return image
 
+
+@app.post("/api/predict")
+async def predict(crop: str = Form(...), file: UploadFile = File(...)):
+    start = time.perf_counter()
+    image = await checked_photo(crop, file)
     x = TRANSFORM(image).unsqueeze(0).to(DEVICE)
     crop_idx = torch.tensor([CROPS.index(crop)], device=DEVICE)
     with torch.no_grad():
@@ -169,6 +184,31 @@ async def predict(crop: str = Form(...), file: UploadFile = File(...)):
             "familiarity": {"score": OOD["score"], "value": round(score, 3), "threshold": round(OOD["threshold"], 3),
                             "unfamiliar": unfamiliar},
             "image_size": list(image.size), "model": RUN_ID,
+            "latency_ms": round(1000 * (time.perf_counter() - start), 1)}
+
+
+def data_url(picture):
+    """A PIL image as text the browser can show directly: <img src="data:image/jpeg;base64,...">."""
+    buffer = io.BytesIO()
+    picture.save(buffer, format="JPEG", quality=88)
+    return "data:image/jpeg;base64," + base64.b64encode(buffer.getvalue()).decode("ascii")
+
+
+@app.post("/api/explain")
+async def explain(crop: str = Form(...), file: UploadFile = File(...), class_id: str | None = Form(None)):
+    start = time.perf_counter()
+    image = await checked_photo(crop, file)
+    if class_id is not None and class_id not in crop_classes(crop):
+        raise HTTPException(400, f"'{class_id}' is not one of the classes for {crop}.")
+    x = TRANSFORM(image).unsqueeze(0).to(DEVICE)
+    crop_idx = torch.tensor([CROPS.index(crop)], device=DEVICE)
+    cam, k, logits = EXPLAINER(x, crop_idx, class_idx=None if class_id is None else CLASS_IDS.index(class_id))
+    probs = (logits.float() / TEMPERATURE).softmax(dim=0)
+    view, picture = overlay(image, cam, size=448)
+    return {"class_id": CLASS_IDS[k], "name": CLASS_INFO[CLASS_IDS[k]][0],
+            "probability": round(float(probs[k]), 4),
+            "heatmap": data_url(picture), "view": data_url(view),
+            "method": "Grad-CAM, last convolutional stage (layer4)", "model": RUN_ID,
             "latency_ms": round(1000 * (time.perf_counter() - start), 1)}
 
 

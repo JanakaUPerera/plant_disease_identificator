@@ -1,0 +1,7 @@
+,class_id,crop,dataset,source_split,rel_path,pred,confidence,correct
+980,potato_late_blight,potato,PlantDoc,train,train/Potato leaf late blight/potatolb_upper_leafcux1200.jpg,potato_late_blight,0.9493333,True
+751,grape_healthy,grape,PlantDoc,train,train/grape leaf/4635766-green-grapevine-leaves.jpg,grape_healthy,0.62730366,True
+447,corn_northern_leaf_blight,corn,PlantDoc,train,train/Corn leaf blight/Fig1_Northern_corn_leaf_blight.JPG.jpg,corn_northern_leaf_blight,0.4327811,True
+1487,tomato_mosaic_virus,tomato,PlantDoc,train,train/Tomato leaf mosaic virus/mosiac-virus3.jpg,tomato_late_blight,0.45404997,False
+1458,tomato_mosaic_virus,tomato,PlantDoc,test,test/Tomato leaf mosaic virus/9511.img.jpg,tomato_early_blight,0.3895047,False
+265,pepper_bacterial_spot,bell_pepper,PlantDoc,train,train/Bell_pepper leaf spot/ed8e20.jpg,pepper_healthy,0.71617186,False

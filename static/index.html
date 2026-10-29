@@ -84,6 +84,25 @@
              border-radius: 50%; animation: spin .8s linear infinite; vertical-align: -3px; margin-right: 8px; }
   @keyframes spin { to { transform: rotate(360deg); } }
   @media (prefers-reduced-motion: reduce) { .spinner { animation: none; } }
+  /* ---- explanation (Question 5) ---- */
+  button.secondary { min-height: 44px; padding: 0 16px; border-radius: 10px; font: inherit; font-weight: 600;
+                     border: 1px solid var(--accent); background: transparent; color: var(--accent); cursor: pointer; }
+  button.secondary:disabled { opacity: .5; cursor: progress; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
+  .chips button { min-height: 40px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--border);
+                  background: var(--surface-2); color: var(--text); font: inherit; font-size: .9rem; cursor: pointer; }
+  .chips button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+  figure.heat { margin: 0; }
+  figure.heat img { display: block; width: 100%; max-width: 448px; aspect-ratio: 1; object-fit: cover;
+                    border-radius: 10px; border: 1px solid var(--border); background: var(--surface-2); }
+  figure.heat figcaption { display: flex; flex-wrap: wrap; gap: 8px 10px; align-items: center; margin-top: 8px;
+                           font-size: .85rem; color: var(--muted); }
+  .scale { flex: none; width: 120px; height: 10px; border-radius: 999px;
+           background: linear-gradient(90deg, rgba(87, 16, 110, .15), #bc3754 45%, #f98e09 75%, #fcffa4); }
+  .toggle { display: flex; gap: 8px; align-items: center; font-weight: 500; margin: 10px 0 0; cursor: pointer; }
+  .toggle input { width: 20px; height: 20px; accent-color: var(--accent); }
+  .guide { background: var(--surface-2); border-radius: 10px; padding: 12px 14px; margin-top: 14px; }
+  .guide p { margin: 0 0 6px; } .guide ul { margin: 0 0 8px; padding-left: 20px; } .guide li { margin-bottom: 4px; }
 </style>
 </head>
 <body>
@@ -126,6 +145,32 @@
       <div class="bar" role="img" id="top-bar-wrap"><div id="top-bar"></div></div>
       <p class="action" id="top-action"></p>
     </div>
+    <div class="card" id="explain-card">
+      <h2>Where did the model look?</h2>
+      <p class="hint" style="margin:0 0 12px">See which parts of the photo raised the score for an answer.</p>
+      <button class="secondary" id="explain-go" type="button">Show where the model looked</button>
+      <div id="explain-body" hidden>
+        <div class="chips" id="explain-chips" role="group" aria-label="Answer to explain"></div>
+        <figure class="heat">
+          <img id="explain-img" alt="">
+          <figcaption><span class="scale" aria-hidden="true"></span>
+            <span>no colour = little influence · bright yellow = strongest (for this photo only)</span></figcaption>
+        </figure>
+        <label class="toggle"><input type="checkbox" id="explain-plain"> Show the photo without colours</label>
+        <div class="guide">
+          <p><strong>How to use this:</strong> coloured areas raised the score for <b id="explain-name"></b>.</p>
+          <ul>
+            <li id="explain-good"></li>
+            <li><b>On soil, background, your hand or a healthy part?</b> Do not trust the answer. Take a closer
+                photo of the affected leaf and try again.</li>
+          </ul>
+          <p class="hint" style="margin:0">The square is the part of your photo the model sees (the centre; the edges
+             are cut off). The colours show where the evidence was, not why the model decided, and they do not prove
+             that the answer is right.</p>
+        </div>
+        <p class="meta" id="explain-meta"></p>
+      </div>
+    </div>
     <div class="card">
       <h2>Other possibilities</h2>
       <div id="others"></div>
@@ -153,6 +198,11 @@ const TYPE_LABEL = { fungal: "Fungal", oomycete: "Late-blight type (oomycete)", 
                      viral: "Viral", healthy: "Healthy" };
 const $ = (id) => document.getElementById(id);
 let info = null;
+let lastPhoto = null;        // the crop and file of the last diagnosis (explanations reuse them)
+let lastResults = [];        // that diagnosis's classes, most likely first
+let explained = new Map();   // class id -> explanation, so switching back is instant
+let explainToken = 0;        // only the newest explanation request may update the page
+
 
 function pct(p) { return p > 0 && p < 0.01 ? "<1%" : Math.round(p * 100) + "%"; }
 function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls;
@@ -210,6 +260,7 @@ $("form").addEventListener("submit", async (ev) => {
     const body = new FormData();
     body.append("crop", $("crop").value);
     body.append("file", $("file").files[0]);
+    lastPhoto = { crop: $("crop").value, file: $("file").files[0] };
     const r = await fetch("/api/predict", { method: "POST", body });
     const data = await r.json();
     if (!r.ok) { showError(data.detail || "Something went wrong."); return; }
@@ -245,6 +296,7 @@ function render(d) {
     return row;
   }));
 
+  resetExplanation(d.results);
   $("meta").textContent = `Model ${d.model} · ${info ? info.model.architecture : ""} · answered in ${d.latency_ms} ms · ` +
                           `photo ${d.image_size[0]}×${d.image_size[1]} px`;
   $("placeholder").style.display = "none";
@@ -252,6 +304,71 @@ function render(d) {
   if (window.matchMedia("(max-width: 760px)").matches)
     $("result").scrollIntoView({ behavior: "smooth", block: "start" });
 }
+
+// ---------------------------------------------------------------- explanation (Question 5)
+function resetExplanation(results) {
+  lastResults = results;
+  explained = new Map();
+  explainToken++;
+  $("explain-body").hidden = true;
+  $("explain-go").hidden = false;
+  $("explain-go").disabled = false;
+  $("explain-go").textContent = "Show where the model looked";
+  $("explain-plain").checked = false;
+}
+
+function showExplanation(e) {
+  $("explain-img").src = $("explain-plain").checked ? e.view : e.heatmap;
+  $("explain-img").alt = ($("explain-plain").checked ? "The part of the photo the model sees" :
+                          "Heatmap of the regions that raised the score for " + e.name);
+  $("explain-name").textContent = e.name;
+  const healthy = (lastResults.find((r) => r.id === e.class_id) || {}).type === "healthy";
+  $("explain-good").innerHTML = healthy
+    ? "<b>Spread over the leaf itself?</b> The answer at least rests on the leaf. Still check the whole leaf for spots."
+    : "<b>On the spots, lesions or mottling?</b> The answer at least rests on the symptoms.";
+  $("explain-meta").textContent = `${e.method} · explains ${e.name} (${pct(e.probability)}) · ${e.latency_ms} ms`;
+}
+
+async function explain(classId) {
+  for (const b of $("explain-chips").children) b.setAttribute("aria-pressed", String(b.dataset.id === classId));
+  if (explained.has(classId)) { showExplanation(explained.get(classId)); return; }
+  const token = ++explainToken;
+  $("explain-meta").textContent = "Working out where the model looked…";
+  try {
+    const body = new FormData();
+    body.append("crop", lastPhoto.crop);
+    body.append("file", lastPhoto.file);
+    body.append("class_id", classId);
+    const r = await fetch("/api/explain", { method: "POST", body });
+    const data = await r.json();
+    if (token !== explainToken) return;                       // a newer request has taken over
+    if (!r.ok) { $("explain-meta").textContent = data.detail || "Could not make the explanation."; return; }
+    explained.set(classId, data);
+    showExplanation(data);
+  } catch (e) {
+    if (token === explainToken) $("explain-meta").textContent = "The request failed. Is the model server running?";
+  }
+}
+
+$("explain-go").addEventListener("click", async () => {
+  $("explain-go").disabled = true;
+  $("explain-go").innerHTML = '<span class="spinner" aria-hidden="true"></span>Working…';
+  $("explain-chips").replaceChildren(...lastResults.map((r) => {
+    const b = el("button", null, `${r.name} · ${pct(r.probability)}`);
+    b.type = "button";
+    b.dataset.id = r.id;
+    b.addEventListener("click", () => explain(r.id));
+    return b;
+  }));
+  await explain(lastResults[0].id);
+  $("explain-go").hidden = true;
+  $("explain-body").hidden = false;
+});
+
+$("explain-plain").addEventListener("change", () => {
+  const active = [...$("explain-chips").children].find((b) => b.getAttribute("aria-pressed") === "true");
+  if (active && explained.has(active.dataset.id)) showExplanation(explained.get(active.dataset.id));
+});
 
 loadInfo();
 </script>
