@@ -1,0 +1,13 @@
+model,prompts,val_wild F1-16,F1-20,LB recall,accuracy
+OpenCLIP,label,0.341,0.312,0.251,0.396
+OpenCLIP,photo,0.366,0.437,0.511,0.456
+OpenCLIP,leaf,0.413,0.492,0.65,0.512
+OpenCLIP,symptoms,0.386,0.44,0.306,0.428
+OpenCLIP,scientific,0.4,0.473,0.791,0.508
+OpenCLIP,ensemble,0.416,0.492,0.703,0.499
+BioCLIP,label,0.355,0.379,0.076,0.412
+BioCLIP,photo,0.382,0.394,0.209,0.434
+BioCLIP,leaf,0.425,0.409,0.324,0.454
+BioCLIP,symptoms,0.395,0.379,0.184,0.399
+BioCLIP,scientific,0.395,0.416,0.147,0.426
+BioCLIP,ensemble,0.428,0.439,0.479,0.463

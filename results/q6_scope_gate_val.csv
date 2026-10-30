@@ -1,0 +1,4 @@
+warning,AUROC,in-scope kept,wrong crop: missed,"right crop, unknown problem: missed"
+R15 energy (deployed),0.672,95%,88%,100%
+OpenCLIP gate,0.91,95%,37%,100%
+BioCLIP gate,0.864,95%,54%,100%

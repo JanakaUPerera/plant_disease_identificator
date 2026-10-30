@@ -1,0 +1,3 @@
+model,labelled training photos,parameters (M),val_lab F1-16,val_wild F1-16,val_wild F1-20,LB recall,ms per image CUDA,ms per image CPU
+OpenCLIP zero-shot (ensemble),0,149.6,0.339,0.416,0.492,0.703,18.3,126.4
+BioCLIP zero-shot (ensemble),0,149.6,0.368,0.428,0.439,0.479,12.5,114.6
