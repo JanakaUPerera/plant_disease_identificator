@@ -1,0 +1,9 @@
+group,photos,final ANN (3 seeds) accuracy,OpenCLIP accuracy,BioCLIP accuracy
+crop = apple,331,0.642,0.668,0.589
+crop = bell_pepper,159,0.56,0.792,0.855
+crop = corn,326,0.494,0.638,0.62
+crop = grape,167,0.8,0.952,0.275
+crop = potato,181,0.729,0.486,0.663
+crop = tomato,745,0.29,0.309,0.205
+source_split = v1,537,0.467,0.754,0.4
+source_split = v2,1372,0.506,0.457,0.464

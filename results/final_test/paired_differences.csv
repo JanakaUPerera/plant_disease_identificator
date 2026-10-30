@@ -1,0 +1,9 @@
+split,comparison,difference in F1-16,95% CI,share of resamples where the ANN is better
+test_lab,final ANN − C04,0.023,+0.012 to +0.034,100%
+test_lab,final ANN − R01,0.033,+0.022 to +0.044,100%
+test_lab,final ANN − OpenCLIP,0.618,+0.604 to +0.633,100%
+test_lab,final ANN − BioCLIP,0.576,+0.559 to +0.593,100%
+test_wild,final ANN − C04,0.155,+0.131 to +0.179,100%
+test_wild,final ANN − R01,0.099,+0.078 to +0.119,100%
+test_wild,final ANN − OpenCLIP,0.023,-0.006 to +0.053,94%
+test_wild,final ANN − BioCLIP,0.044,+0.018 to +0.071,100%

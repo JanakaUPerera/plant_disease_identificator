@@ -1,0 +1,5 @@
+split,R15 probabilities,mean confidence,accuracy,ECE
+test_lab,before (T = 1),0.968,0.969,0.004
+test_lab,after (T = 3.47),0.697,0.969,0.273
+test_wild,before (T = 1),0.786,0.5,0.286
+test_wild,after (T = 3.47),0.507,0.5,0.027

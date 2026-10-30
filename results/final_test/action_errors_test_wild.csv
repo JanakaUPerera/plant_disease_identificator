@@ -1,0 +1,7 @@
+model,right action,diseased → 'no action',healthy → told to treat,healthy → urgent late-blight alarm,virus → told to use fungicide,late blight caught (recall),late-blight alarms that were right
+R15 (deployed),0.663,0.012,0.503,0.156,0.553,0.828,0.312
+final ANN (3 seeds),0.658,0.01,0.533,0.16,0.672,0.781,0.324
+OpenCLIP,0.694,0.007,0.246,0.002,0.106,0.633,0.446
+BioCLIP,0.609,0.028,0.6,0.063,0.642,0.651,0.472
+R01,0.623,0.009,0.581,0.184,0.813,0.87,0.28
+C04,0.517,0.029,0.797,0.128,0.756,0.349,0.23

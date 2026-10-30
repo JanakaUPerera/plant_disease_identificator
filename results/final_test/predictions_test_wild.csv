@@ -1,0 +1,1910 @@
+class_id,crop,dataset,source_split,rel_path,true,C04,R01,R15,R21,R22,OpenCLIP,BioCLIP
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_10.jpg,0,1,0,0,1,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_14.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_16.jpg,0,1,0,0,1,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_19.jpg,0,1,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_20.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_23.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_24.jpg,0,0,0,0,0,0,0,2
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_3.jpg,0,0,1,2,2,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_30.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_32.jpg,0,0,0,0,1,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_34.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_38.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_39.jpg,0,0,0,0,0,2,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_4.jpg,0,0,0,1,1,1,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_47.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_49.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_5.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_53.jpg,0,1,0,1,1,1,1,1
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_56.jpg,0,1,0,2,0,0,0,2
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_59.jpg,0,2,2,2,2,2,2,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_6.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_60.jpg,0,1,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_63.jpg,0,1,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_71.jpg,0,2,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_74.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_77.jpg,0,0,1,1,1,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_8.jpg,0,0,1,0,1,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_80.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_85.jpg,0,0,0,0,1,0,1,1
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_86.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_95.jpg,0,0,0,0,0,0,1,2
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_97.jpg,0,0,0,0,1,1,1,2
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0006.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0008.jpg,0,1,0,0,1,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0011.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0014.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0015.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0023.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0030.jpg,0,2,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0034.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0069.jpg,0,1,0,0,1,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0099.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0103.jpg,0,0,0,0,1,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0105.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0109.jpg,0,2,0,1,1,1,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0135.jpg,0,1,0,0,1,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0137.jpg,0,0,0,2,0,2,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0139.jpg,0,0,0,0,1,1,1,2
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0154.jpg,0,0,0,0,1,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0155.jpg,0,1,0,0,0,0,0,1
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0156.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0167.jpg,0,1,0,1,1,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0174.jpg,0,1,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0178.jpg,0,1,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0184.jpg,0,1,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0188.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0189.jpg,0,1,0,2,2,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0190.jpg,0,0,0,1,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0193.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0195.jpg,0,1,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0199.jpg,0,1,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0207.jpg,0,0,0,0,1,1,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0209.jpg,0,0,0,2,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0224.jpg,0,2,1,0,1,1,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0236.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0244.jpg,0,0,0,0,1,1,0,1
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0247.jpg,0,0,0,0,1,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0251.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0253.jpg,0,0,1,0,1,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0254.jpg,0,0,0,0,2,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0256.jpg,0,2,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0264.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0285.jpg,0,1,0,0,0,0,1,2
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0289.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0291.jpg,0,0,0,0,0,0,0,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0295.jpg,0,0,0,0,0,0,1,1
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0298.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0302.jpg,0,2,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0305.jpg,0,1,0,0,1,1,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0316.jpg,0,1,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0325.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0333.jpg,0,0,0,0,0,0,1,0
+apple_scab,apple,PlantWild,v2,apple scab/apple_scab_google_0334.jpg,0,0,0,0,0,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_1.jpg,1,1,0,1,1,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_10.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_102.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_106.jpg,1,0,0,0,0,1,1,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_114.jpg,1,0,0,0,0,0,0,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_12.jpg,1,2,0,2,2,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_124.jpg,1,1,0,0,0,0,0,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_129.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_13.jpg,1,1,0,2,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_147.jpg,1,0,0,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_150.jpg,1,0,0,0,1,0,1,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_151.jpg,1,0,0,0,1,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_153.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_155.jpg,1,0,0,0,0,0,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_173.jpg,1,0,0,0,1,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_177.jpg,1,0,1,1,1,1,0,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_178.jpg,1,0,0,1,1,0,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_181.jpg,1,0,1,1,1,1,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_19.jpg,1,1,0,1,1,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_2.jpg,1,0,0,0,1,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_20.jpg,1,1,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_21.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_27.jpg,1,0,0,0,0,0,0,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_28.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_3.jpg,1,0,1,1,1,1,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_31.jpg,1,1,0,0,1,0,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_34.jpg,1,1,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_36.jpg,1,1,1,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_4.jpg,1,1,1,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_40.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_41.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_42.jpg,1,1,0,1,1,1,1,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_45.jpg,1,1,0,0,0,0,1,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_46.jpg,1,0,0,0,0,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_47.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_48.jpg,1,1,1,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_49.jpg,1,0,0,1,1,1,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_5.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_50.jpg,1,0,2,0,0,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_51.jpg,1,2,0,0,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_52.jpg,1,0,0,1,1,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_54.jpg,1,1,0,0,0,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_55.jpg,1,2,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_6.jpg,1,1,1,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_60.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_61.jpg,1,0,0,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_65.jpg,1,0,0,0,0,1,0,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_66.jpg,1,1,1,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_69.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_7.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_71.jpg,1,0,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_73.jpg,1,0,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_74.jpg,1,2,2,0,2,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_8.jpg,1,1,1,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_80.jpg,1,1,0,0,2,2,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_84.jpg,1,0,0,0,0,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_9.jpg,1,1,1,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_92.jpg,1,0,0,0,0,0,1,2
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_93.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_94.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_98.jpg,1,1,2,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0007.jpg,1,0,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0008.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0010.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0013.jpg,1,1,0,0,0,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0019.jpg,1,2,0,0,0,0,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0027.jpg,1,1,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0028.jpg,1,1,1,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0031.jpg,1,0,1,0,0,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0035.jpg,1,1,0,1,1,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0037.jpg,1,0,0,1,1,1,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0039.jpg,1,0,0,1,1,1,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0041.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0049.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0057.jpg,1,2,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0058.jpg,1,0,0,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0065.jpg,1,0,0,0,0,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0069.jpg,1,1,0,0,0,0,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0073.jpg,1,1,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0081.jpg,1,1,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0083.jpg,1,2,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0088.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0092.jpg,1,2,0,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0094.jpg,1,1,1,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0095.jpg,1,0,1,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0097.jpg,1,0,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0107.jpg,1,0,1,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0111.jpg,1,0,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0121.jpg,1,1,0,0,0,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0123.jpg,1,1,1,0,0,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0128.jpg,1,1,0,0,0,0,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0135.jpg,1,0,0,1,1,1,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0136.jpg,1,0,1,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0139.jpg,1,0,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0140.jpg,1,0,0,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0147.jpg,1,0,0,1,1,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0168.jpg,1,0,1,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0169.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0171.jpg,1,0,1,2,1,2,0,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0172.jpg,1,0,0,0,0,0,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0175.jpg,1,0,1,1,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0184.jpg,1,0,0,0,1,1,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0190.jpg,1,1,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0191.jpg,1,0,0,1,1,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0193.jpg,1,2,2,0,0,0,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0196.jpg,1,1,0,1,1,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0201.jpg,1,1,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0203.jpg,1,1,0,0,0,0,0,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0206.jpg,1,2,0,0,0,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0215.jpg,1,0,0,0,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0218.jpg,1,0,0,1,1,1,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0220.jpg,1,2,1,0,1,0,1,0
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0228.jpg,1,0,0,1,0,0,1,1
+apple_cedar_rust,apple,PlantWild,v2,apple rust/apple_rust_google_0233.jpg,1,2,1,0,1,0,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/11.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/12.jpg,2,0,1,0,0,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/127.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/128.jpg,2,0,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/129.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/136.jpg,2,1,0,1,1,0,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/137.jpg,2,0,1,0,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/138.jpg,2,0,2,2,2,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/139.jpg,2,0,0,0,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/141.jpg,2,0,0,0,0,0,1,2
+apple_healthy,apple,PlantWild,v1,apple leaf/143.jpg,2,0,0,0,0,0,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/145.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/147.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/161.jpg,2,2,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/165.jpg,2,0,1,1,1,1,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/167.jpg,2,0,0,0,2,0,0,2
+apple_healthy,apple,PlantWild,v1,apple leaf/168.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/17.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/171.jpg,2,1,0,1,1,1,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/18.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/195.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/2.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/202.jpg,2,1,0,0,0,0,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/209.jpg,2,1,0,0,0,0,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/21.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/219.jpg,2,0,2,2,2,2,2,1
+apple_healthy,apple,PlantWild,v1,apple leaf/22.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/221.jpg,2,0,1,0,0,0,1,2
+apple_healthy,apple,PlantWild,v1,apple leaf/222.jpg,2,0,2,0,0,0,1,2
+apple_healthy,apple,PlantWild,v1,apple leaf/224.jpg,2,1,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/232.jpg,2,0,1,1,1,1,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/234.jpg,2,0,0,0,0,0,1,1
+apple_healthy,apple,PlantWild,v1,apple leaf/240.jpg,2,0,1,2,0,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/27.jpg,2,0,0,0,1,1,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/280.jpg,2,1,0,1,1,1,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/284.jpg,2,0,0,1,1,1,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/29.jpg,2,0,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/295.jpg,2,0,2,0,0,0,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/3.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/30.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/32.jpg,2,2,2,0,2,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/33.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/37.jpg,2,2,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/38.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/4.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/40.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/42.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/43.jpg,2,0,2,2,0,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/44.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/5.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/52.jpg,2,0,2,2,2,2,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/59.jpg,2,0,1,0,0,0,1,2
+apple_healthy,apple,PlantWild,v1,apple leaf/60.jpg,2,1,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/63.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/66.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/69.jpg,2,0,1,0,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/7.jpg,2,0,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/72.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/77.jpg,2,0,0,0,0,0,0,1
+apple_healthy,apple,PlantWild,v1,apple leaf/8.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/80.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/94.jpg,2,0,0,0,0,0,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0000.jpg,2,2,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0002.jpg,2,1,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0003.jpg,2,1,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0006.jpg,2,1,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0007.jpg,2,0,0,2,0,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0010.jpg,2,0,0,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0011.jpg,2,2,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0013.jpg,2,0,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0019.jpg,2,1,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0021.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0025.jpg,2,0,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0026.jpg,2,0,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0029.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0036.jpg,2,1,0,0,0,0,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0038.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0040.jpg,2,0,1,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0042.jpg,2,0,0,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0047.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0052.jpg,2,0,0,0,0,0,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0055.jpg,2,0,2,2,2,2,2,1
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0060.jpg,2,0,0,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0062.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0070.jpg,2,1,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0072.jpg,2,0,2,2,2,2,2,1
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0076.jpg,2,2,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0078.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0092.jpg,2,2,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0110.jpg,2,0,0,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0118.jpg,2,0,0,0,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0120.jpg,2,1,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0132.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0135.jpg,2,0,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0137.jpg,2,0,2,2,0,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0138.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0170.jpg,2,0,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0207.jpg,2,0,1,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0210.jpg,2,0,2,2,0,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0213.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0216.jpg,2,0,0,2,0,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0239.jpg,2,0,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0262.jpg,2,1,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0293.jpg,2,0,0,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0300.jpg,2,0,2,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0322.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0330.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0333.jpg,2,1,0,2,2,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0345.jpg,2,0,0,2,0,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0350.jpg,2,0,2,2,2,2,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0359.jpg,2,0,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0377.jpg,2,1,1,2,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0385.jpg,2,2,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0390.jpg,2,0,0,0,0,0,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0392.jpg,2,1,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0403.jpg,2,0,0,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0407.jpg,2,1,1,1,1,0,0,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0423.jpg,2,0,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0426.jpg,2,1,0,2,2,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0427.jpg,2,1,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0463.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0474.jpg,2,0,0,2,0,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0494.jpg,2,0,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0509.jpg,2,0,0,0,0,0,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0514.jpg,2,0,0,2,0,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0521.jpg,2,1,0,0,0,2,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0529.jpg,2,0,0,2,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0548.jpg,2,0,0,0,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0550.jpg,2,1,0,0,0,0,2,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0557.jpg,2,1,0,0,0,0,1,0
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0571.jpg,2,0,2,2,2,2,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0573.jpg,2,0,0,0,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0576.jpg,2,0,0,2,0,0,2,2
+apple_healthy,apple,PlantWild,v1,apple leaf/google_0581.jpg,2,0,0,0,0,0,0,0
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0000.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0002.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0003.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0004.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0005.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0008.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0010.jpg,3,3,3,3,3,3,3,4
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0012.jpg,3,3,4,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0013.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0019.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0020.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0027.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0028.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0031.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0042.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0044.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0045.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0046.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0047.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0049.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0052.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0054.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0055.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0060.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0065.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0069.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0072.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0079.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0084.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0098.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0105.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0107.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0108.jpg,3,4,3,3,3,3,3,4
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0111.jpg,3,4,4,3,3,3,3,4
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0119.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0142.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0153.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0156.jpg,3,3,4,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0159.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0161.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0164.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0174.jpg,3,4,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Bing_0221.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Google_0022.jpg,3,3,3,3,3,3,3,3
+pepper_bacterial_spot,bell_pepper,PlantWild,v2,bell pepper bacterial spot/bell_pepper_bacterial_spot_Google_0311.jpg,3,3,3,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/1.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/10.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/105.jpg,4,3,3,3,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/11.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/12.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/123.jpg,4,3,3,3,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/13.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/15.jpg,4,3,4,4,3,4,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/152.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/154.jpg,4,3,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/156.jpg,4,3,3,4,3,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/157.jpg,4,3,3,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/159.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/163.jpg,4,3,4,3,3,4,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/170.jpg,4,4,3,3,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/171.jpg,4,4,3,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/173.jpg,4,3,3,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/180.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/19.jpg,4,4,3,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/197.jpg,4,4,4,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/198.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/2.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/205.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/206.jpg,4,4,3,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/207.jpg,4,4,4,4,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/208.jpg,4,3,4,4,4,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/212.jpg,4,4,4,4,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/22.jpg,4,3,4,4,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/222.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/227.jpg,4,3,3,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/244.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/257.jpg,4,3,3,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/26.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/272.jpg,4,4,3,3,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/273.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/32.jpg,4,3,4,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/36.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/39.jpg,4,3,4,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/4.jpg,4,4,3,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/40 - Copy (2).jpg,4,4,4,4,4,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/40 - Copy (3).jpg,4,3,4,4,3,4,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/40 - Copy.jpg,4,3,4,4,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/40.jpg,4,3,4,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/42.jpg,4,3,4,3,4,4,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/45.jpg,4,4,4,4,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/46.jpg,4,4,4,4,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/5.jpg,4,3,3,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/6.jpg,4,3,4,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/63.jpg,4,3,4,4,4,4,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/69.jpg,4,3,4,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/70 - Copy (2).jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/70 - Copy (3).jpg,4,3,4,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/70 - Copy.jpg,4,3,3,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/70.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/72.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/78.jpg,4,3,3,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/79.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/81.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/85.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/9.jpg,4,3,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/90.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/99.jpg,4,3,3,3,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0000.jpg,4,3,4,4,3,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0001.jpg,4,3,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0004.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0006.jpg,4,4,3,4,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0007.jpg,4,4,3,4,3,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0012.jpg,4,3,3,3,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0014.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0015.jpg,4,3,4,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0016.jpg,4,3,3,3,3,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0017.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0024.jpg,4,3,4,3,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0026.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0044.jpg,4,3,3,3,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0057.jpg,4,3,3,4,4,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0068.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0070.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0083.jpg,4,3,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0085.jpg,4,4,4,4,3,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0094.jpg,4,4,3,3,3,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0097.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0102.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0104.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0105.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0110.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0112.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0115.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0117.jpg,4,3,4,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0119.jpg,4,4,3,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0131.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0133.jpg,4,3,4,3,3,3,4,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0135.jpg,4,3,4,4,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0140.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0141.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0156.jpg,4,3,3,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0157.jpg,4,3,3,4,4,4,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0159.jpg,4,3,3,3,3,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0161.jpg,4,4,4,3,3,3,3,3
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0172.jpg,4,4,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0174.jpg,4,4,4,4,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0177.jpg,4,4,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0187.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0201.jpg,4,4,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0208.jpg,4,4,4,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0210.jpg,4,3,4,4,4,4,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0212.jpg,4,4,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0214.jpg,4,3,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0231.jpg,4,3,3,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0237.jpg,4,3,4,3,3,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0253.jpg,4,3,4,4,4,4,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0264.jpg,4,4,4,4,4,3,4,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0265.jpg,4,3,4,3,3,3,3,4
+pepper_healthy,bell_pepper,PlantWild,v1,bell pepper leaf/google_0267.jpg,4,4,4,3,3,3,3,4
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_1.jpg,5,7,6,5,5,5,5,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_12.jpg,5,5,6,6,5,5,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_13.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_15.jpg,5,7,6,7,5,5,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_3.jpg,5,7,6,6,6,6,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_30.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_31.jpg,5,5,7,6,5,6,5,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_33.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_34.jpg,5,7,6,5,5,5,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_35.jpg,5,5,6,6,5,6,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_42.jpg,5,5,6,6,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_49.jpg,5,6,5,5,5,5,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_5.jpg,5,7,6,7,7,6,5,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_6.jpg,5,7,5,5,5,6,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_61.jpg,5,5,5,5,5,5,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_65.jpg,5,5,6,7,5,6,5,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_68.jpg,5,6,6,6,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0000.jpg,5,7,5,5,5,5,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0001.jpg,5,5,5,5,5,5,5,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0002.jpg,5,5,5,7,5,6,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0003.jpg,5,5,5,7,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0005.jpg,5,7,5,5,5,5,7,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0006.jpg,5,5,5,5,5,5,5,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0007.jpg,5,5,5,5,5,5,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0008.jpg,5,5,5,5,5,6,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0010.jpg,5,5,5,5,5,5,5,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0011.jpg,5,5,5,5,5,5,5,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0014.jpg,5,5,6,6,5,5,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0015.jpg,5,5,5,5,5,5,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0020.jpg,5,5,5,5,5,5,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0023.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0029.jpg,5,5,7,7,5,7,7,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0041.jpg,5,5,6,5,5,6,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0045.jpg,5,5,6,6,6,6,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0047.jpg,5,7,6,6,7,5,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0048.jpg,5,5,5,5,5,5,7,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0050.jpg,5,5,7,5,5,7,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0051.jpg,5,6,6,6,5,6,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0057.jpg,5,7,5,5,7,5,5,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0059.jpg,5,5,7,7,7,7,5,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0064.jpg,5,5,6,5,5,7,5,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0066.jpg,5,5,6,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0067.jpg,5,5,5,6,5,5,7,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0068.jpg,5,6,6,6,6,6,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0072.jpg,5,5,5,5,5,5,7,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0076.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0081.jpg,5,5,5,5,5,5,7,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0083.jpg,5,5,6,6,6,6,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0084.jpg,5,5,6,6,7,6,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0086.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0087.jpg,5,5,5,5,5,5,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0088.jpg,5,5,6,6,6,6,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0090.jpg,5,5,6,6,7,7,5,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0094.jpg,5,5,5,6,5,6,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0101.jpg,5,5,6,6,5,6,5,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0102.jpg,5,7,6,6,5,6,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0108.jpg,5,6,6,6,5,6,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0117.jpg,5,6,6,7,5,7,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0122.jpg,5,7,6,6,5,6,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0142.jpg,5,5,5,7,7,7,5,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0144.jpg,5,6,5,6,5,7,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0145.jpg,5,5,5,6,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0147.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0151.jpg,5,5,5,5,5,5,5,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0155.jpg,5,5,5,7,5,7,5,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0157.jpg,5,7,6,7,5,5,7,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0168.jpg,5,5,5,5,5,5,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0169.jpg,5,5,6,5,5,5,5,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0187.jpg,5,5,5,5,5,5,7,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0192.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0194.jpg,5,5,5,5,5,6,7,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0195.jpg,5,6,6,5,5,7,5,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0207.jpg,5,7,5,6,6,6,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0209.jpg,5,7,6,6,6,6,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0216.jpg,5,5,5,5,5,5,7,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0230.jpg,5,6,6,6,6,6,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0233.jpg,5,5,5,5,5,5,6,6
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0298.jpg,5,5,5,5,5,5,6,7
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0300.jpg,5,5,6,7,6,7,6,5
+corn_gray_leaf_spot,corn,PlantWild,v2,corn gray leaf spot/corn_gray_leaf_spot_google_0337.jpg,5,6,6,7,7,7,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_1.jpg,6,7,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_10.jpg,6,5,6,6,7,6,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_101.jpg,6,7,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_103.jpg,6,5,6,6,6,7,5,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_104.jpg,6,7,6,6,7,6,5,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_105.jpg,6,7,6,5,5,5,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_12.jpg,6,5,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_14.jpg,6,5,6,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_17.jpg,6,5,5,6,6,6,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_19.jpg,6,5,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_2.jpg,6,7,5,5,5,5,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_22.jpg,6,7,5,5,5,5,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_23.jpg,6,6,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_28.jpg,6,7,5,6,7,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_29.jpg,6,5,6,5,5,5,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_3.jpg,6,5,5,5,5,5,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_30.jpg,6,7,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_33.jpg,6,7,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_35.jpg,6,7,6,6,5,5,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_36.jpg,6,6,6,6,6,6,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_37.jpg,6,7,6,6,5,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_4.jpg,6,7,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_40.jpg,6,7,5,5,5,5,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_41.jpg,6,5,6,6,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_42.jpg,6,7,5,5,5,5,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_43.jpg,6,6,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_45.jpg,6,7,6,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_46.jpg,6,7,6,6,6,6,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_47.jpg,6,7,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_48.jpg,6,5,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_49.jpg,6,5,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_50.jpg,6,5,6,6,5,5,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_53.jpg,6,7,6,7,7,6,5,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_54.jpg,6,7,5,6,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_56.jpg,6,5,5,5,5,5,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_6.jpg,6,5,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_62.jpg,6,7,6,6,7,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_64.jpg,6,7,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_66.jpg,6,5,6,6,6,6,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_69.jpg,6,7,5,5,5,6,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_7.jpg,6,5,6,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_78.jpg,6,7,6,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_8.jpg,6,6,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_81.jpg,6,7,5,5,5,5,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_82.jpg,6,5,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_88.jpg,6,5,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_91.jpg,6,7,6,6,6,6,7,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_95.jpg,6,5,5,6,5,5,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0000.jpg,6,5,6,6,5,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0003.jpg,6,6,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0005.jpg,6,5,6,6,5,5,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0006.jpg,6,7,6,5,5,5,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0010.jpg,6,7,6,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0011.jpg,6,5,6,7,5,6,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0012.jpg,6,5,6,6,5,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0013.jpg,6,5,6,7,7,7,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0017.jpg,6,5,5,5,5,5,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0018.jpg,6,5,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0022.jpg,6,5,5,6,5,5,5,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0023.jpg,6,7,6,6,6,6,7,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0024.jpg,6,5,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0027.jpg,6,6,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0029.jpg,6,5,6,6,6,6,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0031.jpg,6,7,5,5,5,5,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0032.jpg,6,7,7,5,7,7,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0038.jpg,6,7,6,7,7,7,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0041.jpg,6,5,6,6,6,6,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0042.jpg,6,5,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0044.jpg,6,7,6,6,6,6,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0048.jpg,6,5,6,6,5,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0049.jpg,6,7,6,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0050.jpg,6,6,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0053.jpg,6,6,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0057.jpg,6,7,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0064.jpg,6,5,6,6,6,6,5,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0067.jpg,6,7,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0071.jpg,6,7,6,5,5,5,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0080.jpg,6,6,6,6,5,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0085.jpg,6,5,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0090.jpg,6,5,6,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0094.jpg,6,5,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0097.jpg,6,5,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0101.jpg,6,5,5,6,6,7,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0105.jpg,6,5,6,6,6,6,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0109.jpg,6,5,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0110.jpg,6,5,5,6,5,5,7,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0114.jpg,6,5,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0117.jpg,6,5,5,6,5,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0121.jpg,6,5,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0127.jpg,6,5,6,6,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0129.jpg,6,5,6,6,7,6,6,7
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0132.jpg,6,5,5,5,5,6,5,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0143.jpg,6,7,5,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0149.jpg,6,5,7,5,5,5,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0151.jpg,6,6,6,6,6,6,6,6
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0163.jpg,6,6,6,6,6,6,7,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0169.jpg,6,5,6,5,6,6,6,5
+corn_northern_leaf_blight,corn,PlantWild,v2,corn northern leaf blight/corn_northern_leaf_blight_google_0175.jpg,6,5,5,5,5,5,6,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_1.jpg,7,5,6,7,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_10.jpg,7,7,6,6,6,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_12.jpg,7,7,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_13.jpg,7,5,6,6,6,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_14.jpg,7,7,6,6,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_15.jpg,7,7,6,6,6,6,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_17.jpg,7,7,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_18.jpg,7,5,5,5,5,5,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_19.jpg,7,7,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_2.jpg,7,7,6,6,7,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_20.jpg,7,7,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_21.jpg,7,7,6,7,7,6,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_22.jpg,7,7,6,5,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_27.jpg,7,7,6,6,6,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_28.jpg,7,5,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_29.jpg,7,7,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_3.jpg,7,7,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_30.jpg,7,7,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_32.jpg,7,5,6,6,6,7,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_35.jpg,7,5,6,6,6,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_36.jpg,7,7,6,7,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_40.jpg,7,6,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_41.jpg,7,7,5,6,6,7,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_42.jpg,7,7,6,6,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_46.jpg,7,7,5,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_48.jpg,7,7,6,5,5,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_5.jpg,7,7,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_51.jpg,7,7,6,5,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_53.jpg,7,5,6,6,6,5,6,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_54.jpg,7,5,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_56.jpg,7,6,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_57.jpg,7,5,5,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_58.jpg,7,7,6,6,6,6,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_59.jpg,7,7,5,7,7,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_6.jpg,7,5,5,6,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_60.jpg,7,7,6,6,6,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_62.jpg,7,7,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_63.jpg,7,5,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_65.jpg,7,5,6,6,5,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_69.jpg,7,7,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_7.jpg,7,7,6,6,6,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_70.jpg,7,6,6,6,6,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_71.jpg,7,5,6,5,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_72.jpg,7,7,6,7,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_77.jpg,7,7,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_78.jpg,7,6,7,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_80.jpg,7,7,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_81.jpg,7,7,5,5,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_82.jpg,7,5,5,7,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_87.jpg,7,6,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_9.jpg,7,7,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_90.jpg,7,7,6,6,5,6,6,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_92.jpg,7,7,6,6,6,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_98.jpg,7,7,6,6,5,6,6,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_99.jpg,7,7,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0000.jpg,7,7,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0002.jpg,7,7,6,5,6,5,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0003.jpg,7,7,7,7,7,7,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0005.jpg,7,7,6,6,7,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0007.jpg,7,6,6,7,6,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0008.jpg,7,7,6,6,6,7,6,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0011.jpg,7,7,5,7,7,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0012.jpg,7,7,6,6,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0013.jpg,7,5,5,6,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0014.jpg,7,5,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0015.jpg,7,7,7,7,7,7,6,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0016.jpg,7,7,6,5,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0017.jpg,7,7,6,6,5,5,5,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0019.jpg,7,5,5,6,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0020.jpg,7,6,6,7,7,7,5,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0021.jpg,7,7,7,7,7,7,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0022.jpg,7,5,7,6,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0026.jpg,7,5,5,5,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0027.jpg,7,5,7,6,7,7,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0029.jpg,7,5,6,6,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0031.jpg,7,7,5,7,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0034.jpg,7,5,5,7,5,7,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0037.jpg,7,7,6,6,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0040.jpg,7,6,6,6,6,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0044.jpg,7,5,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0048.jpg,7,7,7,7,7,7,5,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0049.jpg,7,6,6,7,7,7,5,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0050.jpg,7,5,5,7,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0052.jpg,7,5,7,6,5,7,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0053.jpg,7,5,5,5,5,5,6,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0056.jpg,7,5,7,7,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0057.jpg,7,5,6,6,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0059.jpg,7,5,5,5,5,5,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0061.jpg,7,5,7,7,7,7,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0063.jpg,7,7,6,6,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0067.jpg,7,7,6,6,7,7,5,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0068.jpg,7,5,7,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0071.jpg,7,7,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0074.jpg,7,7,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0078.jpg,7,5,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0079.jpg,7,6,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0080.jpg,7,5,6,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0081.jpg,7,7,6,5,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0082.jpg,7,6,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0084.jpg,7,5,6,6,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0086.jpg,7,7,5,5,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0087.jpg,7,7,5,5,5,5,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0088.jpg,7,6,5,6,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0091.jpg,7,5,6,7,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0092.jpg,7,5,5,6,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0094.jpg,7,7,6,5,5,7,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0097.jpg,7,7,6,6,6,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0101.jpg,7,6,6,6,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0103.jpg,7,7,6,6,6,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0107.jpg,7,7,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0108.jpg,7,7,6,7,5,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0109.jpg,7,5,6,5,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0112.jpg,7,5,7,7,7,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0113.jpg,7,5,6,7,7,7,5,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0115.jpg,7,5,7,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0117.jpg,7,5,6,6,6,7,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0123.jpg,7,5,6,7,7,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0131.jpg,7,7,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0132.jpg,7,5,7,7,7,7,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0133.jpg,7,5,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0137.jpg,7,6,6,6,6,6,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0140.jpg,7,5,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0142.jpg,7,5,6,6,5,6,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0146.jpg,7,7,7,7,7,7,5,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0148.jpg,7,7,6,6,6,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0149.jpg,7,7,6,5,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0156.jpg,7,5,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0157.jpg,7,6,6,5,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0160.jpg,7,5,5,5,5,5,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0165.jpg,7,5,5,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0168.jpg,7,5,6,6,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0170.jpg,7,5,5,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0171.jpg,7,5,6,7,6,7,5,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0173.jpg,7,7,6,6,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0174.jpg,7,5,5,6,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0177.jpg,7,7,5,6,5,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0179.jpg,7,5,6,7,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0181.jpg,7,7,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0182.jpg,7,5,6,6,7,7,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0190.jpg,7,6,5,7,7,7,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0191.jpg,7,5,5,5,5,5,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0197.jpg,7,7,6,7,5,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0205.jpg,7,5,5,5,6,6,7,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0211.jpg,7,6,5,6,5,7,6,7
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0212.jpg,7,5,6,6,5,6,7,6
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0214.jpg,7,7,5,5,5,7,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0220.jpg,7,7,5,5,5,5,7,5
+corn_common_rust,corn,PlantWild,v2,corn rust/corn_rust_google_0227.jpg,7,5,6,6,6,6,7,7
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0036.jpg,8,8,9,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0039.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0052.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0053.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0072.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0084.jpg,8,8,9,9,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0089.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0095.jpg,8,8,9,9,8,9,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0096.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0110.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0133.jpg,8,9,9,9,8,9,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0149.jpg,8,9,8,9,9,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0188.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0209.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0219.jpg,8,9,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0220.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0230.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0278.jpg,8,8,8,8,8,8,8,8
+grape_black_rot,grape,PlantWild,v2,grape black rot/grape_black_rot_google_0325.jpg,8,8,8,8,8,8,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/1.jpg,9,8,9,9,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/10.jpg,9,8,9,9,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/102.jpg,9,8,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/105.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/11.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/111.jpg,9,8,8,9,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/12.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/128.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/129.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/13.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/130.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/131.jpg,9,8,9,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/132.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/133.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/134.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/135.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/136.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/137.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/138.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/14.jpg,9,8,8,8,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/140.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/141.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/143.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/144.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/145.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/147.jpg,9,8,8,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/149.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/15.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/150.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/152.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/155.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/163.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/164.jpg,9,8,8,9,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/165.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/169.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/172.jpg,9,8,9,9,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/173.jpg,9,8,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/175.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/177.jpg,9,8,8,8,8,9,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/178.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/179.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/18.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/181.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/19.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/2.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/20.jpg,9,8,8,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/21.jpg,9,8,8,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/22.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/23.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/24.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/25.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/26.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/28.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/29.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/30.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/32.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/33.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/35.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/36.jpg,9,8,8,9,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/37.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/38.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/39.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/4.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/40.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/41.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/42.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/43.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/44.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/45.jpg,9,8,9,8,8,8,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/46.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/47.jpg,9,8,8,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/48.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/49.jpg,9,8,8,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/50.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/51.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/52.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/53.jpg,9,8,8,8,8,8,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/55.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/56.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/57.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/58.jpg,9,8,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/59.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/6.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/60.jpg,9,9,8,8,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/62.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/64.jpg,9,8,9,9,9,8,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/65.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/66.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/67.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/68.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/69.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/7.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/70.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/71.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/72.jpg,9,9,8,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/75.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/76.jpg,9,8,8,8,8,8,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/80.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/81.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/84.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/85.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/86.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/87.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/89.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/9.jpg,9,8,8,9,8,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/90.jpg,9,8,9,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/91.jpg,9,9,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/92.jpg,9,8,9,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/94.jpg,9,8,8,9,8,9,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/98.jpg,9,8,9,9,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/99.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0002.jpg,9,8,8,9,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0004.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0008.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0009.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0012.jpg,9,8,8,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0015.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0024.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0044.jpg,9,8,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0046.jpg,9,8,8,8,8,8,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0058.jpg,9,8,8,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0059.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0061.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0063.jpg,9,8,8,9,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0070.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0085.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0090.jpg,9,8,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0091.jpg,9,8,8,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0092.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0108.jpg,9,8,8,8,9,9,8,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0115.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0127.jpg,9,8,9,8,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0147.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0149.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0151.jpg,9,9,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0170.jpg,9,9,8,8,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0180.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0189.jpg,9,9,8,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0192.jpg,9,9,8,9,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0238.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0246.jpg,9,8,8,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0286.jpg,9,9,9,9,9,9,9,9
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0287.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0325.jpg,9,8,8,8,8,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0337.jpg,9,8,8,8,8,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0361.jpg,9,8,9,9,9,9,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0367.jpg,9,8,9,9,9,8,9,8
+grape_healthy,grape,PlantWild,v1,grape leaf/google_0370.jpg,9,8,8,9,8,9,9,8
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_1.jpg,10,10,11,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_11.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_13.jpg,10,10,10,10,10,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_14.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_16.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_18.jpg,10,10,11,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_21.jpg,10,10,11,11,11,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_3.jpg,10,10,10,11,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_30.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_31.jpg,10,10,10,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_33.jpg,10,10,11,11,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_37.jpg,10,11,11,11,11,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_38.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_44.jpg,10,11,10,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_45.jpg,10,10,11,11,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_5.jpg,10,10,11,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_51.jpg,10,11,11,11,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_53.jpg,10,11,11,11,11,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_59.jpg,10,10,11,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_6.jpg,10,10,11,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_60.jpg,10,10,11,11,11,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_61.jpg,10,11,10,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_64.jpg,10,10,11,11,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_65.jpg,10,10,11,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_68.jpg,10,11,11,11,11,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_69.jpg,10,11,11,10,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_70.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_75.jpg,10,11,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_78.jpg,10,10,11,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_9.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0001.jpg,10,10,11,11,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0006.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0011.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0012.jpg,10,11,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0018.jpg,10,10,11,11,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0022.jpg,10,11,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0024.jpg,10,11,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0031.jpg,10,11,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0036.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0039.jpg,10,11,11,11,10,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0040.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0045.jpg,10,11,11,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0051.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0054.jpg,10,10,10,11,10,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0058.jpg,10,10,10,11,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0062.jpg,10,11,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0063.jpg,10,11,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0068.jpg,10,10,11,11,10,10,10,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0071.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0075.jpg,10,11,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0077.jpg,10,11,11,10,10,11,10,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0078.jpg,10,11,11,11,11,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0089.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0095.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0096.jpg,10,11,11,11,11,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0097.jpg,10,10,11,11,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0105.jpg,10,11,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0110.jpg,10,10,11,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0117.jpg,10,11,11,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0118.jpg,10,10,10,11,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0119.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0143.jpg,10,10,11,11,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0149.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0153.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0156.jpg,10,11,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0168.jpg,10,10,10,11,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0183.jpg,10,10,11,10,10,10,10,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0184.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0185.jpg,10,10,11,11,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0192.jpg,10,10,11,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0195.jpg,10,10,11,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0197.jpg,10,11,11,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0198.jpg,10,11,10,11,11,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0207.jpg,10,10,11,11,10,11,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0213.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0215.jpg,10,10,11,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0216.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0224.jpg,10,11,11,11,11,11,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0240.jpg,10,10,11,11,11,11,10,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0252.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0253.jpg,10,10,11,11,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0265.jpg,10,10,10,10,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0274.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0276.jpg,10,10,11,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0277.jpg,10,10,10,11,10,10,11,11
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0306.jpg,10,11,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0320.jpg,10,10,10,10,10,10,11,10
+potato_early_blight,potato,PlantWild,v2,potato early blight/potato_early_blight_google_0366.jpg,10,10,10,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_1.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_101.jpg,11,11,11,11,11,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_105.jpg,11,11,10,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_11.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_12.jpg,11,10,11,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_13.jpg,11,10,10,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_18.jpg,11,10,10,10,10,10,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_2.jpg,11,10,11,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_20.jpg,11,11,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_23.jpg,11,11,11,11,11,11,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_25.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_3.jpg,11,10,11,10,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_35.jpg,11,10,11,11,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_36.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_37.jpg,11,10,10,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_38.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_39.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_4.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_41.jpg,11,11,11,11,11,11,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_43.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_44.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_5.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_50.jpg,11,11,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_58.jpg,11,10,11,11,10,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_6.jpg,11,10,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_61.jpg,11,10,10,10,10,10,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_63.jpg,11,10,10,11,10,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_67.jpg,11,10,11,11,11,11,10,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_7.jpg,11,10,11,10,10,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_78.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_79.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_86.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_87.jpg,11,10,11,10,10,10,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_95.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_96.jpg,11,10,11,10,10,11,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0000.jpg,11,11,11,11,11,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0006.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0010.jpg,11,11,11,11,11,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0011.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0012.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0013.jpg,11,10,11,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0021.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0022.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0029.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0032.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0033.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0039.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0042.jpg,11,10,11,10,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0043.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0050.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0051.jpg,11,10,11,11,10,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0054.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0055.jpg,11,11,11,10,10,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0057.jpg,11,11,11,11,10,10,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0064.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0067.jpg,11,10,10,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0068.jpg,11,11,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0074.jpg,11,11,10,10,10,11,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0075.jpg,11,11,11,11,11,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0079.jpg,11,10,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0082.jpg,11,11,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0084.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0086.jpg,11,10,10,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0092.jpg,11,10,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0097.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0100.jpg,11,10,11,11,10,11,11,10
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0102.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0105.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0107.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0112.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0113.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0114.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0121.jpg,11,10,11,11,10,11,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0130.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0136.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0137.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0143.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0154.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0155.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0156.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0159.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0160.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0162.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0175.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0179.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0183.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0197.jpg,11,10,10,10,10,10,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0212.jpg,11,11,11,11,10,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0219.jpg,11,11,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0234.jpg,11,11,11,11,11,11,10,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0235.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0266.jpg,11,10,11,11,11,11,11,11
+potato_late_blight,potato,PlantWild,v2,potato late blight/potato_late_blight_google_0282.jpg,11,10,11,10,10,11,11,11
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_10.jpg,12,13,13,12,16,16,12,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_102.jpg,12,16,13,16,16,13,17,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_104.jpg,12,13,14,13,13,13,17,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_12.jpg,12,13,14,13,13,13,14,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_120.jpg,12,18,14,13,14,14,17,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_127.jpg,12,14,14,13,13,13,15,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_128.jpg,12,18,13,13,13,13,15,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_14.jpg,12,14,14,13,13,13,12,14
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_15.jpg,12,13,13,12,16,12,15,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_153.jpg,12,14,13,16,16,13,16,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_16.jpg,12,13,13,13,13,13,17,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_168.jpg,12,18,13,16,16,16,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_169.jpg,12,18,13,16,16,16,14,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_17.jpg,12,18,13,16,16,16,17,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_175.jpg,12,18,16,16,16,16,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_176.jpg,12,14,13,16,16,16,12,12
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_18.jpg,12,13,13,14,14,16,17,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_185.jpg,12,18,13,16,16,16,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_187.jpg,12,16,13,16,16,12,18,14
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_198.jpg,12,13,14,14,14,14,17,19
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_20.jpg,12,18,13,16,16,16,12,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_200.jpg,12,16,16,16,16,16,17,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_22.jpg,12,18,14,16,16,14,16,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_24.jpg,12,13,14,16,16,16,15,12
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_3.jpg,12,13,14,14,13,13,18,12
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_31.jpg,12,16,13,16,16,16,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_32.jpg,12,16,13,16,16,16,16,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_4.jpg,12,13,13,16,16,16,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_41.jpg,12,13,13,16,16,13,17,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_43.jpg,12,18,13,16,16,14,15,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_5.jpg,12,14,14,13,13,13,14,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_6.jpg,12,13,14,14,18,18,13,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_64.jpg,12,14,14,12,12,12,12,12
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_65.jpg,12,18,14,18,14,18,17,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_7.jpg,12,18,13,16,16,16,17,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_70.jpg,12,13,14,14,14,13,14,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_76.jpg,12,13,14,13,13,13,15,14
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_77.jpg,12,13,14,13,16,13,12,12
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_79.jpg,12,13,14,13,16,12,18,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_97.jpg,12,18,13,16,16,16,17,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_99.jpg,12,13,13,13,13,16,12,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0000.jpg,12,14,14,14,14,14,16,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0004.jpg,12,13,13,16,16,16,18,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0014.jpg,12,13,13,13,13,13,12,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0020.jpg,12,17,16,16,16,16,17,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0021.jpg,12,18,13,16,16,16,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0034.jpg,12,13,13,12,16,13,12,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0036.jpg,12,14,14,13,13,13,16,14
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0037.jpg,12,16,16,16,16,16,17,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0040.jpg,12,18,13,13,16,13,12,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0043.jpg,12,14,13,13,16,13,17,14
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0044.jpg,12,14,14,15,14,14,17,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0051.jpg,12,13,13,13,16,13,13,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0053.jpg,12,16,13,13,13,12,12,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0060.jpg,12,14,13,16,16,16,17,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0061.jpg,12,13,13,16,16,16,12,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0065.jpg,12,14,13,13,13,13,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0066.jpg,12,16,16,16,16,16,17,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0087.jpg,12,14,13,13,13,13,17,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0103.jpg,12,18,14,12,16,13,13,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0111.jpg,12,14,12,16,16,16,17,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0113.jpg,12,16,16,16,16,16,15,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0150.jpg,12,18,14,16,16,16,14,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0188.jpg,12,16,13,16,16,16,12,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0276.jpg,12,13,13,16,16,12,18,15
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0315.jpg,12,13,13,16,16,16,15,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0319.jpg,12,16,16,16,16,16,12,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0324.jpg,12,16,14,16,16,16,12,17
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0338.jpg,12,12,14,16,16,16,17,16
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0351.jpg,12,13,13,13,16,13,12,13
+tomato_bacterial_spot,tomato,PlantWild,v2,tomato bacterial leaf spot/tomato_bacterial_leaf_spot_google_0411.jpg,12,13,14,12,16,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_10.jpg,13,13,14,14,14,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_118.jpg,13,14,14,14,16,12,15,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_121.jpg,13,18,14,14,14,14,15,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_127.jpg,13,13,13,13,13,13,17,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_13.jpg,13,18,13,13,13,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_130.jpg,13,14,14,14,14,13,16,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_136.jpg,13,13,13,13,13,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_137.jpg,13,18,14,14,14,14,15,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_14.jpg,13,13,14,13,16,13,17,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_143.jpg,13,13,13,16,16,16,18,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_155.jpg,13,14,13,13,14,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_160.jpg,13,18,14,14,14,14,15,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_165.jpg,13,13,14,14,13,13,16,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_172.jpg,13,18,13,16,16,13,12,12
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_177.jpg,13,14,13,13,16,13,12,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_179.jpg,13,16,14,14,16,16,18,19
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_183.jpg,13,16,13,16,16,13,14,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_186.jpg,13,18,14,13,13,14,12,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_189.jpg,13,13,13,16,16,16,17,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_191.jpg,13,12,13,16,16,16,12,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_2.jpg,13,13,14,14,15,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_21.jpg,13,13,14,13,13,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_212.jpg,13,14,14,14,14,13,12,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_216.jpg,13,13,13,13,13,13,17,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_219.jpg,13,13,13,13,13,13,17,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_221.jpg,13,18,14,14,14,14,13,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_227.jpg,13,18,13,13,16,13,17,14
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_242.jpg,13,14,14,14,14,14,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_251.jpg,13,18,13,13,13,13,12,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_287.jpg,13,13,14,13,13,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_3.jpg,13,18,14,14,14,14,14,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_316.jpg,13,13,14,13,16,13,17,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_321.jpg,13,12,13,13,16,16,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_38.jpg,13,13,13,13,13,13,18,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_43.jpg,13,12,14,13,14,13,18,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_47.jpg,13,13,13,13,13,13,17,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_52.jpg,13,18,13,13,13,13,16,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_53.jpg,13,18,13,13,14,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_55.jpg,13,13,13,13,13,13,13,12
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_6.jpg,13,13,14,14,14,13,13,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_66.jpg,13,13,13,13,16,13,12,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_671.jpg,13,18,14,13,13,13,12,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_7.jpg,13,18,13,13,13,13,12,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_86.jpg,13,16,14,14,14,14,16,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_87.jpg,13,13,13,13,13,13,15,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_93.jpg,13,14,14,14,16,12,15,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_96.jpg,13,13,14,13,16,16,12,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0000.jpg,13,13,14,13,13,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0003.jpg,13,13,14,15,16,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0005.jpg,13,13,14,14,14,13,13,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0007.jpg,13,16,13,13,13,13,15,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0013.jpg,13,13,14,12,12,13,18,14
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0014.jpg,13,14,14,13,13,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0018.jpg,13,13,13,13,13,13,12,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0020.jpg,13,17,14,14,14,16,15,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0033.jpg,13,18,13,13,16,13,18,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0040.jpg,13,13,14,14,13,13,18,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0048.jpg,13,13,13,13,13,13,12,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0052.jpg,13,18,13,12,12,13,17,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0054.jpg,13,14,14,14,14,13,17,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0055.jpg,13,14,13,13,16,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0056.jpg,13,13,13,12,13,13,12,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0071.jpg,13,15,13,13,13,13,12,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0080.jpg,13,13,13,13,13,13,18,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0081.jpg,13,14,13,13,14,13,18,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0091.jpg,13,14,14,14,14,14,13,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0103.jpg,13,13,14,18,14,13,17,14
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0110.jpg,13,18,13,13,13,13,14,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0117.jpg,13,18,14,14,14,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0130.jpg,13,13,14,13,13,13,17,14
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0139.jpg,13,13,13,14,14,13,14,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0143.jpg,13,13,13,12,12,13,18,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0146.jpg,13,16,13,16,16,16,17,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0149.jpg,13,13,13,13,13,13,12,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0160.jpg,13,13,13,13,13,13,18,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0163.jpg,13,18,13,14,14,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0178.jpg,13,13,14,13,14,13,15,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0181.jpg,13,13,13,14,13,13,18,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0185.jpg,13,13,13,13,13,13,18,14
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0188.jpg,13,14,13,13,13,13,18,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0198.jpg,13,13,13,13,13,13,14,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0200.jpg,13,14,13,13,13,13,12,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0211.jpg,13,13,14,14,13,14,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0220.jpg,13,14,14,14,14,14,15,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0223.jpg,13,13,13,13,13,13,18,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0224.jpg,13,13,13,13,13,13,14,12
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0226.jpg,13,15,14,13,13,13,15,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0227.jpg,13,13,14,16,16,13,17,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0230.jpg,13,14,13,13,13,13,13,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0233.jpg,13,13,13,13,13,13,14,12
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0246.jpg,13,18,14,14,16,13,18,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0249.jpg,13,13,13,13,13,13,18,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0250.jpg,13,13,16,13,16,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0259.jpg,13,14,14,14,14,14,18,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0273.jpg,13,13,14,14,13,13,18,14
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0280.jpg,13,14,14,14,14,14,15,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0305.jpg,13,14,13,16,16,16,18,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0310.jpg,13,13,13,16,16,13,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0319.jpg,13,13,13,13,16,13,16,15
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0344.jpg,13,13,13,13,16,13,18,17
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0345.jpg,13,13,13,18,16,18,14,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0355.jpg,13,16,14,15,15,14,15,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0362.jpg,13,13,14,13,13,13,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0386.jpg,13,13,13,13,13,13,14,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0394.jpg,13,18,14,14,14,14,15,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0397.jpg,13,13,14,14,14,14,15,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0400.jpg,13,13,14,16,16,13,17,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0406.jpg,13,18,13,13,13,13,15,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0411.jpg,13,13,14,13,13,13,15,16
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0427.jpg,13,17,14,18,19,16,17,13
+tomato_early_blight,tomato,PlantWild,v2,tomato early blight/tomato_early_blight_google_0432.jpg,13,13,14,13,14,13,12,16
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_10.jpg,14,13,14,14,14,13,14,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_100.jpg,14,18,14,14,14,14,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_104.jpg,14,18,14,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_109.jpg,14,14,14,14,14,14,14,17
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_113.jpg,14,13,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_127.jpg,14,13,13,13,13,13,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_13.jpg,14,18,14,14,14,14,13,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_130.jpg,14,14,13,14,14,14,16,17
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_135.jpg,14,14,14,14,14,14,15,12
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_137.jpg,14,14,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_142.jpg,14,13,14,14,14,14,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_143.jpg,14,13,14,14,14,13,17,16
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_147.jpg,14,18,14,14,12,12,18,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_149.jpg,14,13,14,14,14,13,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_159.jpg,14,18,13,14,14,14,13,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_16.jpg,14,18,14,14,14,14,14,15
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_166.jpg,14,13,13,14,14,13,14,12
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_171.jpg,14,13,14,14,14,14,13,12
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_173.jpg,14,14,14,14,14,14,14,16
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_175.jpg,14,13,14,14,14,14,17,16
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_185.jpg,14,16,14,14,14,14,14,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_19.jpg,14,13,14,14,14,14,12,15
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_190.jpg,14,13,14,13,13,13,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_198.jpg,14,14,14,14,14,14,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_199.jpg,14,18,13,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_204.jpg,14,14,14,14,14,14,12,17
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_205.jpg,14,13,13,14,13,13,13,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_207.jpg,14,18,14,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_216.jpg,14,14,13,14,14,13,13,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_223.jpg,14,18,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_233.jpg,14,14,14,14,14,14,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_234.jpg,14,13,14,14,14,14,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_24.jpg,14,18,14,14,14,14,14,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_25.jpg,14,13,14,14,14,14,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_36.jpg,14,13,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_4.jpg,14,13,14,14,13,13,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_44.jpg,14,16,14,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_5.jpg,14,13,13,18,16,18,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_50.jpg,14,18,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_51.jpg,14,18,14,14,14,14,15,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_56.jpg,14,13,14,14,14,14,13,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_57.jpg,14,13,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_6.jpg,14,13,14,14,14,13,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_66.jpg,14,13,14,14,14,14,12,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_68.jpg,14,13,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_7.jpg,14,14,14,14,14,14,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_75.jpg,14,14,14,14,14,14,12,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_76.jpg,14,13,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_8.jpg,14,13,14,14,14,13,13,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_81.jpg,14,18,14,14,14,14,12,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_84.jpg,14,13,14,14,14,14,13,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_86.jpg,14,13,14,13,14,14,12,12
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_90.jpg,14,13,14,14,13,13,13,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_98.jpg,14,13,13,14,14,13,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_99.jpg,14,16,14,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0000.jpg,14,14,14,14,14,14,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0005.jpg,14,13,14,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0021.jpg,14,18,14,14,14,14,18,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0024.jpg,14,13,14,13,13,14,14,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0032.jpg,14,14,14,14,14,14,15,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0035.jpg,14,13,14,13,13,13,18,15
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0056.jpg,14,13,14,14,14,14,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0059.jpg,14,18,14,13,13,13,15,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0107.jpg,14,13,13,14,14,14,17,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0116.jpg,14,13,14,13,13,13,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0117.jpg,14,13,14,14,14,14,17,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0134.jpg,14,13,14,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0137.jpg,14,13,14,14,14,14,17,15
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0175.jpg,14,13,13,14,14,13,14,15
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0188.jpg,14,13,13,13,13,13,14,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0194.jpg,14,13,14,14,14,14,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0205.jpg,14,13,14,13,13,13,14,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0217.jpg,14,14,14,13,14,14,14,13
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0219.jpg,14,13,14,14,14,13,14,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0224.jpg,14,14,14,14,14,14,13,14
+tomato_late_blight,tomato,PlantWild,v2,tomato late blight/tomato_late_blight_google_0246.jpg,14,14,14,14,14,14,15,14
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_10.jpg,15,13,13,14,14,13,18,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_12.jpg,15,18,14,14,14,14,17,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_13.jpg,15,14,14,14,14,14,13,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_136.jpg,15,18,13,14,14,14,14,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_137.jpg,15,18,14,14,15,16,18,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_14.jpg,15,12,14,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_140.jpg,15,14,14,14,14,16,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_142.jpg,15,13,13,15,15,15,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_143.jpg,15,15,14,14,14,14,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_148.jpg,15,13,14,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_150.jpg,15,13,14,14,14,13,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_151.jpg,15,18,14,15,15,15,18,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_152.jpg,15,15,14,14,14,14,16,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_154.jpg,15,14,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_155.jpg,15,18,13,14,14,14,12,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_160.jpg,15,18,14,15,15,15,18,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_161.jpg,15,13,14,14,13,13,17,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_163.jpg,15,13,14,14,14,14,13,14
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_164.jpg,15,13,14,14,14,14,14,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_166.jpg,15,14,13,14,14,16,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_167.jpg,15,13,13,13,13,13,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_169.jpg,15,13,14,14,14,14,14,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_17.jpg,15,13,14,15,14,13,18,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_170.jpg,15,14,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_171.jpg,15,18,14,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_172.jpg,15,13,13,14,14,14,12,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_173.jpg,15,14,14,14,14,14,17,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_174.jpg,15,14,14,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_175.jpg,15,13,14,14,14,14,15,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_178.jpg,15,18,13,18,14,13,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_18.jpg,15,14,13,14,14,16,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_180.jpg,15,13,14,14,14,14,15,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_181.jpg,15,13,14,14,14,14,17,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_182.jpg,15,13,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_183.jpg,15,18,13,14,14,14,17,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_184.jpg,15,14,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_189.jpg,15,14,14,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_19.jpg,15,15,13,14,14,14,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_195.jpg,15,13,13,14,14,13,12,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_196.jpg,15,13,14,14,14,13,17,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_20.jpg,15,13,13,14,14,13,12,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_202.jpg,15,18,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_203.jpg,15,14,14,14,14,14,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_204.jpg,15,18,14,14,14,14,12,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_207.jpg,15,13,13,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_208.jpg,15,16,14,14,14,13,16,14
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_209.jpg,15,15,13,14,14,14,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_21.jpg,15,13,13,13,13,13,12,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_210.jpg,15,18,13,15,15,14,17,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_211.jpg,15,14,14,14,15,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_215.jpg,15,18,13,13,13,13,17,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_216.jpg,15,18,14,14,14,14,12,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_219.jpg,15,14,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_22.jpg,15,13,14,14,14,14,17,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_224.jpg,15,13,13,14,14,13,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_227.jpg,15,15,14,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_23.jpg,15,13,14,14,14,14,15,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_235.jpg,15,16,14,14,14,14,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_236.jpg,15,14,14,14,14,14,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_24.jpg,15,14,13,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_240.jpg,15,18,14,14,14,14,14,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_241.jpg,15,14,14,14,14,14,16,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_248.jpg,15,18,13,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_259.jpg,15,16,14,15,15,15,18,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_262.jpg,15,18,13,14,14,13,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_264.jpg,15,13,14,14,14,13,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_265.jpg,15,18,13,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_266.jpg,15,16,14,14,14,14,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_271.jpg,15,14,13,14,14,14,15,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_277.jpg,15,13,14,13,13,13,12,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_278.jpg,15,13,14,14,14,14,18,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_28.jpg,15,14,13,14,14,14,17,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_281.jpg,15,14,14,14,14,14,14,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_282.jpg,15,14,13,15,15,15,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_3.jpg,15,14,14,13,14,13,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_30.jpg,15,13,13,14,13,13,14,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_32.jpg,15,18,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_34.jpg,15,18,13,13,13,13,17,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_35.jpg,15,14,14,14,14,14,15,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_38.jpg,15,14,13,13,13,13,12,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_40.jpg,15,18,13,14,14,14,15,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_41.jpg,15,13,14,13,13,13,14,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_45.jpg,15,13,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_46.jpg,15,14,14,14,14,14,14,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_47.jpg,15,15,14,14,13,13,13,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_48.jpg,15,14,13,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_5.jpg,15,14,14,14,14,16,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_58.jpg,15,14,14,14,14,14,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_59.jpg,15,14,14,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_60.jpg,15,14,14,14,14,14,16,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_63.jpg,15,14,14,14,14,14,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_64.jpg,15,13,14,14,14,13,17,14
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_66.jpg,15,16,14,15,15,15,14,14
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_71.jpg,15,13,14,13,13,13,15,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_74.jpg,15,14,14,14,14,14,16,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_77.jpg,15,13,14,14,14,13,12,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_87.jpg,15,18,14,14,14,14,15,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_88.jpg,15,14,13,14,14,14,15,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_89.jpg,15,14,13,14,14,14,17,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_9.jpg,15,18,14,16,16,16,14,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_91.jpg,15,13,14,14,14,13,17,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_92.jpg,15,14,13,13,14,15,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_94.jpg,15,13,13,14,14,14,12,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_99.jpg,15,14,13,13,13,13,17,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0001.jpg,15,13,13,15,15,15,18,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0002.jpg,15,14,14,14,14,14,16,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0006.jpg,15,16,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0007.jpg,15,14,14,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0019.jpg,15,14,13,14,14,14,12,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0020.jpg,15,13,14,14,14,15,17,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0024.jpg,15,18,13,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0028.jpg,15,13,14,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0030.jpg,15,12,13,14,14,14,12,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0036.jpg,15,18,13,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0038.jpg,15,13,13,14,13,13,14,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0056.jpg,15,13,14,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0063.jpg,15,18,13,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0067.jpg,15,13,14,14,14,14,13,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0104.jpg,15,14,14,14,14,14,15,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0105.jpg,15,13,13,15,15,15,15,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0110.jpg,15,15,15,15,15,15,15,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0116.jpg,15,15,15,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0129.jpg,15,14,14,14,14,14,15,12
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0131.jpg,15,15,15,15,15,15,16,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0135.jpg,15,13,14,14,14,14,14,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0142.jpg,15,13,15,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0152.jpg,15,15,14,14,14,13,14,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0216.jpg,15,13,13,14,14,13,13,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0220.jpg,15,13,14,13,12,13,17,15
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0222.jpg,15,18,13,15,15,15,15,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0226.jpg,15,15,15,15,15,15,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0246.jpg,15,18,13,14,14,14,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0277.jpg,15,13,14,13,13,13,17,18
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0284.jpg,15,18,18,18,15,18,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0286.jpg,15,17,14,14,14,13,15,16
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0293.jpg,15,13,14,14,14,14,12,13
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0304.jpg,15,13,13,13,13,13,15,17
+tomato_leaf_mold,tomato,PlantWild,v2,tomato leaf mold/tomato_leaf_mold_google_0308.jpg,15,16,13,14,15,14,17,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_1.jpg,16,18,13,13,12,12,12,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_10.jpg,16,16,13,16,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_13.jpg,16,18,13,16,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_148.jpg,16,14,13,16,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_155.jpg,16,18,13,16,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_16.jpg,16,18,13,16,16,12,17,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_162.jpg,16,18,13,16,16,16,12,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_17.jpg,16,12,13,13,14,14,16,19
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_18.jpg,16,13,13,13,13,13,15,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_195.jpg,16,14,13,16,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_196.jpg,16,13,13,13,13,13,17,14
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_2.jpg,16,13,13,13,16,13,14,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_20.jpg,16,16,13,16,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_205.jpg,16,14,14,14,14,14,16,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_24.jpg,16,18,13,13,16,13,14,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_241.jpg,16,13,13,13,13,13,15,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_25.jpg,16,13,13,16,16,12,17,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_26.jpg,16,12,14,16,14,14,16,19
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_28.jpg,16,14,16,16,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_32.jpg,16,13,13,14,14,13,16,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_34.jpg,16,14,13,12,13,13,17,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_37.jpg,16,13,13,13,13,13,17,14
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_4.jpg,16,14,14,14,16,16,17,19
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_49.jpg,16,13,14,16,16,12,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_5.jpg,16,14,14,14,14,12,17,14
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_61.jpg,16,13,14,13,13,12,17,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_63.jpg,16,13,13,16,16,16,17,12
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_64.jpg,16,16,13,16,16,16,17,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_66.jpg,16,13,13,16,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_7.jpg,16,18,16,16,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_77.jpg,16,18,13,13,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_80.jpg,16,13,13,13,13,13,15,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_88.jpg,16,13,13,13,13,13,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0000.jpg,16,16,16,16,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0002.jpg,16,14,14,13,13,13,15,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0003.jpg,16,13,14,13,13,13,17,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0004.jpg,16,13,14,13,13,13,14,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0007.jpg,16,15,13,13,13,13,12,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0010.jpg,16,16,13,14,16,13,17,12
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0012.jpg,16,14,14,14,14,14,17,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0013.jpg,16,13,14,13,13,13,14,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0016.jpg,16,16,13,13,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0018.jpg,16,13,13,13,13,13,15,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0022.jpg,16,13,13,13,16,13,14,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0023.jpg,16,16,14,16,16,16,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0029.jpg,16,18,14,16,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0030.jpg,16,14,14,16,16,13,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0033.jpg,16,13,13,13,13,13,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0035.jpg,16,13,13,13,16,13,14,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0036.jpg,16,15,13,13,13,13,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0037.jpg,16,18,13,13,13,13,12,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0038.jpg,16,16,16,16,16,16,15,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0039.jpg,16,14,13,16,16,13,17,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0042.jpg,16,13,13,13,13,13,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0051.jpg,16,16,16,16,16,16,17,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0053.jpg,16,18,14,13,13,13,15,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0058.jpg,16,13,14,16,16,16,14,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0060.jpg,16,17,14,16,16,16,18,12
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0068.jpg,16,18,14,16,16,16,12,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0072.jpg,16,13,13,16,16,16,12,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0077.jpg,16,14,14,14,14,13,14,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0078.jpg,16,13,13,12,12,12,17,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0086.jpg,16,18,13,16,16,16,12,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0089.jpg,16,13,13,16,16,16,15,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0091.jpg,16,13,13,16,16,16,15,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0097.jpg,16,13,13,16,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0115.jpg,16,18,13,12,16,13,17,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0119.jpg,16,13,13,13,16,13,17,19
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0132.jpg,16,16,14,14,16,12,12,12
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0133.jpg,16,13,13,13,13,13,12,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0140.jpg,16,13,13,13,16,13,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0148.jpg,16,14,16,16,16,12,16,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0149.jpg,16,13,13,16,13,16,12,15
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0151.jpg,16,14,14,14,14,16,15,12
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0155.jpg,16,14,14,13,13,13,15,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0156.jpg,16,13,16,16,16,12,15,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0157.jpg,16,13,14,13,12,13,14,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0158.jpg,16,13,13,12,16,13,18,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0175.jpg,16,18,13,16,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0194.jpg,16,13,16,12,16,12,12,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0208.jpg,16,13,13,16,16,16,12,17
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0217.jpg,16,14,14,13,13,13,17,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0257.jpg,16,14,16,13,16,16,12,13
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0261.jpg,16,13,14,14,16,13,18,16
+tomato_septoria_leaf_spot,tomato,PlantWild,v2,tomato septoria leaf spot/tomato_septoria_leaf_spot_google_0272.jpg,16,14,14,12,16,14,15,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_117.jpg,17,18,13,18,18,18,13,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_125.jpg,17,16,13,18,16,18,17,19
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_132.jpg,17,18,13,18,18,18,18,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_147.jpg,17,16,13,18,16,16,18,14
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_15.jpg,17,14,13,14,19,14,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_152.jpg,17,18,14,14,14,14,18,14
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_154.jpg,17,13,14,18,14,18,15,16
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_173.jpg,17,17,18,14,14,14,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_184.jpg,17,18,14,14,14,14,16,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_19.jpg,17,13,14,18,16,13,18,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_194.jpg,17,13,13,14,16,13,15,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_228.jpg,17,13,14,14,14,13,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_23.jpg,17,18,18,18,16,18,17,18
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_230.jpg,17,16,14,14,14,14,18,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_24.jpg,17,13,14,14,16,13,18,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_249.jpg,17,13,13,18,15,15,18,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_25.jpg,17,13,14,12,16,13,14,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_28.jpg,17,16,14,14,14,14,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_3.jpg,17,18,14,14,16,13,17,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_32.jpg,17,13,14,14,14,14,18,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_33.jpg,17,18,14,14,14,14,18,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_35.jpg,17,16,13,16,16,16,18,19
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_4.jpg,17,16,14,14,14,16,18,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_5.jpg,17,18,14,18,19,14,18,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_55.jpg,17,16,13,16,16,16,17,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0005.jpg,17,17,14,13,16,16,18,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0008.jpg,17,13,18,14,14,18,15,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0009.jpg,17,14,14,18,18,14,14,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0020.jpg,17,16,14,19,19,19,17,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0021.jpg,17,18,14,18,18,18,19,19
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0022.jpg,17,18,14,18,18,18,16,19
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0024.jpg,17,13,14,14,16,13,12,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0031.jpg,17,13,14,13,16,16,17,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0042.jpg,17,13,13,18,16,16,17,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0045.jpg,17,16,14,14,14,14,19,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0049.jpg,17,18,18,18,18,18,18,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0053.jpg,17,16,14,14,14,16,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0063.jpg,17,16,18,18,16,14,18,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0066.jpg,17,16,14,14,16,14,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0070.jpg,17,13,13,18,13,13,17,14
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0073.jpg,17,13,14,14,16,14,19,14
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0077.jpg,17,14,18,14,14,14,19,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0083.jpg,17,14,14,14,14,14,17,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0092.jpg,17,14,14,14,14,14,17,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0093.jpg,17,13,14,18,18,18,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0106.jpg,17,13,13,13,13,13,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0113.jpg,17,17,17,17,17,17,15,12
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0117.jpg,17,13,14,16,16,16,17,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0126.jpg,17,14,14,14,14,14,17,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0131.jpg,17,16,18,17,17,18,17,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0136.jpg,17,14,13,16,16,16,16,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0140.jpg,17,13,14,14,14,14,19,15
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0142.jpg,17,14,15,15,15,16,17,13
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0164.jpg,17,18,14,13,12,12,17,19
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0190.jpg,17,18,17,17,17,18,16,17
+tomato_mosaic_virus,tomato,PlantWild,v2,tomato mosaic virus/tomato_mosaic_virus_google_0204.jpg,17,14,14,18,13,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_10.jpg,18,16,13,16,16,16,17,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_12.jpg,18,13,13,18,14,18,18,12
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_13.jpg,18,16,13,13,13,13,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_15.jpg,18,18,13,14,12,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_151.jpg,18,18,13,18,18,18,18,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_152.jpg,18,16,13,18,16,16,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_162.jpg,18,16,14,18,16,16,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_17.jpg,18,13,13,14,14,13,17,15
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_18.jpg,18,13,13,18,16,16,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_19.jpg,18,16,14,18,16,18,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_2.jpg,18,16,13,16,16,16,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_21.jpg,18,16,14,13,16,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_227.jpg,18,18,18,18,18,18,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_23.jpg,18,13,13,13,13,13,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_24.jpg,18,13,18,14,16,13,17,12
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_25.jpg,18,13,18,14,16,14,18,17
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_27.jpg,18,13,13,18,18,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_28.jpg,18,16,13,16,16,16,18,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_3.jpg,18,16,18,18,16,18,18,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_31.jpg,18,13,14,14,14,13,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_35.jpg,18,16,13,15,16,13,18,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_37.jpg,18,13,18,18,18,18,18,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_44.jpg,18,17,14,16,16,14,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_47.jpg,18,18,18,18,16,18,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_5.jpg,18,14,13,18,18,13,13,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_50.jpg,18,16,14,16,16,16,17,17
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_51.jpg,18,16,14,13,16,13,17,17
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_6.jpg,18,16,13,16,16,16,18,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_64.jpg,18,16,18,18,16,18,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_68.jpg,18,13,13,14,14,14,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_69.jpg,18,13,14,14,16,16,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_7.jpg,18,18,14,14,14,13,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_78.jpg,18,13,13,16,12,13,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_8.jpg,18,18,13,18,16,18,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_9.jpg,18,13,14,13,16,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_99.jpg,18,13,13,13,16,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0000.jpg,18,18,18,18,16,16,18,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0001.jpg,18,16,13,18,16,16,17,15
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0004.jpg,18,13,18,18,18,14,18,16
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0005.jpg,18,13,14,18,14,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0012.jpg,18,16,13,16,16,16,18,15
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0013.jpg,18,13,14,14,16,14,18,12
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0021.jpg,18,14,14,14,14,14,19,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0031.jpg,18,13,14,18,14,14,18,17
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0048.jpg,18,16,13,19,16,16,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0049.jpg,18,13,13,18,18,18,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0053.jpg,18,13,14,14,16,14,18,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0065.jpg,18,18,13,16,16,16,17,12
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0066.jpg,18,16,13,19,19,19,18,12
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0067.jpg,18,13,13,18,18,13,18,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0068.jpg,18,13,18,18,18,18,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0072.jpg,18,13,13,18,16,13,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0074.jpg,18,18,18,18,18,18,18,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0078.jpg,18,13,14,14,14,18,18,17
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0080.jpg,18,13,13,18,18,18,18,17
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0094.jpg,18,13,18,16,16,16,15,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0096.jpg,18,13,14,13,16,13,17,12
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0111.jpg,18,18,13,18,18,18,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0114.jpg,18,18,13,18,16,16,17,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0120.jpg,18,16,14,14,14,13,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0121.jpg,18,18,18,18,18,18,19,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0138.jpg,18,13,13,13,13,13,17,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0139.jpg,18,16,13,16,16,16,18,19
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0150.jpg,18,13,13,18,18,18,18,14
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0151.jpg,18,18,18,18,19,19,19,13
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0162.jpg,18,13,14,14,14,14,18,12
+tomato_yellow_leaf_curl,tomato,PlantWild,v2,tomato yellow leaf curl virus/tomato_yellow_leaf_curl_virus_google_0171.jpg,18,13,13,13,13,13,18,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/1.jpg,19,13,14,13,13,13,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/10.jpg,19,12,14,14,12,12,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/104.jpg,19,13,14,13,13,13,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/106.jpg,19,14,14,13,18,14,18,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/110.jpg,19,13,14,13,16,13,18,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/12.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/13.jpg,19,18,14,18,18,18,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/136.jpg,19,18,13,18,13,13,17,12
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/138.jpg,19,13,13,18,18,18,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/14.jpg,19,14,14,14,14,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/141.jpg,19,13,14,14,14,13,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/143.jpg,19,13,13,18,18,13,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/144.jpg,19,14,13,14,14,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/146.jpg,19,18,14,14,14,14,17,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/147.jpg,19,13,18,18,15,14,15,12
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/148.jpg,19,13,13,16,16,13,18,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/15.jpg,19,16,18,17,17,13,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/151.jpg,19,13,14,14,14,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/16.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/18.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/19.jpg,19,13,14,14,14,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/2.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/20.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/22.jpg,19,13,13,13,13,13,13,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/23.jpg,19,14,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/24.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/25.jpg,19,14,18,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/26.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/28.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/29.jpg,19,14,14,14,16,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/3.jpg,19,13,14,13,13,14,17,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/30.jpg,19,14,13,14,14,14,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/31.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/32.jpg,19,16,14,16,16,13,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/33.jpg,19,13,14,19,14,19,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/34.jpg,19,14,14,16,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/35.jpg,19,14,14,14,16,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/36.jpg,19,14,14,14,14,14,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/37.jpg,19,14,13,14,14,14,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/38.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/39.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/4.jpg,19,18,13,14,14,14,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/40.jpg,19,13,14,14,14,14,18,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/41.jpg,19,14,18,14,16,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/43.jpg,19,14,14,18,18,18,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/44.jpg,19,13,14,14,12,12,17,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/46.jpg,19,18,14,14,14,14,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/48.jpg,19,13,14,14,14,14,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/49.jpg,19,14,14,16,16,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/5.jpg,19,13,14,14,14,14,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/50.jpg,19,14,14,14,16,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/51.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/52.jpg,19,13,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/53.jpg,19,14,14,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/54.jpg,19,14,14,18,18,18,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/55.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/56.jpg,19,18,13,13,13,13,16,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/57.jpg,19,14,14,14,16,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/6.jpg,19,14,18,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/60.jpg,19,14,14,14,16,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/61.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/62.jpg,19,14,18,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/63.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/64.jpg,19,14,18,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/65.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/67.jpg,19,14,18,14,14,14,19,17
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/68.jpg,19,13,13,16,16,13,17,12
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/69.jpg,19,16,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/72.jpg,19,14,14,14,14,13,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/79.jpg,19,14,14,13,14,13,18,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/8.jpg,19,14,18,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/80.jpg,19,18,18,18,18,18,17,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/82.jpg,19,13,14,14,14,14,17,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/85.jpg,19,13,14,14,14,13,17,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/86.jpg,19,13,14,14,14,13,17,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/88.jpg,19,14,14,14,18,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/9.jpg,19,14,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/91.jpg,19,13,13,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/93.jpg,19,13,13,14,14,14,17,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/96.jpg,19,13,14,14,14,13,13,18
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/97.jpg,19,16,14,14,14,14,17,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0000.jpg,19,13,18,18,13,13,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0001.jpg,19,14,14,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0003.jpg,19,14,14,14,14,13,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0004.jpg,19,13,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0005.jpg,19,13,14,18,13,13,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0006.jpg,19,13,13,19,14,19,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0007.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0008.jpg,19,14,14,14,14,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0013.jpg,19,14,14,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0014.jpg,19,13,14,13,14,13,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0021.jpg,19,14,14,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0022.jpg,19,14,14,14,14,14,16,18
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0025.jpg,19,18,14,18,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0029.jpg,19,14,14,14,16,14,19,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0063.jpg,19,14,14,14,14,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0071.jpg,19,13,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0086.jpg,19,18,13,13,13,13,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0105.jpg,19,13,14,18,14,14,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0106.jpg,19,13,18,18,18,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0124.jpg,19,14,14,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0127.jpg,19,13,14,19,19,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0183.jpg,19,14,14,13,13,13,17,12
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0190.jpg,19,14,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0207.jpg,19,13,14,13,14,13,13,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0214.jpg,19,14,14,18,18,18,17,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0215.jpg,19,13,13,16,16,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0230.jpg,19,13,14,13,13,13,17,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0240.jpg,19,14,14,16,16,13,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0258.jpg,19,13,13,14,14,14,13,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0260.jpg,19,14,14,18,14,14,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0262.jpg,19,13,14,16,14,14,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0269.jpg,19,13,14,13,13,13,15,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0290.jpg,19,14,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0297.jpg,19,18,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0307.jpg,19,13,14,13,13,13,13,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0340.jpg,19,13,14,19,19,19,17,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0355.jpg,19,18,14,18,18,18,18,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0364.jpg,19,14,18,16,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0405.jpg,19,14,14,18,18,13,17,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0421.jpg,19,16,14,19,19,17,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0428.jpg,19,13,18,18,13,13,19,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0435.jpg,19,15,14,14,19,14,13,17
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0438.jpg,19,13,13,13,16,13,18,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0448.jpg,19,13,14,14,14,14,17,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0450.jpg,19,14,14,13,14,13,18,18
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0452.jpg,19,18,14,13,16,13,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0461.jpg,19,12,14,13,16,16,14,15
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0471.jpg,19,13,14,14,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0478.jpg,19,18,14,13,14,13,18,18
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0481.jpg,19,14,14,14,14,14,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0490.jpg,19,15,14,14,13,13,16,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0503.jpg,19,13,14,14,14,12,17,18
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0521.jpg,19,14,18,16,14,14,19,13
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0530.jpg,19,13,18,18,18,13,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0542.jpg,19,13,13,18,18,18,18,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0564.jpg,19,13,14,13,13,13,17,14
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0584.jpg,19,14,14,14,14,14,13,12
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0598.jpg,19,14,14,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0629.jpg,19,14,14,14,14,14,19,19
+tomato_healthy,tomato,PlantWild,v1,tomato leaf/google_0635.jpg,19,14,14,14,14,14,19,19
