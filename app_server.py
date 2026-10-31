@@ -66,13 +66,21 @@ ACTIONS = {
     "viral":     "No cure: remove infected plants and control the insect vectors that spread the virus.",
     "healthy":   "No action needed.",
 }
+# Measured on the final test (results/final_test/, R15 = this model), so the officer sees real numbers.
+# Only the words shown to the officer changed after the test; the model and its thresholds did not.
 LIMITATIONS = [
-    "Trained only on laboratory photos (PlantVillage); in-the-wild accuracy is much lower "
-    "(about 0.47 disease macro-F1 on validation photos from the web).",
+    "Trained only on laboratory photos (PlantVillage). On unseen field photos (PlantWild test set) it named the "
+    "right class about half the time (disease macro-F1 0.44); on unseen lab photos, 97% of the time.",
+    "It over-calls disease on field leaves: about half of the healthy leaves in the field test got a disease answer "
+    "(only about 1 in 100 diseased leaves was called healthy). Check for real symptoms before treating.",
+    "Late-blight answers were right only about 1 time in 3 on field test photos (it caught 83% of real late "
+    "blight). Confirm the signs before an urgent spray.",
+    "Virus photos (tomato mosaic, yellow leaf curl) were answered as a fungal disease more than half the time; "
+    "fungicide does not help against a virus.",
     "For photos of a single leaf. Fruit, stems, whole fields and other crops are outside what it was built for.",
     "Corn and potato have no 'healthy' class: for these crops the model always names a disease.",
-    "Probabilities are calibrated on in-the-wild validation photos (temperature scaling), but remain estimates: "
-    "a 60% answer is wrong about 4 times in 10.",
+    "Probabilities are calibrated (temperature scaling on validation photos); on the field test photos the "
+    "average confidence matched the accuracy closely. They remain estimates: a 60% answer is wrong about 4 times in 10.",
     "A decision-support tool: confirm the diagnosis before treating, especially when the top answer is below 50%.",
 ]
 CROP_NAMES = {"apple": "Apple", "bell_pepper": "Bell pepper", "corn": "Corn (maize)", "grape": "Grape",
@@ -174,6 +182,10 @@ async def predict(crop: str = Form(...), file: UploadFile = File(...)):
     elif top - second < LOW_MARGIN:
         warnings.append(f"Uncertain: the top two answers are close ({top:.0%} and {second:.0%}). "
                         "Treat it as a suggestion and confirm before acting.")
+    if results[0]["type"] == "oomycete":
+        warnings.append("Late blight is urgent but often over-called: on field test photos only about 1 in 3 "
+                        "late-blight answers was right. Before spraying, look for its signs: dark, water-soaked "
+                        "patches, often with a pale edge, and white growth on the underside in damp weather.")
     if not any(c.endswith("_healthy") for c in ranked):
         warnings.append(f"The model cannot answer 'healthy' for {crop}: it always names one of the "
                         f"{len(ranked)} diseases, even for a healthy leaf.")
