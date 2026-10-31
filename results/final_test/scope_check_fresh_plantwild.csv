@@ -1,0 +1,4 @@
+warning,AUROC,in-scope kept,wrong crop: missed,"right crop, unknown problem: missed"
+R15 energy (deployed),0.682,0.957,0.836,0.774
+OpenCLIP crop check,0.9,0.939,0.281,0.833
+BioCLIP crop check,0.851,0.959,0.519,0.984
